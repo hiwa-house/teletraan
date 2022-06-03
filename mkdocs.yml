@@ -5,8 +5,8 @@ theme:
     name: material
     custom_dir: overrides
     icon: 
-        logo: material/chef-hat
-    favicon: apple-touch-icon.png
+        logo: material/web
+#    favicon: apple-touch-icon.png
     features:
 #        - navigation.expand
         - navigation.instant

@@ -10,6 +10,8 @@ theme:
     features:
 #        - navigation.expand
         - navigation.instant
+    palette:
+        primary: green
 
 markdown_extensions:
     # Python Markdown

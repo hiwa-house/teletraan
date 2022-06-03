@@ -1,0 +1,31 @@
+site_name: HiWa Cerebro
+#site_url: https://github.com/hiwa-house/cerebro
+
+theme:
+    name: material
+    custom_dir: overrides
+    icon: 
+        logo: material/chef-hat
+    favicon: apple-touch-icon.png
+    features:
+#        - navigation.expand
+        - navigation.instant
+
+markdown_extensions:
+    # Python Markdown
+    - admonition
+    - attr_list
+#    - md_in_html
+    - meta
+    - toc:
+        permalink: true
+
+    # Python Markdown Extensions
+    - pymdownx.details
+    - pymdownx.highlight
+    - pymdownx.magiclink:
+        hide_protocol: true
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        clickable_checkbox: true

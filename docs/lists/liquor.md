@@ -19,5 +19,3 @@ https://rum.reddit.com/comments/lb9y0n/rachels_unofficial_rrum_what_should_i_buy
 ## Irish Whiskey
 
 ## Gin
-
-{{ read_csv("restaurants.csv") }}

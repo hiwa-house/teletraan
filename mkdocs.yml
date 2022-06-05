@@ -4,8 +4,9 @@ site_name: HiWa Teletraan
 theme:
     name: material
     custom_dir: overrides
-    icon: 
-        logo: apple-touch-icon.png
+    icon:
+        logo: material/monitor-dashboard
+#        logo: apple-touch-icon.png
     favicon: apple-touch-icon.png
     features:
 #        - navigation.expand

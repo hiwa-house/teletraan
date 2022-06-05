@@ -1,12 +1,12 @@
-site_name: HiWa Cerebro
-#site_url: https://github.com/hiwa-house/cerebro
+site_name: HiWa Teletraan
+#site_url: https://github.com/hiwa-house/teletraan
 
 theme:
     name: material
     custom_dir: overrides
     icon: 
         logo: material/web
-#    favicon: apple-touch-icon.png
+    favicon: apple-touch-icon.png
     features:
 #        - navigation.expand
         - navigation.instant

@@ -36,4 +36,4 @@ markdown_extensions:
 plugins:
     - search
     - table-reader:
-        data_path: "docs/lists"
+        data_path: "docs"

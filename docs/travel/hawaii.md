@@ -54,4 +54,4 @@ potluck menu?
 * grill
 
 ## Restaurants
-{{ read_csv("hawaii.csv") }}
+{{ read_csv("travel/hawaii.csv") }}

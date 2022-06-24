@@ -38,9 +38,9 @@ Leave to HNL airport by 10:00a (for HA22).
 - [ ] chazuke
 - [ ] bonito
 
-## Menu
-traeger ideas?
-potluck menu?
+## Menu  
+traeger ideas?  
+potluck menu?  
 ---
 * pizza
 * bean soup

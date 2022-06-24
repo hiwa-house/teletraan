@@ -1,6 +1,6 @@
 Leave to HNL airport by 10:00a (for HA22).
 
-## PACKING LIST
+## Packing List
 - [ ] Ds headphones
 - [ ] kitchen knife
 - [ ] thermapen
@@ -28,9 +28,9 @@ Leave to HNL airport by 10:00a (for HA22).
 - [ ] nose spray
 - [ ] lock shed
 
-## OMIYAGE
+## Omiyage
 
-## SHOPPING
+## Shopping
 - [ ] chibi
 - [ ] walk shorts
 - [ ] locals
@@ -38,7 +38,7 @@ Leave to HNL airport by 10:00a (for HA22).
 - [ ] chazuke
 - [ ] bonito
 
-## MENU
+## Menu
 traeger ideas?
 potluck menu?
 ---
@@ -53,5 +53,5 @@ potluck menu?
 * pasta
 * grill
 
-## RESTAURANTS
+## Restaurants
 {{ read_csv("hawaii.csv") }}

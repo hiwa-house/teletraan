@@ -24,3 +24,9 @@
 
 ---
 written by [<a href="https://eos.org/features/indoor-air-pollution-in-the-time-of-coronavirus" target="_blank">Richard J. Sima</a>] for EOS
+
+---  
+  
+## Other Links
+https://cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/interactive-ventilation-tool.html
+https://scientificamerican.com/article/we-need-to-improve-indoor-air-quality-here-rsquo-s-how-and-why/

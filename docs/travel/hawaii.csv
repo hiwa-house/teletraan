@@ -10,8 +10,6 @@ Earl Sandwich,sandwiches,takeout
 Diamond Head Market & Grill,healthy plate lunch,takeout
 Liliha L&L,mochiko chicken,takeout
 Zippy's,chili,takeout
-Shirokiya,bento,takeout
-Arirang BBQ,korean plate lunch,takeout
 Kaimuki Superette,sandwiches,takeout
 Maguro Bros,poke,takeout
 Fresh Catch,poke,takeout
@@ -20,7 +18,6 @@ Nico's,seafood,no-ka-oi
 Helena's Hawaiian Food,"lau lau, pipikaula",no-ka-oi
 Sugoi,plate lunch,no-ka-oi
 Utage,okinawan,no-ka-oi
-Nook,mochi waffles and mochiko chicken,no-ka-oi
 Koko Head Cafe,ohayou eggs,no-ka-oi
 Side Street Inn,izakaya,no-ka-oi
 Honolulu BeerWorks,brewery,beer
@@ -30,21 +27,17 @@ Kona Brewing,pub,beer
 Square Barrels,burgers and beer,beer
 Beer Lab HI,brewery,beer
 Brew'd Craft Pub,pub,beer
-REAL,pub,beer
 Murphy's Bar & Grill,pub,beer
 Waikiki Brewing Co (Kakaako),brewery,beer
 Inu Island Ales,brewery,beer
-Lemona Hawaii,shave ice,to-do
 Uncle Clay's,shave ice,to-do
 Island Vintage Coffee,"shave ice, acai bowls",to-do
 Penny's Malasadas,malasadas,to-do
 Honolulu Kitchen,fried manapua,to-do
 Ahi Assassins,poke,to-do
 Off The Hook,poke,to-do
-Monkey Mike's Shrimp & Chicken Shack,shrimp,to-do
 Guava Smoked,smoked meat plate lunch,to-do
 Island Style BBQ,plate lunch,to-do
-Da Kitchen,plate lunch,to-do
 Rainbow Drive-In,loco moco,to-do
 Tasty Korean BBQ 3 (Kaneohe),meat jun,to-do
 Irifune,garlic ahi,to-do
@@ -60,3 +53,19 @@ Chart House,bloody mary,to-do
 U Kitchen,bento plate lunch,to-do
 Chun Wah Kam,ginger chicken fried rice,to-do
 Fête,james beard farm-to-table cocktail bar,to-do
+‘Ili‘ili Cash & Carry,"pizza, sammies, italian deli",to-do
+Yakiniku Korea House,kbbq,to-do
+Gen Korean BBQ House,kbbq,to-do
+Maile’s Thai Bistro,thai,to-do
+Katsumidori Sushi Tokyo,sushi,to-do
+Yanagi Sushi,sushi,to-do
+Izakaya Nonbei,izakaya,to-do
+Izakaya Naru,izakaya,to-do
+Izakaya Torae Torae,izakaya,to-do
+Jade Dynasty Seafood Restaurant,dim sum,to-do
+Herringbone Waikīkī,"seafood, lanai",to-do
+Osoyami Bar & Grill,dive bar,to-do
+Hau Tree,brunch,to-do
+Queensbreak,"bar, lanai",to-do
+Mad Bene,"pizza, lanai",to-do
+Kapa Hale,"modern hawaiian, lanai",to-do

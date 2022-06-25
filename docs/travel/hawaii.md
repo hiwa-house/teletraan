@@ -1,5 +1,3 @@
-Leave to HNL airport by 10:00a (for HA22).
-
 ## Packing List
 - [ ] Ds headphones
 - [ ] kitchen knife
@@ -28,15 +26,42 @@ Leave to HNL airport by 10:00a (for HA22).
 - [ ] nose spray
 - [ ] lock shed
 
-## Omiyage
-
 ## Shopping
+- [ ] Home Depot
+	* box fan
+	* 20x20 MERV13 filters
+	* painter's tape
+- [ ] Other Realms
+	* comics for Ben/Isabelle
+---
 - [ ] chibi
 - [ ] walk shorts
 - [ ] locals
 - [ ] t-shirts
 - [ ] chazuke
 - [ ] bonito
+
+## Adventures
+* Turtle beach
+* Mangoes
+* Makua beach (dolphins)
+* Lighthouse hike
+* Manoa falls
+* Waimea
+* Shark's cove
+* Old Pali
+* Wa'ahila ridge
+* East-West center
+* Spitting caves
+* Sea Life park
+* Aulani
+* Aquarium
+* Friendship Garden
+
+## Notes
+Leave to HNL airport by 10:00a (for HA22).  
+
+## Omiyage
 
 ## Menu  
 traeger ideas?  
@@ -54,4 +79,10 @@ potluck menu?
 * grill
 
 ## Restaurants
+**Outdoor Dining**
+https://honolulumagazine.com/where-to-find-outdoor-dining-in-kaimuki-and-kahala/  
+https://honolulumagazine.com/where-to-find-outdoor-dining-in-waikiki-kapahulu-and-monsarrat/  
+https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-mccully/  
+
+---
 {{ read_csv("travel/hawaii.csv") }}

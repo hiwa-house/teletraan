@@ -1,29 +1,57 @@
 ## Packing List
-- [ ] Ds headphones
-- [ ] kitchen knife
-- [ ] thermapen
+- [ ] omiyage, beer
 - [ ] cash
-- [ ] airplane masks
-- [ ] tea strainer
-- [ ] trimmer
-- [ ] USPS
-- [ ] kefir/sourdough
-- [ ] CO2 meter
+- [X] gift cards
+- [X] CO2 meter
+- [ ] kindle
+- [X] dongles/cables
 - [ ] phone car mount
-- [ ] duffel bag
-- [ ] gram scale
+- [X] truck USB charger
+- [X] bluetooth speaker
+- [X] Ds headphones
+- [ ] download movies
+---
 - [ ] insurance card
+- [ ] airplane masks
+- [ ] sleep mask
+- [ ] toiletries
+- [X] covid tests
+- [ ] nose spray
+- [ ] vitamins
 - [ ] shampoo brush
 - [ ] foot scrubber
-- [ ] gift cards
-- [ ] kindle
-- [ ] hiking shoes
-- [ ] truck USB charger
-- [ ] covid tests
-- [ ] hide bikes
+- [ ] grooming scissors/tweezer
 - [ ] toothbrush/charger
-- [ ] turn off washer water/signage
-- [ ] nose spray
+- [ ] trimmer
+- [ ] shaving kit
+---
+- [ ] sourdough
+- [ ] kitchen knife
+- [ ] water bottles
+- [ ] thermapen
+- [ ] gram scale
+- [ ] tea strainer
+- [ ] green tea
+---
+- [ ] sun hat
+- [ ] sunglasses for all
+- [ ] cloth mask for D
+- [ ] rain jacket for D
+- [ ] hiking shoes
+- [ ] underwear, ?
+- [ ] t-shirts, ?
+- [ ] shorts, ?
+- [ ] boardshorts, ?
+- [ ] rash guard, x1
+- [ ] aloha shirt, x1
+- [ ] thin hoodie, x1
+- [ ] sleep shorts, x1
+- [ ] low socks, x1
+- [ ] belt
+---
+- [ ] USPS freeze
+- [ ] secure bikes
+- [ ] turn off washer water/hang signage
 - [ ] lock shed
 
 ## Shopping
@@ -33,6 +61,8 @@
 	* painter's tape
 - [ ] Other Realms
 	* comics for Ben/Isabelle
+- [ ] Nature Camp
+	* water shoes
 ---
 - [ ] chibi
 - [ ] walk shorts

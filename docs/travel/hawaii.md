@@ -3,7 +3,7 @@
 - [ ] cash
 - [X] gift cards
 - [X] CO2 meter
-- [ ] kindle
+- [X] kindle
 - [X] dongles/cables
 - [ ] phone car mount
 - [X] truck USB charger
@@ -11,15 +11,16 @@
 - [X] Ds headphones
 - [ ] download movies
 ---
-- [ ] insurance card
-- [ ] airplane masks
+- [X] insurance card
+- [X] airplane masks
+- [X] normal masks
 - [ ] sleep mask
 - [ ] toiletries
 - [X] covid tests
 - [ ] nose spray
 - [ ] vitamins
 - [ ] shampoo brush
-- [ ] foot scrubber
+- [X] foot scrubber
 - [ ] grooming scissors/tweezer
 - [ ] toothbrush/charger
 - [ ] trimmer
@@ -33,10 +34,7 @@
 - [ ] tea strainer
 - [ ] green tea
 ---
-- [ ] sun hat
-- [ ] sunglasses for all
-- [ ] cloth mask for D
-- [ ] rain jacket for D
+- [ ] sunglasses (all)
 - [ ] hiking shoes
 - [ ] underwear, ?
 - [ ] t-shirts, ?
@@ -49,10 +47,22 @@
 - [ ] low socks, x1
 - [ ] belt
 ---
+* Nature Camp
+	- [X] sun hat
+	- [X] rain jacket
+	- [ ] light long sleeves/pants
+	- [ ] lunch bag
+	- [ ] water bottle (1l)
+	- [ ] change of clothes/towel
+	- [ ] closed-toe shoes (water)
+	- [X] sunscreen
+	- [X] masks (x2)
+---
 - [ ] USPS freeze
 - [ ] secure bikes
-- [ ] turn off washer water/hang signage
+- [ ] turn off washer water/hang reminder sign
 - [ ] lock shed
+- [ ] security timer light
 
 ## Shopping
 - [ ] Home Depot

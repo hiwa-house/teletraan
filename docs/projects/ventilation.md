@@ -28,6 +28,7 @@ written by [<a href="https://eos.org/features/indoor-air-pollution-in-the-time-o
 ---  
   
 ## Other Links
-https://cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/interactive-ventilation-tool.html  
 https://scientificamerican.com/article/we-need-to-improve-indoor-air-quality-here-rsquo-s-how-and-why/  
 https://sciencedirect.com/science/article/pii/S0048969722029813  
+https://forhealth.org/tools/co2-calculator/  
+https://cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/interactive-ventilation-tool.html  

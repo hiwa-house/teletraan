@@ -1,68 +1,13 @@
-## Packing List
-- [ ] omiyage, beer
-- [ ] cash
-- [X] gift cards
-- [X] CO2 meter
-- [X] kindle
-- [X] dongles/cables
-- [ ] phone car mount
-- [X] truck USB charger
-- [X] bluetooth speaker
-- [X] Ds headphones
-- [ ] download movies
----
-- [X] insurance card
-- [X] airplane masks
-- [X] normal masks
-- [ ] sleep mask
-- [ ] toiletries
-- [X] covid tests
-- [ ] nose spray
-- [ ] vitamins
-- [ ] shampoo brush
-- [X] foot scrubber
-- [ ] grooming scissors/tweezer
-- [ ] toothbrush/charger
-- [ ] trimmer
-- [ ] shaving kit
----
-- [ ] sourdough
-- [ ] kitchen knife
-- [ ] water bottles
-- [ ] thermapen
-- [ ] gram scale
-- [ ] tea strainer
-- [ ] green tea
----
-- [ ] sunglasses (all)
-- [ ] hiking shoes
-- [ ] underwear, ?
-- [ ] t-shirts, ?
-- [ ] shorts, ?
-- [ ] boardshorts, ?
-- [ ] rash guard, x1
-- [ ] aloha shirt, x1
-- [ ] thin hoodie, x1
-- [ ] sleep shorts, x1
-- [ ] low socks, x1
-- [ ] belt
----
-* Nature Camp
-	- [X] sun hat
-	- [X] rain jacket
-	- [ ] light long sleeves/pants
-	- [ ] lunch bag
-	- [ ] water bottle (1l)
-	- [ ] change of clothes/towel
-	- [ ] closed-toe shoes (water)
-	- [X] sunscreen
-	- [X] masks (x2)
----
-- [ ] USPS freeze
-- [ ] secure bikes
-- [ ] turn off washer water/hang reminder sign
-- [ ] lock shed
-- [ ] security timer light
+## Nature Camp
+- [X] sun hat
+- [X] rain jacket
+- [ ] light long sleeves/pants
+- [X] lunch bag
+- [X] water bottle (1l)
+- [ ] change of clothes/towel
+- [ ] closed-toe shoes (water)
+- [X] sunscreen
+- [X] masks (x2)
 
 ## Shopping
 - [ ] Home Depot
@@ -80,6 +25,7 @@
 - [ ] t-shirts
 - [ ] chazuke
 - [ ] bonito
+- [ ] boxers
 
 ## Adventures
 * Turtle beach
@@ -126,3 +72,60 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 
 ---
 {{ read_csv("travel/hawaii.csv") }}
+
+---
+## Packing List
+- [X] omiyage, beer
+- [X] cash
+- [X] gift cards
+- [X] CO2 meter
+- [X] kindle
+- [X] dongles/cables
+- [X] phone car mount
+- [X] truck USB charger
+- [X] bluetooth speaker
+- [X] Ds headphones
+- [X] download movies
+---
+- [X] insurance card
+- [X] airplane masks
+- [X] normal masks
+- [X] sleep mask
+- [X] toiletries
+- [X] covid tests
+- [X] nose spray
+- [X] vitamins
+- [X] shampoo brush
+- [X] foot scrubber
+- [X] grooming scissors/tweezer
+- [X] toothbrush/charger
+- [X] trimmer
+- [X] shaving kit
+---
+- [X] sourdough/kefir
+- [X] kitchen knife
+- [X] tea pint
+- [X] thermapen
+- [X] gram scale
+- [X] tea strainer
+- [X] green tea
+---
+- [X] sunglasses (all)
+- [X] hiking shoes
+- [X] underwear, x5
+- [X] t-shirts, x12
+- [X] shorts, x3
+- [X] boardshorts, x1
+- [X] rash guard, x1
+- [X] aloha shirt, x1
+- [X] thin hoodie, x1
+- [X] sleep shorts, x1
+- [X] low socks, x1
+- [X] belt
+- [X] ball cap
+---
+- [ ] USPS freeze
+- [ ] secure bikes
+- [ ] turn off washer water/hang reminder sign
+- [ ] lock shed
+- [ ] security timer light

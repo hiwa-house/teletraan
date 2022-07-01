@@ -10,13 +10,6 @@
 - [X] masks (x2)
 
 ## Shopping
-- [ ] chibi
-- [ ] walk shorts
-- [ ] locals
-- [ ] t-shirts
-- [ ] chazuke
-- [ ] bonito
-- [ ] boxers
 
 ## Adventures
 * Turtle beach

@@ -10,15 +10,6 @@
 - [X] masks (x2)
 
 ## Shopping
-- [ ] Home Depot
-	* box fan
-	* 20x20 MERV13 filters
-	* painter's tape
-- [ ] Other Realms
-	* comics for Ben/Isabelle
-- [ ] Nature Camp
-	* water shoes
----
 - [ ] chibi
 - [ ] walk shorts
 - [ ] locals
@@ -65,7 +56,7 @@ potluck menu?
 * grill
 
 ## Restaurants
-**Outdoor Dining**
+**Outdoor Dining**  
 https://honolulumagazine.com/where-to-find-outdoor-dining-in-kaimuki-and-kahala/  
 https://honolulumagazine.com/where-to-find-outdoor-dining-in-waikiki-kapahulu-and-monsarrat/  
 https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-mccully/  

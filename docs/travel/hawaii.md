@@ -1,13 +1,20 @@
 ## Nature Camp
-- [X] sun hat
-- [X] rain jacket
+- [ ] water shoes
 - [ ] light long sleeves/pants
-- [X] lunch bag
-- [X] water bottle (1l)
+- [ ] water bottle (1l)
+- [ ] lunch bag
+    - [ ] PBJ wrap
+    - [ ] fruit (pineapple, berries)
+    - [ ] string cheese
+    - [ ] yogurt packet
+    - [ ] graham cracker
+    - [ ] goldfish
+    - [ ] treat
+- [ ] masks (x2)
+- [ ] sun hat
+- [ ] rain jacket
 - [ ] change of clothes/towel
-- [ ] closed-toe shoes (water)
-- [X] sunscreen
-- [X] masks (x2)
+- [ ] sunscreen
 
 ## Shopping
 
@@ -36,17 +43,6 @@ Leave to HNL airport by 10:00a (for HA22).
 ## Menu  
 traeger ideas?  
 potluck menu?  
----
-* pizza
-* bean soup
-* tacos
-* thai curry
-* french toast
-* salmon bowl
-* mac/cheese
-* katsudon
-* pasta
-* grill
 
 ## Restaurants
 **Outdoor Dining**  

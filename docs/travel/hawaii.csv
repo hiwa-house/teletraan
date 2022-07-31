@@ -1,68 +1,67 @@
 ﻿Place,Hood,Food,Category
-Royal Kitchen,Chinatown,manapua,snack
-Liliha Bakery,Liliha,"coco puffs, poi mochi donut",snack
-Ted's Bakery,North Shore,pie!,snack
-Leonard's Bakery,Town,malasadas,snack
-Waiola Shave Ice,Town,shave ice,snack
-Uncle Clay's,Aina Haina,shave ice,snack
-Monarch Seafood,Kalihi,seafood plate lunch,takeout
-Best Drive-In,Kalihi,korean plate lunch,takeout
-Earl Sandwich,Kakaako,sandwiches,takeout
-Diamond Head Market & Grill,Town,healthy plate lunch,takeout
-Liliha L&L,Liliha,mochiko chicken,takeout
-Zippy's,multiple,chili,takeout
-Kaimuki Superette,Town,sandwiches,takeout
-Maguro Bros,Chinatown,poke,takeout
-Pioneer Saloon,Town,japanese plate lunch,no-ka-oi
-Nico's,Kalihi,seafood,no-ka-oi
 Helena's Hawaiian Food,Kalihi,"lau lau, pipikaula",no-ka-oi
+Nico's,Kalihi,seafood,no-ka-oi
 Sugoi,Kalihi,plate lunch,no-ka-oi
 Utage,Kalihi,okinawan,no-ka-oi
-Koko Head Cafe,Town,ohayou eggs,no-ka-oi
-Side Street Inn,Town,izakaya,no-ka-oi
+Pioneer Saloon,Kapahulu,japanese plate lunch,no-ka-oi
+Off The Hook,Manoa,poke,no-ka-oi
+Uncle Clay's,Aina Haina,shave ice,snack
+Royal Kitchen,Chinatown,manapua,snack
+Leonard's Bakery,Kapahulu,malasadas,snack
+Waiola Shave Ice,Kapahulu,shave ice,snack
+Liliha Bakery,Liliha,"coco puffs, mochi donut",snack
+Ted's Bakery,North Shore,pie,snack
+EARL Sandwich,Kaimuki,sandwiches,takeout
+Kaimuki Superette,Kaimuki,sandwiches,takeout
+Best Drive-In,Kalihi,korean plate lunch,takeout
+Monarch Seafood,Kalihi,seafood plate lunch,takeout
+Diamond Head Market & Grill,Kapahulu,healthy plate lunch,takeout
+L&L,Liliha,mochiko chicken,takeout
+Zippy's,multiple,chili,takeout
+Koko Head Cafe,Kaimuki,brunch,restaurant
+Side Street Inn,Kapahulu,bar food,restaurant
+Murphy's Bar & Grill,Downtown,pub,beer
+Square Barrels,Downtown,burgers and beer,beer
+Kona Brewing,Hawaii Kai,pub,beer
+Lanikai Brewing Co,Kailua,brewery,beer
+Brew'd Craft Pub,Kaimuki,pub,beer
 Honolulu BeerWorks,Kakaako,brewery,beer
 Village Bottleshop,Kakaako,beer,beer
-Tamura's Fine Wine & Liquors,Town,bottleshop,beer
-Kona Brewing,Hawaii Kai,pub,beer
-Square Barrels,Town,burgers and beer,beer
-Beer Lab HI,Town,brewery,beer
-Brew'd Craft Pub,Town,pub,beer
-Murphy's Bar & Grill,Town,pub,beer
 Waikiki Brewing Co,Kakaako,brewery,beer
 Inu Island Ales,Kaneohe,brewery,beer
-Island Vintage Coffee,multiple,"shave ice, acai bowls",to-do
-Penny's Malasadas,?,malasadas,to-do
-Ahi Assassins,?,poke,to-do
-Off The Hook,Manoa,poke,to-do
-Guava Smoked,?,smoked meat plate lunch,to-do
-Island Style BBQ,?,plate lunch,to-do
-Rainbow Drive-In,Town,loco moco,to-do
-Tasty Korean BBQ 3,Kaneohe,meat jun,to-do
-Irifune,Chinatown,garlic ahi,to-do
-Ethel's Grill,?,local diner,to-do
-Taipan,?,dim sum,to-do
-Piggy Smalls,Chinatown,brunch,to-do
-Tim Ho Wan,Waikiki,fancy dim sum,to-do
-Paradise Ciders,?,cider,to-do
-Lanikai Brewing Co,Kailua,brewery,to-do
-La Mariana Sailing Club,Kalihi,tiki,to-do
-Chart House,Waikiki,bloody mary,to-do
-U Kitchen,?,bento plate lunch,to-do
-Chun Wah Kam,Chinatown,ginger chicken fried rice,to-do
-Fête,Chinatown,james beard farm-to-table cocktail bar,to-do
-‘Ili‘ili Cash & Carry,?,"pizza, sammies, italian deli",to-do
-Yakiniku Korea House,?,kbbq,to-do
-Gen Korean BBQ House,?,kbbq,to-do
-Maile’s Thai Bistro,?,thai,to-do
-Katsumidori Sushi Tokyo,?,sushi,to-do
-Yanagi Sushi,Town,sushi,to-do
-Izakaya Nonbei,?,izakaya,to-do
-Izakaya Naru,?,izakaya,to-do
-Izakaya Torae Torae,?,izakaya,to-do
-Jade Dynasty Seafood Restaurant,Ala Moana,dim sum,to-do
-Herringbone,Waikīkī,"seafood, lanai",to-do
-Osoyami Bar & Grill,?,dive bar,to-do
-Hau Tree,Waikīkī,brunch,to-do
-Queensbreak,Waikīkī,"bar, lanai",to-do
-Mad Bene,Kapolei,"pizza, lanai",to-do
-Kapa Hale,Town,"modern hawaiian, lanai",to-do
+Beer Lab HI,Mo'ili'ili,brewery,beer
+Tamura's Fine Wine & Liquors,multiple,bottleshop,beer
+Hana Koa Brewing,Ward,brewery,beer
+Island Vintage Coffee,multiple,"shave ice, acai bowls",TO-DO
+Penny's Malasadas,Waikiki,malasadas,TO-DO
+Kapa Hale,Kahala,"modern hawaiian, lanai",TO-DO
+Mad Bene,Kapolei,"pizza, lanai",TO-DO
+Hau Tree,Waikīkī,"brunch, lanai",TO-DO
+Herringbone,Waikīkī,"seafood, lanai",TO-DO
+Queensbreak,Waikīkī,"bar, lanai",TO-DO
+Piggy Smalls,Chinatown,brunch,TO-DO
+Irifune,Downtown,garlic ahi,TO-DO
+Ethel's Grill,Kalihi,local diner,TO-DO
+Island Style BBQ,Kalihi,plate lunch,TO-DO
+U Kitchen,Kalihi,bento plate lunch,TO-DO
+Tasty Korean BBQ 3,Kaneohe,meat jun,TO-DO
+Rainbow Drive-In,Kapahulu,loco moco,TO-DO
+‘Ili‘ili Cash & Carry,Mo'ili'ili,"pizza, sammies, italian deli",TO-DO
+Guava Smoked,multiple,smoked meat plate lunch,TO-DO
+Jade Dynasty Seafood Restaurant,Ala Moana,dim sum,TO-DO
+Taipan,Chinatown,dim sum,TO-DO
+Tim Ho Wan,Waikiki,fancy dim sum,TO-DO
+La Mariana Sailing Club,Kalihi,tiki,TO-DO
+Chart House,Waikiki,bloody mary,TO-DO
+Fête,Chinatown,cocktail bar,TO-DO
+Chun Wah Kam,Chinatown,ginger chicken fried rice,TO-DO
+Yanagi Sushi,Kakaako,sushi,TO-DO
+Gen Korean BBQ House,?,kbbq,TO-DO
+Izakaya Naru,?,izakaya,TO-DO
+Izakaya Nonbei,?,izakaya,TO-DO
+Izakaya Torae Torae,?,izakaya,TO-DO
+Katsumidori Sushi Tokyo,?,sushi,TO-DO
+Maile’s Thai Bistro,?,thai,TO-DO
+Osoyami Bar & Grill,?,dive bar,TO-DO
+Paradise Ciders,?,cider,TO-DO
+Yakiniku Korea House,?,kbbq,TO-DO

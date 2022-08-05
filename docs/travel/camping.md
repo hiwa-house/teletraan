@@ -48,3 +48,17 @@
 
 ---
 https://linkslist.app/qAzXFhr
+
+## Camp Menu Ideas
+* korean nachos
+* pasta
+* onion burgers
+* paella
+* tacos
+* quesadilla
+* soup
+* fried rice
+* pizza
+
+## Packing List
+{{ read_csv("travel/camping.csv") }}

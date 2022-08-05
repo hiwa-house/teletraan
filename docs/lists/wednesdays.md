@@ -2,6 +2,7 @@
 - [ ] Biking
 - [ ] Micro-meteorites
 - [ ] Kayaks
+- [ ] Signal crayfishing
 
 ## Hiking
 - [ ] [Red Town](https://wta.org/go-hiking/hikes/redtown-meadow)

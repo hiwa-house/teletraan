@@ -49,7 +49,7 @@
 ---
 https://linkslist.app/qAzXFhr
 
-## Camp Menu Ideas
+## Menu Ideas
 * korean nachos
 * pasta
 * onion burgers
@@ -59,6 +59,11 @@ https://linkslist.app/qAzXFhr
 * soup
 * fried rice
 * pizza
+
+## Prep Tasks
+- [ ] Charge batteries
+- [ ] Chill coolers
+- [ ] Buy ice
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

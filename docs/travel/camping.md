@@ -59,11 +59,18 @@ https://linkslist.app/qAzXFhr
 * soup
 * fried rice
 * pizza
+* stone soup
 
 ## Prep Tasks
+- [ ] Restock ziplock bags
+- [ ] Restock rubbish bags
 - [ ] Charge batteries
-- [ ] Chill coolers
+- [ ] Pre-chill cooler
 - [ ] Buy ice
+
+- [ ] Nails (for hanging rubbish bag)
+- [ ] Rubbing alcohol
+- [ ] Lodge enameled dutch oven? (for corn, etc)
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

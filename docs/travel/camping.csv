@@ -1,11 +1,11 @@
 ﻿Staged,Packed,Section,Item,Notes
 N,,1. Camp Box,Fire poker,https://smile.amazon.com/gp/product/B018SO115C
-N,,1. Camp Box,Pitcher/utensil holder,
 N,,1. Camp Box,"Silicone tubing, 6'",
+X,,1. Camp Box,Pitcher/utensil holder,
 X,X,1. Camp Box,Blue paper towels,
 X,X,1. Camp Box,Bottle opener,
 X,X,1. Camp Box,Camp plates,
-X,X,1. Camp Box,"Cast iron skillet, 12""",
+,,1. Camp Box,"Cast iron skillet, 12""",
 X,X,1. Camp Box,Clothsline (paracord),
 X,X,1. Camp Box,Cooking chopsticks,
 X,X,1. Camp Box,Dish rack,
@@ -31,96 +31,94 @@ X,X,1. Camp Box,"Tongs, large",
 X,X,1. Camp Box,Trash bags,
 X,X,1. Camp Box,Turner,
 X,X,1. Camp Box,Water filter/tablets,
-X,X,1. Camp Box,Water pump,Recharge batteries
-X,X,1. Camp Box,Ziploc bags (sandwich / 1gal),
-X,X,2. Pack Box,"AAA/AA Batteries, x6/x4",
-X,X,2. Pack Box,Axe,
-X,X,2. Pack Box,Baby wipes,
-X,X,2. Pack Box,Binoculars,
-X,X,2. Pack Box,Bluetooth speaker,
-X,X,2. Pack Box,Camp towels,
-X,X,2. Pack Box,Folding saw,
-X,X,2. Pack Box,Hand broom / dustpan,
-X,X,2. Pack Box,Headlamps,
-X,X,2. Pack Box,Mosquito repeller,
-X,X,2. Pack Box,Multi-tool,
-X,X,2. Pack Box,Small LED lantern,
-X,X,2. Pack Box,Spring clamps,
-X,X,2. Pack Box,Sunglasses,
-X,X,2. Pack Box,Sunscreen,
-X,X,2. Pack Box,Tarps,https://www.harborfreight.com/11-ft-4-inch-x-11-ft-6-inch-all-purpose-weather-resistant-tarpaulin-7431.html
-X,X,2. Pack Box,Welding gloves,
-X,X,2. Pack Box,Games/toys,
+,,1. Camp Box,Water pump,Recharge batteries
+,,1. Camp Box,Ziploc bags (sandwich / 1gal),
+X,,2. Pack Box,"AAA/AA Batteries, x6/x4",
+X,,2. Pack Box,Axe,
+X,,2. Pack Box,Baby wipes,
+X,,2. Pack Box,Binoculars,
+,,2. Pack Box,Bluetooth speaker,
+X,,2. Pack Box,Camp towels,
+X,,2. Pack Box,Folding saw,
+X,,2. Pack Box,Hand broom / dustpan,
+,,2. Pack Box,Headlamps,
+,,2. Pack Box,Mosquito repeller,
+X,,2. Pack Box,Multi-tool,
+,,2. Pack Box,Painter's tape,
+,,2. Pack Box,Propane bottle,
+,,2. Pack Box,Skillet lid,
+X,,2. Pack Box,Small LED lantern,
+X,,2. Pack Box,Spring clamps,
+X,,2. Pack Box,Sunglasses,
+,,2. Pack Box,Sunscreen,
+X,,2. Pack Box,Tarps,https://www.harborfreight.com/11-ft-4-inch-x-11-ft-6-inch-all-purpose-weather-resistant-tarpaulin-7431.html
+X,,2. Pack Box,Welding gloves,
+,,2. Pack Box,Games/toys,
 ,,2. Pack Box,Fishing tackle,
-N,,3. Campsite,Propane distribution tree,
-X,X,3. Campsite,Bucket,
-X,X,3. Campsite,Camp chairs,
-X,X,3. Campsite,Kindling (cedar shims),
-X,X,3. Campsite,Propane,
-X,X,3. Campsite,Sleeping bags,
-X,X,3. Campsite,Sleeping pad,
-X,X,3. Campsite,Tent,
-X,X,3. Campsite,Day pack,
-X,X,3. Campsite,Pillows,
-X,X,3. Campsite,Slippers,
-X,X,3. Campsite,Toiletry kit,
+,,3. Campsite,Bucket,
+X,,3. Campsite,Camp chairs,
+,,3. Campsite,Kindling (cedar shims),
+,,3. Campsite,Propane tank,
+X,,3. Campsite,Sleeping bags,
+X,,3. Campsite,Sleeping pad,
+X,,3. Campsite,Tent,
+,,3. Campsite,Day pack,
+,,3. Campsite,Good-to-Go pass,
+,,3. Campsite,Pillows,
+,,3. Campsite,Slippers,
+,,3. Campsite,Tire inflator,
+,,3. Campsite,Toiletry kit,
 ,,3. Campsite,Bike/Scooter + helmet,
 ,,3. Campsite,Fishing pole,
-N,,4. Kitchen,Dutch oven,https://www.walmart.com/ip/Ozark-Trail-5-Quart-Cast-Iron-Dutch-Oven-with-Handle/55208717
-X,X,4. Kitchen,Camp stove,
-X,X,4. Kitchen,Cooler,
-X,X,4. Kitchen,Griddle,
-X,X,4. Kitchen,Marshmallow sticks,
-X,X,4. Kitchen,Water jug,
-X,X,4. Kitchen,Water bottles,
-X,X,5. Food Box,coffee,drinks
-X,X,5. Food Box,green tea,drinks
-X,X,5. Food Box,bourbon,drinks
-X,X,5. Food Box,cherries,fruit
-X,X,5. Food Box,cherry tomatoes,veggies
-X,X,5. Food Box,bulgogi sauce,nachos
-X,X,5. Food Box,sesame oil,nachos
-X,X,5. Food Box,salsa,quesadilla
-X,X,5. Food Box,tortillas,quesadilla
-X,X,5. Food Box,graham cracker,smores
-X,X,5. Food Box,marshmallow,smores
-X,X,5. Food Box,crackers,snacks
-X,X,5. Food Box,crunchy snacks,snacks
-X,X,5. Food Box,fruit snacks,snacks
-X,X,5. Food Box,Cooking oil,
-X,X,5. Food Box,Coozie,
-X,X,5. Food Box,Dish towels,
-X,X,5. Food Box,Hand sanitizer,
-X,X,5. Food Box,Hot sauce/Ketchup/Mayo,
-X,X,5. Food Box,Kitchen knife,
-X,X,5. Food Box,Paper towels,
-X,X,5. Food Box,Salt / pepper,
-X,X,5. Food Box,Steel pint glasses & mugs,
-X,X,5. Food Box,Can opener,
-X,X,5. Food Box,Cutting board,
-X,X,6. Cooler,portuguese sausage,breakfast
-X,X,6. Cooler,bag ice,drinks
-X,X,6. Cooler,beer,drinks
-X,X,6. Cooler,milk,drinks
-X,X,6. Cooler,prosecco,drinks
-X,X,6. Cooler,berries,fruit
-X,X,6. Cooler,brats,hot dogs
-X,X,6. Cooler,eggs,nachos
-X,X,6. Cooler,kimchi,nachos
-X,X,6. Cooler,pork,nachos
-X,X,6. Cooler,ribeye,nachos
-X,X,6. Cooler,sour cream,nachos
-X,X,6. Cooler,crema,quesadilla
-X,X,6. Cooler,guacamole,quesadilla
-X,X,6. Cooler,shredded cheese,quesadilla
-X,X,6. Cooler,sweet onion,quesadilla
-X,X,6. Cooler,cornichons,snacks
-X,X,6. Cooler,green goddess,snacks
-X,X,6. Cooler,salami,snacks
-X,X,6. Cooler,carrots,veggies
-X,X,6. Cooler,Block ice,
-X,X,6. Cooler,Egg crate,
-,,6. Cooler,green onion,nachos
-,,6. Cooler,cilantro,quesadilla
-,,6. Cooler,broccoli,veggies
+N,,4. Kitchen,Dutch oven,
+X,,4. Kitchen,Camp stove,
+,,4. Kitchen,Cooler,
+,,4. Kitchen,Griddle,
+X,,4. Kitchen,Marshmallow sticks,
+,,4. Kitchen,Water jug,
+,,4. Kitchen,Water bottles,
+,,6. Cooler,bag ice,drinks
+,,6. Cooler,beer,drinks
+,,5. Food Box,bourbon,drinks
+,,5. Food Box,coffee,drinks
+,,5. Food Box,green tea,drinks
+,,6. Cooler,milk,drinks
+,,6. Cooler,cherries,lunch
+,,6. Cooler,berries,lunch
+,,5. Food Box,cherry tomatoes,lunch
+,,6. Cooler,cornichons,lunch
+,,5. Food Box,crackers,lunch
+,,6. Cooler,salami,lunch
+,,6. Cooler,Beecher's,lunch
+,,6. Cooler,Blue cheese,lunch
+,,6. Cooler,carrots,lunch
+,,6. Cooler,green goddess,lunch
+,,6. Cooler,crema,quesadilla
+,,6. Cooler,guacamole,quesadilla
+,,5. Food Box,salsa,quesadilla
+,,6. Cooler,shredded cheese,quesadilla
+,,5. Food Box,tortillas,quesadilla
+,,5. Food Box,crunchy snacks,snacks
 ,,6. Cooler,corn,veggies
+,,6. Cooler,Block ice,
+,,5. Food Box,Can opener,
+,,5. Food Box,Cooking oil,
+,,5. Food Box,Coozie,
+,,5. Food Box,Cutting board,
+,,5. Food Box,Dish towels,
+,,6. Cooler,Egg crate,
+,,5. Food Box,Hand sanitizer,
+,,5. Food Box,Hot sauce/Ketchup/Mayo,hot dogs
+,,5. Food Box,Kitchen knife,
+,,5. Food Box,Paper towels,
+,,5. Food Box,Salt / pepper,
+,,5. Food Box,Steel pint glasses & mugs,
+,,6. Cooler,Hot dogs,hot dogs
+,,5. Food Box,Buns,hot dogs
+,,6. Cooler,Corn on the cob,hot dogs
+,,6. Cooler,Chili,hot dogs
+,,6. Cooler,Sauerkraut,hot dogs
+,,5. Food Box,Sweet onion,hot dogs
+,,6. Cooler,Cream cheese,hot dogs
+,,6. Cooler,Miso sauce,hot dogs
+,,6. Cooler,Butter,hot dogs

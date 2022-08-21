@@ -65,12 +65,20 @@ https://linkslist.app/qAzXFhr
 - [ ] Restock ziplock bags
 - [ ] Restock rubbish bags
 - [ ] Charge batteries
+- [ ] Stage music downloads
+- [ ] Bag ice cubes
 - [ ] Pre-chill cooler
 - [ ] Buy ice
 
-- [ ] Nails (for hanging rubbish bag)
-- [ ] Rubbing alcohol
-- [ ] Lodge enameled dutch oven? (for corn, etc)
+* Unused Items
+	- [ ] baby wipes
+	- [ ] silicone tubing
+	- [ ] first-aid kit
+	- [ ] lauhala mat
+	- [ ] roasting fork
+	- [ ] stock pot
+	- [ ] toilet paper
+	- [ ] water filter
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

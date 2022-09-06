@@ -80,5 +80,10 @@ https://linkslist.app/qAzXFhr
 	- [ ] toilet paper
 	- [ ] water filter
 
+## Adjustments for next time?
+* Tarp already in tent bag
+* Flour, butter, raw ingredient staples, etc?
+* Silicone mixing spatula
+
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

@@ -46,7 +46,7 @@
 ## ⚠️ info  
 * 
 
-## 📋 prep  
+## 📋 set-up  
 - [X] Sanitize ferment and serving keg.
 - [X] Filter Strike Volume into boil kettle, then heat to 100°F.
 - [X] Add 1.0 g/gal each of bread yeast and sugar.
@@ -54,12 +54,9 @@
 - [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
 - [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
 - [X] Adjust grain mill gap spacing (0.028 in).
-
-## 📋 set-up  
+- [X] Dose bottom of mash bag with minerals.
 - [ ] Begin heating strike water in Boil Kettle at 75% heat.
-- [ ] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
-- [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
 - [ ] Mill grains into MLT.
 - [ ] Dose HLT with SMB.
 
@@ -67,7 +64,7 @@
 - [ ] Set Boil Kettle to MLT pump flow, open Kettle valve to flood pump line with strike water.
 - [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM = 6% power).
 - [ ] Turn off pump, close MLT valve, then close Boil Kettle valve.
-- [ ] Add acid/sauergut to MLT, stir mash gently to mix thoroughly, and cover with mash cap.
+- [ ] Add acid to MLT, stir mash gently to mix thoroughly, and cover with mash cap.
 - [ ] Set RIMS recirculation pump flow, open MLT valve.
 - [ ] Rest mash for 5 minutes, then turn on pump and recirculate for 5 minutes (0.6 GPM).
 - [ ] Slowly increase recirculation to 2.0 GPM while turning on element PID, and set first mash step.
@@ -76,7 +73,8 @@
 - [ ] At end of mash, turn off PID, turn off pump, and close MLT valve.
 
 ## 📋 mash out  
-- [ ] Set MLT to Boil Kettle pump flow, open MLT valve, and  flood pump line with wort.
+- [ ] Install edge drain dip tube in Boil Kettle.
+- [ ] Set MLT to Boil Kettle pump flow, open MLT valve, and flood pump line with wort.
 - [ ] Open Boil Kettle valve and pump wort volume to Kettle at #2 on controller (0.5 GPM).
 - [ ] When wort level in MLT reaches grain bed, pump sparge water to top of MLT through sample valve and RIMS.
 - [ ] When Boil Kettle reaches pre-boil volume, close Boil Kettle valve, and turn off all pumps.
@@ -88,7 +86,7 @@
 - [ ] *OPTIONAL: Create vitality starter for yeast using second runnings.*
 - [ ] Add Fermcap (9 drops), and skim any accumulated foam as it approaches a boil.
 - [ ] Make hot scotchy and begin cleaning MLT and plumbing.
-- [ ] Add hops (0:30).
+- [ ] Add hops (0:50 / 0:30 / 0:15).
 - [ ] At 15 minutes before end of boil, flame out, measure wort volume, °B, and pH.
 - [ ] Replace lid and adjust boil length as necessary, then re-ignite flame.
 - [ ] Add acid boil additions, Irish Moss (0:15), ellagic acid (0:06).

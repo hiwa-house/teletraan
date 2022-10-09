@@ -1,18 +1,20 @@
 # Oregon
 
 ## Shopping
-Powder House
+Powder House  
 - [ ] Snowboard Boots
-Costco
+Costco  
 - [ ] Macbook Air
 - [ ] Lego Advent Calendar
-Best Buy
-- [ ] XBox Series S
-Home Depot
+- [ ] Christmas Lights
+- [ ] Liquor
+Best Buy  
+- [ ] XBox Series S OR Nintendo Switch?
+Home Depot  
 - [ ] Christmas lights
 - [ ] Milwaukee saw?
 - [ ] Ryobi hedge trimmer?
-FH Steinbart
+FH Steinbart  
 - [ ] Barke Pils
 
 ## Beer

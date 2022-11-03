@@ -82,14 +82,17 @@ Best Buy
 * Life of Pie
 
 ## Notes  
+
 Options:  
-	* YaYa - 1321 SE Tacoma St
-	* Natural Manual - 3242 NE 82nd Ave
-	* Hollywood Reflexology - 14812 SE Powell Blvd
-	* Dragon - 8136 SE Foster Rd
-	* Blue Ocean - 9226 SE Division St
-	* Encore - 18400 SE Division St, Gresham
-	* Tranquility - 9916 NE Hwy 99, Vancouver
+
+* YaYa - 1321 SE Tacoma St
+* Natural Manual - 3242 NE 82nd Ave
+* Hollywood Reflexology - 14812 SE Powell Blvd
+* Dragon - 8136 SE Foster Rd
+* Blue Ocean - 9226 SE Division St
+* Encore - 18400 SE Division St, Gresham
+* Tranquility - 9916 NE Hwy 99, Vancouver
+
 PDX overnight: French Prairie Rest Stop?  
 https://visitbend.com/bend-ale-trail/  
 https://pdx.eater.com/maps/best-food-carts-portland  

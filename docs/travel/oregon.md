@@ -33,8 +33,9 @@
 - [ ] 17:00	Carpinito
 - [ ] 18:00	home
 
-## Shopping
+## Shopping  
 Home Depot  
+
 - [ ] Christmas lights
 	* mini white, x2
 	* mini multi, x2
@@ -47,14 +48,18 @@ Home Depot
 - [ ] Ryobi high performance batteries
 - [ ] bungee straps
 FH Steinbart  
+
 - [ ] Barke Pils
 Powder House  
+
 - [ ] Snowboard Boots
 Costco  
+
 - [ ] Macbook Air
 - [ ] Lego Advent Calendar
 - [ ] Liquor
 Best Buy  
+
 - [ ] XBox Series S/X
 
 ## Beer

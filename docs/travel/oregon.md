@@ -46,18 +46,22 @@ Home Depot
 - [ ] green extension cord
 - [ ] kreg jig
 - [ ] Ryobi high performance batteries
-- [ ] bungee straps
+- [ ] bungee straps  
+
 FH Steinbart  
 
-- [ ] Barke Pils
+- [ ] Barke Pils  
+
 Powder House  
 
-- [ ] Snowboard Boots
+- [ ] Snowboard Boots  
+
 Costco  
 
 - [ ] Macbook Air
 - [ ] Lego Advent Calendar
-- [ ] Liquor
+- [ ] Liquor  
+
 Best Buy  
 
 - [ ] XBox Series S/X

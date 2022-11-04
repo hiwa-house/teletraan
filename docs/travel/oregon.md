@@ -1,11 +1,5 @@
 # Oregon
 
-## THU
-
-- [ ] Mass?
-- [ ] Living Haus
-- [ ] food truck/Stammtisch?
-
 ## FRI
 - [ ] 10:30	leave hotel
 - [ ] FH Steinbart

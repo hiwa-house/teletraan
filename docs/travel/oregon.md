@@ -1,33 +1,18 @@
 # Oregon
 
-## FRI
-- [ ] 10:30	leave hotel
-- [ ] FH Steinbart
-- [ ] Evo
-- [ ] Costco
-- [ ] John's Market
-- [ ] Function PDX
-- [ ] Salem to Bend
-- [ ] check-in
-
 ## SAT
 - [ ] Apoth pick-up
-- [ ] Bend Ale Trail?
 
 ## SUN
 - [ ] 09:30	leave Bend
-- [ ] gas (Madras, Safeway or Towne Pump)
+- [ ] gas (Salem)
 - [ ] 13:00	Blue Star
-- [ ] 13:30	Function PDX
-- [ ] 14:00	Eem
+- [ ] 14:00	Eem or Grind wit Tryz
 - [ ] gas (Federal Way)
 - [ ] 17:00	Carpinito
 - [ ] 18:00	home
 
 ## Shopping  
-FH Steinbart  
-
-- [ ] Barke Pils  
 
 Powder House  
 
@@ -35,9 +20,7 @@ Powder House
 
 Costco  
 
-- [ ] Macbook Air
 - [ ] Lego Advent Calendar
-- [ ] Liquor  
 
 Best Buy  
 
@@ -63,16 +46,6 @@ Best Buy
 * Life of Pie
 
 ## Notes  
-
-Options:  
-
-* YaYa - 1321 SE Tacoma St
-* Natural Manual - 3242 NE 82nd Ave
-* Hollywood Reflexology - 14812 SE Powell Blvd
-* Dragon - 8136 SE Foster Rd
-* Blue Ocean - 9226 SE Division St
-* Encore - 18400 SE Division St, Gresham
-* Tranquility - 9916 NE Hwy 99, Vancouver
 
 PDX overnight: French Prairie Rest Stop?  
 https://visitbend.com/bend-ale-trail/  

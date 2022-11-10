@@ -10,6 +10,7 @@
 - [ ] [Miner's Corner](https://snohomishcountywa.gov/Facilities/Facility/Details/Miners-Corner-57)
 - [ ] [Palouse to Cascades Trail](https://wta.org/go-hiking/hikes/palouse-to-cascades-trail-homestead-valley-th-to-mine-creek-trestle)
 - [ ] Seward Park
+- [ ] Cougar Mountain Wilderness Peak Loop
 
 ## Tide Pooling
 - [ ] Saltwater State Park, Des Moines

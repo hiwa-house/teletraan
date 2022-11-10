@@ -1,15 +1,13 @@
 # Oregon
 
+## THU
+## FRI
 ## SAT
-- [ ] Apoth pick-up
-- [ ] Bend Ale Trail?
-
 ## SUN
 - [ ] 09:30	leave Bend
-- [ ] gas (Madras, Safeway or Towne Pump)
+- [ ] gas (Salem)
 - [ ] 13:00	Blue Star
-- [ ] 13:30	Function PDX
-- [ ] 14:00	Eem
+- [ ] 14:00	Eem or Grind wit Tryz
 - [ ] gas (Federal Way)
 - [ ] 17:00	Carpinito
 - [ ] 18:00	home

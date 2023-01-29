@@ -1,15 +1,18 @@
-## Bellingham Mid-Winter Break 2022
+## Bellingham
+
+### Uncategorized
+- North Fork Brewery *(pizza, beer, Mt Baker)*
 
 ### Outdoor Dining w/ Heat
 - Homeskillet *(brunch coma)*
-- Otherlands *(euro/brunch)*
-- Stemma Brewing Co *(byof)*
+- [ X ] Otherlands *(euro/brunch)*
+- [ X ] Stemma Brewing Co *(byof)*
+- [ X ] Boundary Bay Brewing *(pub grub)*
+- [ ] Bellingham Cider Co *(chicken/waffles, good view)*
+- [ ] Wander Brewing *(food truck o' the day)*
 - Aslan Brewing Co *(pub grub)*
 - Twin Sisters Brewing Co *(pub grub)*
 - Kulshan - K2 & Carve Casual *(sammies/poutine)*
-- Boundary Bay Brewing *(pub grub)*
-- Bellingham Cider Co *(chicken/waffles)*
-- Wander Brewing *(food truck o' the day)*
 - Elizabeth Station *(pizza)*
 - Greene's Corner *(sammies/pizza/brekkie)*
 - Schweinhaus Biergarten *(pretzels/sausages)*
@@ -23,31 +26,33 @@
 - Carnal *(upscale meat)*
 
 ### Takeout
-- Cafe Rumba *(peruvian sammies)*
-- That's What I Like *(filipino)*
-- Structures Brewing *(no food)*
-- Mallard *(ice cream)*
-- Mount Bakery Cafe *(pastries)*
-- La Gloria Market *(mexican)*
-- Fairhaven Poke *(poke)*
+- [ X ] Cafe Rumba *(peruvian sammies)*
+- [ X ] Structures Brewing *(no food)*
+- [ X ] Mallard *(ice cream)*
+- [ X ] Mount Bakery Cafe *(pastries)*
+- [ X ] La Gloria Market *(mexican)*
+- [ X ] Fiamma Burger *(dick's-style burgers)*
+- [ X ] Fairhaven Poke *(poke)*
+- [ X ] Coconut Kenny's *(pizza)*
+- [ ] Mochinut *(mochi donuts)*
+- [ ] Birrieria Tijuana *(birrieria tacos)*
+- [ ] Old World Deli *(reuben)*
 - Kebab Casual *(wraps)*
 - New Mexico Tamale Co *(tamales)*
 - Super Mario's *(salvadorean)*
 - California Taco *(mexican)*
 - Accomplice *(burgers/chicken sammies)*
 - K-Pop *(korean chicken/corn dogs)*
-- Coconut Kenny's *(pizza)*
-- Old World Deli *(reuben)*
 - Pel'meni *(dumplings)*
 - Little Cheerful *(brunch)*
-- Fiamma Burger *(dick's-style burgers)*
 - Naan and Brew *(indian)*
 - JUXT Taphouse *(bar food)*
 - Hot Mess *(cheesesteaks)*
 
 ### Adventures
-- Teddy Bear Cove
+- [ X ] Teddy Bear Cove
+- [ X ] Point Whitehorn Beach
+- [ X ] Whatcom Falls Park
 - Waypoint Park
-- Whatcom Falls Park
-- Point Whitehorn Beach
 - Marine Park
+- Oyster Dome

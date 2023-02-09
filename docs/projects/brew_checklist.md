@@ -48,12 +48,12 @@
 
 ## 📋 set-up  
 - [ ] Sanitize ferment and serving keg.
-- [ ] Filter Strike Volume into boil kettle, then heat to 100°F.
+- [X] Filter Strike Volume into boil kettle, then heat to 100°F.
 - [ ] Add 1.0 g/gal each of bread yeast and sugar.
-- [ ] Weigh grains into bucket.
-- [ ] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
-- [ ] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
-- [ ] Adjust grain mill gap spacing (0.028 in).
+- [X] Weigh grains into bucket.
+- [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
+- [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
+- [X] Adjust grain mill gap spacing (0.028 in).
 - [ ] Dose bottom of mash bag with minerals.
 - [ ] Begin heating strike water in Boil Kettle at 75% heat.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.

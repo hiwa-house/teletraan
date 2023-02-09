@@ -25,6 +25,7 @@
 ## DEALING WITH A CHALLENGE
 
 Even if you try and fail, always respond to challenge with:  
+
 * Hard Work
 * Honesty
 * Helping Others as Best We Can (Compassion)

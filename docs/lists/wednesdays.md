@@ -12,6 +12,9 @@
 - [ ] Seward Park
 - [ ] Cougar Mountain Wilderness Peak Loop
 
+## Biking
+- [ ] East Lake Sammamish Trail
+
 ## Tide Pooling
 - [ ] Saltwater State Park, Des Moines
 - [ ] Lincoln Park, West Seattle

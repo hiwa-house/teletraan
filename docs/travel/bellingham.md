@@ -1,17 +1,15 @@
 ## Bellingham
 
-### Uncategorized
-- North Fork Brewery *(pizza, beer, Mt Baker)*
-
 ### Outdoor Dining w/ Heat
-- Homeskillet *(brunch coma)*
-- [ X ] Otherlands *(euro/brunch)*
-- [ X ] Stemma Brewing Co *(byof)*
-- [ X ] Boundary Bay Brewing *(pub grub)*
+- [X] Otherlands *(euro/brunch)*
+- [X] Stemma Brewing Co *(byof)*
+- [X] Boundary Bay Brewing *(pub grub)*
+- [X] Structures Brewing *(no food, outdoor huts)*
+- [ ] El Sueñito *(beer, tamales)*
 - [ ] Bellingham Cider Co *(chicken/waffles, good view)*
 - [ ] Wander Brewing *(food truck o' the day)*
-- Aslan Brewing Co *(pub grub)*
-- Twin Sisters Brewing Co *(pub grub)*
+- [ ] Aslan Brewing Co *(pub grub)*
+- [ ] Twin Sisters Brewing Co *(pub grub)*
 - Kulshan - K2 & Carve Casual *(sammies/poutine)*
 - Elizabeth Station *(pizza)*
 - Greene's Corner *(sammies/pizza/brekkie)*
@@ -26,22 +24,21 @@
 - Carnal *(upscale meat)*
 
 ### Takeout
-- [ X ] Cafe Rumba *(peruvian sammies)*
-- [ X ] Structures Brewing *(no food)*
-- [ X ] Mallard *(ice cream)*
-- [ X ] Mount Bakery Cafe *(pastries)*
-- [ X ] La Gloria Market *(mexican)*
-- [ X ] Fiamma Burger *(dick's-style burgers)*
-- [ X ] Fairhaven Poke *(poke)*
-- [ X ] Coconut Kenny's *(pizza)*
+- [X] Cafe Rumba *(peruvian sammies, oh god the sammies)*
+- [X] Mallard *(ice cream)*
+- [X] Mount Bakery Cafe *(pastries)*
+- [X] La Gloria Market *(mexican)*
+- [X] Fiamma Burger *(dick's-style burgers)*
+- [X] Fairhaven Poke *(poke)*
+- [X] Coconut Kenny's *(pizza, better than Zeek's)*
+- [ ] Darach Brewing *(new brewery)*
 - [ ] Mochinut *(mochi donuts)*
 - [ ] Birrieria Tijuana *(birrieria tacos)*
 - [ ] Old World Deli *(reuben)*
-- Kebab Casual *(wraps)*
+- Accomplice *(burgers/chicken sammies)*
 - New Mexico Tamale Co *(tamales)*
 - Super Mario's *(salvadorean)*
 - California Taco *(mexican)*
-- Accomplice *(burgers/chicken sammies)*
 - K-Pop *(korean chicken/corn dogs)*
 - Pel'meni *(dumplings)*
 - Little Cheerful *(brunch)*
@@ -50,9 +47,15 @@
 - Hot Mess *(cheesesteaks)*
 
 ### Adventures
-- [ X ] Teddy Bear Cove
-- [ X ] Point Whitehorn Beach
-- [ X ] Whatcom Falls Park
+- [X] Teddy Bear Cove
+- [X] Point Whitehorn Beach
+- [X] Whatcom Falls Park
+- [ ] North Fork Brewery *(pizza, beer, Mt Baker)*
 - Waypoint Park
 - Marine Park
 - Oyster Dome
+
+### LEGEND
+- [X] Tested, would try again
+- [ ] Want to try
+- Untried, untested

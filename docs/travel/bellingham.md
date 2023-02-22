@@ -74,7 +74,7 @@
 - [ ] blankets
 - [ ] brewery snacks
 - [ ] water bottle
-- [ ] 
+- [ ] CO₂ monitor
 - [ ] 
 - [ ] 
 - [ ] 

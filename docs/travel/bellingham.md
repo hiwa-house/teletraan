@@ -1,17 +1,19 @@
 ## Bellingham
 
 ### Outdoor Dining w/ Heat
-- [X] Otherlands *(euro/brunch)*
-- [X] Stemma Brewing Co *(byof)*
-- [X] Boundary Bay Brewing *(pub grub)*
+- [X] [Otherlands](https://www.otherlandsbeer.com/the-cafe) *(euro/brunch)*
+- [X] [Stemma Brewing Co](https://www.stemmabrewing.com/taplist) *(byof)*
+- [X] [Boundary Bay Brewing](https://www.bbaybrewery.com/brewpub-menu) *(pub grub)*
 - [X] Structures Brewing *(no food, outdoor huts)*
-- [ ] El Sueñito *(beer, tamales)*
-- [ ] Bellingham Cider Co *(chicken/waffles, good view)*
-- [ ] Wander Brewing *(food truck o' the day)*
-- [ ] Aslan Brewing Co *(pub grub)*
-- [ ] Twin Sisters Brewing Co *(pub grub)*
-- Kulshan - K2 & Carve Casual *(sammies/poutine)*
-- Elizabeth Station *(pizza)*
+- [ ] [Kulshan - K2 & Carve Casual](https://kulshanbrewing.com/events-list/2023/2/25/night-of-the-helles) *(sammies/poutine)*
+- [ ] [El Sueñito](https://www.elsuenitobrewing.com/) *(beer, tamales)*
+- [ ] [Bellingham Cider Co](https://www.bellinghamcider.com/) *(chicken/waffles, good view)*
+- [ ] [Wander Brewing](https://wanderbrewing.com/visit/#foodtrucks) *(food truck o' the day)*
+- [ ] [Aslan Brewing Co](https://aslanbrewing.com/brewpubmenus) *(pub grub)*
+- [ ] [Twin Sisters Brewing Co](https://www.twinsistersbrewing.com/) *(pub grub)*
+- [ ] [Stella Sopra Food Truck](https://www.facebook.com/stellasopraitalian/) *(italian)*
+- [ ] [Greektown Food Truck](https://www.greektownbellingham.com/) *(gyros)*
+- [Elizabeth Station](https://elizabethstation.square.site/pizza-menu) *(pizza)*
 - Greene's Corner *(sammies/pizza/brekkie)*
 - Schweinhaus Biergarten *(pretzels/sausages)*
 - Skylarks Hidden Cafe *(american comfort)*
@@ -23,39 +25,63 @@
 - Birch Door *(fancy brunch)*
 - Carnal *(upscale meat)*
 
-### Takeout
-- [X] Cafe Rumba *(peruvian sammies, oh god the sammies)*
-- [X] Mallard *(ice cream)*
-- [X] Mount Bakery Cafe *(pastries)*
+### Takeout or Indoor Dining Only
+- [X] [Cafe Rumba](https://www.clover.com/online-ordering/cafe-rumba-bellingham) *(peruvian sammies, oh god the sammies)*
+- [X] [Mallard](https://www.mallardicecream.com/) *(ice cream)*
+- [X] [Mount Bakery Cafe](https://www.mountbakery.com/downtown-mount-bakery) *(pastries)*
 - [X] La Gloria Market *(mexican)*
 - [X] Fiamma Burger *(dick's-style burgers)*
 - [X] Fairhaven Poke *(poke)*
-- [X] Coconut Kenny's *(pizza, better than Zeek's)*
-- [ ] Darach Brewing *(new brewery)*
+- [X] [Coconut Kenny's](https://www.coconutkennys.com/menu/) *(pizza, better than Zeek's)*
+- [ ] Pure Bliss *(cake slices, pastries)*
+- [ ] [Darach Brewing](https://www.darachbrewing.com/beers/) *(new brewery)*
 - [ ] Mochinut *(mochi donuts)*
 - [ ] Birrieria Tijuana *(birrieria tacos)*
-- [ ] Old World Deli *(reuben)*
-- Accomplice *(burgers/chicken sammies)*
+- [ ] [Old World Deli](https://oldworldbellingham.smartonlineorder.com/) *(reuben)*
+- [Accomplice](https://www.eataccomplice.com/) *(burgers/chicken sammies)*
 - New Mexico Tamale Co *(tamales)*
-- Super Mario's *(salvadorean)*
+- [Super Mario's](https://www.facebook.com/supermarios2003/) *(salvadorean)*
 - California Taco *(mexican)*
-- K-Pop *(korean chicken/corn dogs)*
+- [K-Pop](https://kpopchickenandbeer.com/) *(korean chicken/corn dogs)*
 - Pel'meni *(dumplings)*
 - Little Cheerful *(brunch)*
-- Naan and Brew *(indian)*
+- [Naan and Brew](https://naanbrew.com/menu/) *(indian)*
 - JUXT Taphouse *(bar food)*
 - Hot Mess *(cheesesteaks)*
 
 ### Adventures
 - [X] Teddy Bear Cove
-- [X] Point Whitehorn Beach
+- [X] Point Whitehorn Beach *(agate collecting, I can see Canada from my house)*
 - [X] Whatcom Falls Park
 - [ ] North Fork Brewery *(pizza, beer, Mt Baker)*
+- [ ] Oyster Dome
 - Waypoint Park
 - Marine Park
-- Oyster Dome
 
 ### LEGEND
 - [X] Tested, would try again
 - [ ] Want to try
 - Untried, untested
+
+### Pack List
+- [ ] purifier
+- [ ] laptop and charger
+- [ ] snow gear?
+- [ ] boots?
+- [ ] headlamp
+- [ ] lego
+- [ ] drawing/origami supplies
+- [ ] blankets
+- [ ] brewery snacks
+- [ ] water bottle
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 

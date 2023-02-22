@@ -5,7 +5,7 @@
 - [X] [Stemma Brewing Co](https://www.stemmabrewing.com/taplist) *(byof)*
 - [X] [Boundary Bay Brewing](https://www.bbaybrewery.com/brewpub-menu) *(pub grub)*
 - [X] Structures Brewing *(no food, outdoor huts)*
-- [ ] [Kulshan - K2 & Carve Casual](https://kulshanbrewing.com/events-list/2023/2/25/night-of-the-helles) *(sammies/poutine)*
+- [ ] [Kulshan - K2 & Carve Casual](https://kulshanbrewing.com/events-list/2023/2/25/night-of-the-helles) *(**Night of the Helles**, sammies/poutine)*
 - [ ] [El Sueñito](https://www.elsuenitobrewing.com/) *(beer, tamales)*
 - [ ] [Bellingham Cider Co](https://www.bellinghamcider.com/) *(chicken/waffles, good view)*
 - [ ] [Wander Brewing](https://wanderbrewing.com/visit/#foodtrucks) *(food truck o' the day)*

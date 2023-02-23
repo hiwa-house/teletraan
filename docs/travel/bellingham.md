@@ -64,60 +64,61 @@
 - Untried, untested
 
 ### Pack List
-- [ ] CO₂ monitor
-- [ ] air purifier
-- [ ] laptop
-- [ ] dongles/cables
-- [ ] truck USB charger
-- [ ] bluetooth speaker
-- [ ] headlamp
-- [ ] lego
-- [ ] drawing/origami supplies
-- [ ] blankets
-- [ ] tire inflator
+- [X] truck USB charger
+- [X] blankets
+- [X] tire inflator
+- [X] air purifier
+- [X] hand warmers
+- [X] laptop
+- [X] dongles/cables
+- [X] CO₂ monitor
+- [X] bluetooth speaker
+- [X] headlamp
+- [X] lego
+- [X] drawing/origami supplies
 ---
-- [ ] KF94 masks
-- [ ] sleep mask
-- [ ] toiletries
-- [ ] nose spray
-- [ ] vitamins
-- [ ] toothbrush
-- [ ] trimmer
+- [X] KF94 masks
+- [X] trimmer
+- [X] sleep mask
+- [X] toiletries
+- [X] nose spray
+- [X] vitamins
+- [X] toothbrush
 ---
-- [ ] water bottle
-- [ ] kitchen knife
-- [ ] half pint, x5
-- [ ] tea pint
-- [ ] tea strainer
-- [ ] green tea
-- [ ] milk
-- [ ] cereal/granola
+- [X] tea pint
+- [X] kraut
+- [X] crackers
+- [X] water bottle
+- [X] kitchen knife
+- [X] half pint, x5
+- [X] tea strainer
+- [X] green tea
+- [X] cereal/granola
+- [X] chips
+- [X] nuts
+- [X] meat
 - [ ] berries
-- [ ] kraut
-- [ ] chips
-- [ ] nuts
-- [ ] meat
-- [ ] crackers
+- [ ] milk
 - [ ] dip
 ---
-- [ ] snow gear?
-- [ ] boots?
-- [ ] hiking shoes
-- [ ] underwear, x3
-- [ ] t-shirts, x3
-- [ ] pajama pants
-- [ ] sweats
-- [ ] jeans
-- [ ] thermal pants
-- [ ] thermal shirt, x3
-- [ ] wool shirt, x2
-- [ ] wool socks, x3
-- [ ] thick wool socks
-- [ ] thick hoodie
-- [ ] puffy vest
-- [ ] belt
-- [ ] beanie
+- [X] boots?
+- [X] hiking shoes
+- [X] snow gear?
+- [X] beanie
+- [X] puffy vest
+- [X] underwear, x3
+- [X] t-shirts, x3
+- [X] pajama pants
+- [X] sweats
+- [X] jeans
+- [X] thermal pants
+- [X] thermal shirt, x3
+- [X] wool shirt, x2
+- [X] wool socks, x3
+- [X] thick wool socks
+- [X] thick hoodie
+- [X] belt
 ---
 - [X] USPS freeze
 - [ ] lock shed
-- [ ] security timer light
+- [X] security timer light

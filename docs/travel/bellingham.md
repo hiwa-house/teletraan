@@ -64,24 +64,60 @@
 - Untried, untested
 
 ### Pack List
-- [ ] purifier
-- [ ] laptop and charger
-- [ ] snow gear?
-- [ ] boots?
+- [ ] CO₂ monitor
+- [ ] air purifier
+- [ ] laptop
+- [ ] dongles/cables
+- [ ] truck USB charger
+- [ ] bluetooth speaker
 - [ ] headlamp
 - [ ] lego
 - [ ] drawing/origami supplies
 - [ ] blankets
-- [ ] brewery snacks
+- [ ] tire inflator
+---
+- [ ] KF94 masks
+- [ ] sleep mask
+- [ ] toiletries
+- [ ] nose spray
+- [ ] vitamins
+- [ ] toothbrush
+- [ ] trimmer
+---
 - [ ] water bottle
-- [ ] CO₂ monitor
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] kitchen knife
+- [ ] half pint, x5
+- [ ] tea pint
+- [ ] tea strainer
+- [ ] green tea
+- [ ] milk
+- [ ] cereal/granola
+- [ ] berries
+- [ ] kraut
+- [ ] chips
+- [ ] nuts
+- [ ] meat
+- [ ] crackers
+- [ ] dip
+---
+- [ ] snow gear?
+- [ ] boots?
+- [ ] hiking shoes
+- [ ] underwear, x3
+- [ ] t-shirts, x3
+- [ ] pajama pants
+- [ ] sweats
+- [ ] jeans
+- [ ] thermal pants
+- [ ] thermal shirt, x3
+- [ ] wool shirt, x2
+- [ ] wool socks, x3
+- [ ] thick wool socks
+- [ ] thick hoodie
+- [ ] puffy vest
+- [ ] belt
+- [ ] beanie
+---
+- [X] USPS freeze
+- [ ] lock shed
+- [ ] security timer light

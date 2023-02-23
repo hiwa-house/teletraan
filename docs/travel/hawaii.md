@@ -42,7 +42,7 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 - [ ] omiyage, beer
 - [ ] cash
 - [ ] gift cards
-- [ ] CO2 meter
+- [ ] CO₂ meter
 - [ ] kindle
 - [ ] dongles/cables
 - [ ] phone car mount

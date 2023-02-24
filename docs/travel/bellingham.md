@@ -33,6 +33,7 @@
 - [X] Fiamma Burger *(dick's-style burgers)*
 - [X] Fairhaven Poke *(poke)*
 - [X] [Coconut Kenny's](https://www.coconutkennys.com/menu/) *(pizza, better than Zeek's)*
+- [ ] [ROAM Coffee + Beer](https://wanderbrewing.com/roam-coffee-beer/) *(coffee, beer, pastries, Wander Brewing sister, walkable)*
 - [ ] Pure Bliss *(cake slices, pastries)*
 - [ ] [Darach Brewing](https://www.darachbrewing.com/beers/) *(new brewery)*
 - [ ] Mochinut *(mochi donuts)*
@@ -120,5 +121,5 @@
 - [X] belt
 ---
 - [X] USPS freeze
-- [ ] lock shed
+- [X] lock shed
 - [X] security timer light

@@ -1,5 +1,27 @@
-# Campgrounds
-## Tier 1
+# Camping
+## Summer 2023 Campground Options
+1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
+	- [ ] Drive Time: 
+	- [ ] Pros: 
+	- [ ] Cons: 
+1. [Ocean City](https://www.parks.wa.gov/554/Ocean-City)
+	- [ ] Drive Time: 
+	- [ ] Pros: 
+	- [ ] Cons: 
+1. [Camano Island](https://parks.state.wa.us/484/Camano-Island)
+	- [ ] Drive Time: 
+	- [ ] Pros: 
+	- [ ] Cons: 
+1. [Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend)
+	- [ ] Drive Time: 
+	- [ ] Pros: 
+	- [ ] Cons: 
+1. [Penrose Point](https://www.parks.wa.gov/564/Penrose-Point)
+	- [ ] Drive Time: 
+	- [ ] Pros: 
+	- [ ] Cons: 
+
+## Tier 1 Site Choices
 * NFS Verlot Campground
 	* Drive time: 1.5 hrs
 	* Riverfront, short drive, clean, nearby hiking, large sites
@@ -32,7 +54,7 @@
 	* Drive time: 4.5 hrs
 	* Oceanfront, tidepools, beachcombing, wildlife, extra fees
 	* https://recreation.gov/camping/campgrounds/232464
-## Tier 2
+## Tier 2 Site Choices
 * ONP Mora Campground
 	* Drive time: 4 hrs
 	* Riverfront, ocean nearby, tidepools, beachcombing, extra fees
@@ -47,7 +69,6 @@
 * https://parks.state.wa.us/511/Fort-Worden
 
 ---
-https://linkslist.app/qAzXFhr
 
 ## Menu Ideas
 * korean nachos

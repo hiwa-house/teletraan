@@ -1,25 +1,25 @@
 # Camping
 ## Summer 2023 Campground Options
 1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
-	- [ ] Drive Time: 
-	- [ ] Pros: 
-	- [ ] Cons: 
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Twin+Harbors+State+Park,+Washington+105,+Westport,+WA/@47.2336564,-123.7019728,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x54924ff7b87a98af:0xbaadf4eef2b09895!2m2!1d-124.1084928!2d46.8545249?hl=en)
+	- [ ] Pros: Cooler temps, kites, sandy beaches
+	- [ ] Cons: Mosquitos, cooler temps
 1. [Ocean City](https://www.parks.wa.gov/554/Ocean-City)
-	- [ ] Drive Time: 
-	- [ ] Pros: 
-	- [ ] Cons: 
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/@47.2917132,-123.7302516,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x549222f38136ae93:0xca39c1676d71a1cf!2m2!1d-124.1650507!2d47.0328987?hl=en)
+	- [ ] Pros: cooler temps, kites, sandy beaches
+	- [ ] Cons: Mosquitos, cooler temps
 1. [Camano Island](https://parks.state.wa.us/484/Camano-Island)
-	- [ ] Drive Time: 
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Camano+Island+State+Park,+Camano,+WA+98282/@47.9256236,-122.5287853,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x548ff703defaf909:0x423387970ddd1411!2m2!1d-122.501952!2d48.1295101?hl=en)
 	- [ ] Pros: 
 	- [ ] Cons: 
 1. [Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend)
-	- [ ] Drive Time: 
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/@47.6529599,-123.0572613,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x548febfe346a6ea1:0x990b97011700f8e7!2m2!1d-122.795671!2d48.0739451?hl=en)
 	- [ ] Pros: 
 	- [ ] Cons: 
 1. [Penrose Point](https://www.parks.wa.gov/564/Penrose-Point)
-	- [ ] Drive Time: 
-	- [ ] Pros: 
-	- [ ] Cons: 
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Penrose+Point+State+Park,+158th+Avenue+Southwest,+Lakebay,+WA/@47.4201524,-122.6124782,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x5491aefe7c7aa19d:0x7fe6a341512236ce!2m2!1d-122.7485037!2d47.2577165?hl=en)
+	- [ ] Pros: Short drive
+	- [ ] Cons: Noisy
 
 ## Tier 1 Site Choices
 * NFS Verlot Campground

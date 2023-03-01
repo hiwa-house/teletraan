@@ -1,4 +1,5 @@
 # Camping
+
 ## 2023 IMA Crew Campground Options
 
 Only the numbered campgrounds under this heading have availability for summer 2023.  
@@ -31,41 +32,43 @@ Only the numbered campgrounds under this heading have availability for summer 20
 Locations where we've stayed and enjoyed. Roughly in order of preference. Reservations full for 2023.  
 
 1. [NFS Verlot Campground](https://recreation.gov/camping/campgrounds/232120)
-	- [] Drive time: 1.5 hrs
-	- [] Riverfront, short drive, clean, nearby hiking, large sites
+	- [ ] Drive time: 1.5 hrs
+	- [ ] Pros: Short drive, clean/large sites, riverfront, water play, short hikes, quiet camp road for biking
+	- [ ] Cons: Deer flies in later summer, gets hot and dusty, longer hikes require driving
+	- [ ] Best sites: 15, 16, 17, 18, 13 *(big enough for 2+ tents, beachfront)*
 2. [ONP Sol Duc Hot Springs Campground](https://recreation.gov/camping/campgrounds/251906)
-	- [] Drive time: 4 hrs
-	- [] Adjacent to resort, hot springs, rain forest, extra fees
+	- [ ] Drive time: 4 hrs
+	- [ ] Adjacent to resort, hot springs, rain forest, extra fees
 1. [Deception Pass State Park](https://parks.state.wa.us/497/Deception-Pass)
-	- [] Drive time: 
-	- [] Pros: Beachfront rock climbing, hiking
-	- [] Cons: Noisy neighbors, crowded. Great setting, but not a favorite.
+	- [ ] Drive time: 
+	- [ ] Pros: Beachfront rock climbing, hiking
+	- [ ] Cons: Noisy neighbors, crowded. Great setting, but not a favorite.
 
 ## Campgrounds to try
 
 Locations that we'd like to try someday in roughly order of preference. (But, first we'd need to actually reserve sites when reservations open.) Reservations full for 2023.  
 
 1. [Dungeness Recreation Area](https://clallam.net/Parks/Dungeness.html)
-	- [] Drive time: 2.5 hrs
-	- [] Oceanfront, beachcombing, crabbing, clamming
+	- [ ] Drive time: 2.5 hrs
+	- [ ] Oceanfront, beachcombing, crabbing, clamming
 1. [Spencer Spit State Park](https://parks.state.wa.us/687/Spencer-Spit)
-	- [] Drive time: 3 hrs
-	- [] Accessed by ferry, salt water beachfront, fishing, clamming, crabbing, kayak * rentals
+	- [ ] Drive time: 3 hrs
+	- [ ] Accessed by ferry, salt water beachfront, fishing, clamming, crabbing, kayak * rentals
 1. [Salt Creek Recreation Area](https://clallam.net/parks/saltcreek.html)
-	- [] Drive time: 3 hrs
-	- [] Oceanfront, tidepools, beachcombing
+	- [ ] Drive time: 3 hrs
+	- [ ] Oceanfront, tidepools, beachcombing
 1. [ONP Kalaloch Campground](https://recreation.gov/camping/campgrounds/232464)
-	- [] Drive time: 4.5 hrs
-	- [] Oceanfront, tidepools, beachcombing, wildlife, extra fees
+	- [ ] Drive time: 4.5 hrs
+	- [ ] Oceanfront, tidepools, beachcombing, wildlife, extra fees
 1. [NFS Salmon La Sac](https://recreation.gov/camping/campgrounds/232094)
-	- [] Drive time: 2 hrs
-	- [] Riverfront, dry side of Cascades, stargazing, large sites
+	- [ ] Drive time: 2 hrs
+	- [ ] Riverfront, dry side of Cascades, stargazing, large sites
 1. [NFS Colonial Creek South Campground](https://recreation.gov/camping/campgrounds/255201)
-	- [] Drive time: 2.5 hrs
-	- [] North cascades, lakefront, can be crowded, no boat rentals
+	- [ ] Drive time: 2.5 hrs
+	- [ ] North cascades, lakefront, can be crowded, no boat rentals
 1. [ONP Mora Campground](https://www.recreation.gov/camping/campgrounds/247591)
-	- [] Drive time: 4 hrs
-	- [] Riverfront, ocean nearby, tidepools, beachcombing, extra fees
+	- [ ] Drive time: 4 hrs
+	- [ ] Riverfront, ocean nearby, tidepools, beachcombing, extra fees
 1. [Cape Disappointment State Park](https://parks.state.wa.us/486/Cape-Disappointment)
 1. [Fort Flagler State Park](https://parks.state.wa.us/508/Fort-Flagler)
 1. https://recreation.gov/camping/campgrounds/232464
@@ -93,7 +96,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 - [ ] Charge batteries
 - [ ] Stage music downloads
 - [ ] Bag ice cubes
-- [ ] Pre-chill cooler
+- [ ] Pre-chill coolers
 - [ ] Buy ice
 
 * Unused Items

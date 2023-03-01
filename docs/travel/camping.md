@@ -5,23 +5,23 @@
 Only the numbered campgrounds under this heading have availability for summer 2023. These campgrounds all have 5 adjacent campsites available for arriving 8/20 and departing 8/23.  
 
 1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
-	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Twin+Harbors+State+Park,+Washington+105,+Westport,+WA/@47.2336564,-123.7019728,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x54924ff7b87a98af:0xbaadf4eef2b09895!2m2!1d-124.1084928!2d46.8545249?hl=en)
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Twin+Harbors+State+Park,+3120+WA-105,+Westport,+WA+98595/)
 	- [ ] Pros: Cooler temps, kites, sandy beaches
 	- [ ] Cons: Mosquitos, cooler temps
 1. [Ocean City](https://www.parks.wa.gov/554/Ocean-City)
-	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/@47.2917132,-123.7302516,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x549222f38136ae93:0xca39c1676d71a1cf!2m2!1d-124.1650507!2d47.0328987?hl=en)
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/)
 	- [ ] Pros: Cooler temps, kites, sandy beaches
 	- [ ] Cons: Mosquitos, cooler temps
 1. [Camano Island](https://parks.state.wa.us/484/Camano-Island)
-	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Camano+Island+State+Park,+Camano,+WA+98282/@47.9256236,-122.5287853,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x548ff703defaf909:0x423387970ddd1411!2m2!1d-122.501952!2d48.1295101?hl=en)
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Camano+Island+State+Park,+Camano,+WA+98282/)
 	- [ ] Pros: Short drive
 	- [ ] Cons: 
 1. [Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend)
-	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/@47.6529599,-123.0572613,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x548febfe346a6ea1:0x990b97011700f8e7!2m2!1d-122.795671!2d48.0739451?hl=en)
+	- [ ] Drive Time: [2 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/)
 	- [ ] Pros: 
 	- [ ] Cons: 
 1. [Penrose Point](https://www.parks.wa.gov/564/Penrose-Point)
-	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Penrose+Point+State+Park,+158th+Avenue+Southwest,+Lakebay,+WA/@47.4201524,-122.6124782,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x5491aefe7c7aa19d:0x7fe6a341512236ce!2m2!1d-122.7485037!2d47.2577165?hl=en)
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Penrose+Point+State+Park,+158th+Avenue+Southwest,+Lakebay,+WA/)
 	- [ ] Pros: Short drive
 	- [ ] Cons: Noisy neighbors
 
@@ -32,15 +32,15 @@ Only the numbered campgrounds under this heading have availability for summer 20
 Locations where we've stayed and enjoyed. Roughly in order of preference. Reservations full for 2023.  
 
 1. [NFS Verlot Campground](https://recreation.gov/camping/campgrounds/232120)
-	- [ ] Drive time: 1.5 hrs
+	- [ ] Drive time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Verlot+Campground,+Mountain+Loop+Highway,+Granite+Falls,+WA/)
 	- [ ] Pros: Short drive, clean/large sites, riverfront, water play, short hikes, quiet camp road for biking
 	- [ ] Cons: Deer flies in later summer, gets hot and dusty, longer hikes require driving
 	- [ ] Best sites: 15, 16, 17, 18, 13 *(big enough for 2+ tents, beachfront)*
 2. [ONP Sol Duc Hot Springs Campground](https://recreation.gov/camping/campgrounds/251906)
-	- [ ] Drive time: 4 hrs
+	- [ ] Drive time: [3.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Sol+Duc+Campground,+Sol+Duc-Hot+Springs+Rd,+Port+Angeles,+WA/)
 	- [ ] Adjacent to resort, hot springs, rain forest, extra fees
 1. [Deception Pass State Park](https://parks.state.wa.us/497/Deception-Pass)
-	- [ ] Drive time: 
+	- [ ] Drive time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Deception+Pass+State+Park,+State+Route+20,+Oak+Harbor,+WA/)
 	- [ ] Pros: Beachfront rock climbing, hiking
 	- [ ] Cons: Noisy neighbors, crowded. Great setting, but not a favorite.
 
@@ -53,7 +53,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 	- [ ] Oceanfront, beachcombing, crabbing, clamming
 1. [Spencer Spit State Park](https://parks.state.wa.us/687/Spencer-Spit)
 	- [ ] Drive time: 3 hrs
-	- [ ] Accessed by ferry, salt water beachfront, fishing, clamming, crabbing, kayak * rentals
+	- [ ] Accessed by ferry, salt water beachfront, fishing, clamming, crabbing, kayak rentals
 1. [Salt Creek Recreation Area](https://clallam.net/parks/saltcreek.html)
 	- [ ] Drive time: 3 hrs
 	- [ ] Oceanfront, tidepools, beachcombing

@@ -2,7 +2,7 @@
 
 ## 2023 IMA Crew Campground Options
 
-Only the numbered campgrounds under this heading have availability for summer 2023.  
+Only the numbered campgrounds under this heading have availability for summer 2023. These campgrounds all have 5 adjacent campsites available for arriving 8/20 and departing 8/23.  
 
 1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
 	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/Bellevue,+Washington/Twin+Harbors+State+Park,+Washington+105,+Westport,+WA/@47.2336564,-123.7019728,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x54924ff7b87a98af:0xbaadf4eef2b09895!2m2!1d-124.1084928!2d46.8545249?hl=en)

@@ -27,7 +27,7 @@ Only the numbered campgrounds under this heading have availability for summer 20
 
 ---
 
-## Favorite campgrounds
+## Visited campgrounds
 
 Locations where we've stayed and enjoyed. Roughly in order of preference. Reservations full for 2023.  
 
@@ -75,6 +75,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 1. https://recreation.gov/camping/campgrounds/232465
 1. [Moran State Park](https://parks.state.wa.us/547/Moran)
 1. [Fort Worden State Park](https://parks.state.wa.us/511/Fort-Worden)
+1. Birch Bay State Park
 
 ---
 

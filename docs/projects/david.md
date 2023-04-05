@@ -29,3 +29,7 @@ Even if you try and fail, always respond to challenge with:
 * Hard Work
 * Honesty
 * Helping Others as Best We Can (Compassion)
+
+You can't fail until you quit.  
+
+Failure is an event, not a person. Failing doesn't mean you're a failure.  

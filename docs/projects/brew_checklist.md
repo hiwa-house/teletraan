@@ -54,11 +54,11 @@
 - [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
 - [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
 - [X] Adjust grain mill gap spacing (0.028 in).
-- [ ] Dose bottom of mash bag with minerals.
+- [X] Dose bottom of mash bag with minerals.
 - [ ] Begin heating strike water in Boil Kettle at 75% heat.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Mill grains into MLT.
-- [ ] Dose HLT with SMB.
+- [X] Dose HLT with SMB.
 
 ## 📋 mash  
 - [ ] Set Boil Kettle to MLT underlet pump flow, open Kettle valve to flood pump line with strike water.
@@ -83,13 +83,11 @@
 - [ ] Drain remaining second runnings through sample valve for yeast propagation, sauergut, and barley tea.
 
 ## 📋 boil  
-- [ ] Attach 2 binder clips 90° apart on Boil Kettle, and set to boil mark on burner to bring wort to a gentle boil. *[UNDER REVISION]*
-- [ ] *OPTIONAL: Create vitality starter for yeast using second runnings.*
-- [ ] Add Fermcap (9 drops), and skim any accumulated foam as it approaches a boil.
-- [ ] Make hot scotchy and begin cleaning MLT and plumbing.
-- [ ] Add hops (0:60 / 0:15).
+- [ ] Add Fermcap (9 drops), and bring Boil Kettle to a rolling simmer with no lid.
+- [ ] Begin cleaning MLT and plumbing.
+- [ ] Add hops (FWH / 0:30).
 - [ ] At 15 minutes before end of boil, flame out, measure wort volume, °B, and pH.
-- [ ] Replace lid and adjust boil length as necessary, then re-ignite flame.
+- [ ] Adjust boil length as necessary, then re-ignite flame.
 - [ ] Add acid boil additions, Irish Moss (0:15), ellagic acid (0:06).
 - [ ] Begin sanitizing post-boil equipment, including wort chiller.
 - [ ] Flame out, measure wort volume.
@@ -104,8 +102,6 @@
 - [ ] Prep fermenter and serving keg, then continue equipment clean-up.
 - [ ] Turn pick-up tube to 12:00 orientation, and transfer wort to fermentation vessel.
 - [ ] Transfer trub, record trub volume, and transfer to pitcher in fridge to reserve as speise for spunding and FFT.
-- [ ] Cap fermentation vessel, seat lid with CO₂ to 10 psi, and move to fermentation chamber.
-- [ ] Relax, don't worry, have a homebrew.
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  

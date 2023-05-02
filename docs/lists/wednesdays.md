@@ -3,6 +3,7 @@
 - [ ] Micro-meteorites
 - [ ] Kayaks
 - [ ] Signal crayfishing
+- [ ] Model rockets
 
 ## Hiking
 - [ ] [Red Town](https://wta.org/go-hiking/hikes/redtown-meadow)

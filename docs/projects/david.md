@@ -22,6 +22,13 @@
 5. What have you learnt and what will you do differently next time?
 6. How can the damage be repaired?
 
+## BUBBLE SOLUTION FORMULA
+
+40	grams	dishwashing liquid
+100	grams	glycerol
+1	gram	guar gum powder
+1000	grams	water
+
 ## DEALING WITH A CHALLENGE
 
 Even if you try and fail, always respond to challenge with:  

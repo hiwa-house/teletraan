@@ -54,6 +54,8 @@
 - [X] Teddy Bear Cove
 - [X] Point Whitehorn Beach *(agate collecting, I can see Canada from my house)*
 - [X] Whatcom Falls Park
+- [ ] [Racehorse Creek](https://wa100.dnr.wa.gov/north-cascades/racehorse-creek)
+- [ ] [Larrabee State Park](https://wa100.dnr.wa.gov/north-cascades/chuckanut-mountains)
 - [ ] North Fork Brewery *(pizza, beer, Mt Baker)*
 - [ ] Oyster Dome
 - Waypoint Park

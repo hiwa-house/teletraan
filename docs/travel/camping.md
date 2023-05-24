@@ -97,6 +97,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 - [ ] Charge batteries
 - [ ] Stage music downloads
 - [ ] Bag ice cubes
+- [ ]	Pre-freeze milk jugs
 - [ ] Pre-chill coolers
 - [ ] Buy ice
 

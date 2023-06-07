@@ -24,19 +24,19 @@
 
 ## BOOKS
 
-- [ ] The Little Prince
+- [ ] The BFG
+- [ ] Doctor Doolittle
+- [ ] The Rescuers
+---
 - [ ] Charlotte's Web
 - [ ] The Wind in the Willows
 - [ ] The Incredible Journey
 - [ ] The Neverending Story
-- [ ] The BFG
-- [ ] Doctor Doolittle
 - [ ] Ronia, The Robber's Daughter
 - [ ] Coraline
 - [ ] The Phantom Tollbooth
 - [ ] Treasure Island
 - [ ] Howl's Moving Castle
-- [ ] The Rescuers
 - [ ] The Dark is Rising
 - [ ] A Wizard of Earthsea
 - [ ] Watership Down
@@ -44,6 +44,7 @@
 - [ ] The Hobbit
 - [ ] Momo
 - [ ] Haroun and the Sea of Stories
+- [X] The Little Prince
 - [X] Winnie the Pooh
 - [X] The Wizard of Oz
 - [X] James and the Giant Peach
@@ -83,3 +84,11 @@ Failure is an event, not a person. Failing doesn't mean you're a failure.
 5. Teach kids to be powerful
 	- Indulgence in negative self-talk is never allowed. Replace negative beliefs (“I can’t do this”), with positive ones, focusing on the desired outcome. Encourage goalsetting in all areas of his life. Write down goals and review them together.
 https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-successful-children/
+
+## RESILIENCE
+* **Emotional Regulation:** When feelings overwhelm you, you can’t make good decisions. You’re an emotional crash test dummy. Slow down and get some distance. Notice and name your emotions. Then reappraise. Is this really that bad? Are these thoughts useful?
+* **Optimism:** When we can’t see a potential positive outcome, it’s rational to give up. Consider your Best Possible Self. See difficulty as transient, local, and controllable so you stop feeling like a pigeon in life’s shooting gallery.
+* **Cognitive Agility:** When you immediately jump to the worst-case scenario, you’re going to want to quit. Take the time to consider more possibilities. And then ask yourself which one you’d bet the mortgage on being most likely. Otherwise, you’ll feel like a shut-in in a house of horrors.
+* **Self-Compassion:** You’re letting someone walk all over you. But the person doing the walking is also you. Take that compassion you usually extend to others and offer some of it to yourself.
+* **Self-Efficacy:** You build confidence and agency by accomplishing things often enough that it changes how you see yourself. Start small and achieve goals until you start to see yourself as “the kind of person who achieves their goals.”
+https://bakadesuyo.com/2023/04/how-to-be-resilient-2/

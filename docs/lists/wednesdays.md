@@ -4,6 +4,7 @@
 - [ ] Kayaks
 - [ ] Signal crayfishing
 - [ ] Model rockets
+- [ ]	Ape cave
 
 ## Hiking
 - [ ] [Red Town](https://wta.org/go-hiking/hikes/redtown-meadow)

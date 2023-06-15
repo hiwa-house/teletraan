@@ -91,6 +91,18 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * pizza
 * stone soup
 
+## Menu
+FRI, dinner (steak, bulgogi, hot dog or hamburger, broccoli, fries?)
+SAT/SUN, breakfast (eggs, bacon, shokupan, cereal, milk, fruit?)
+SAT, lunch (sandwiches, chips, pickles, fruit, cheese, meat, dips)
+SAT, dinner (hot pot - meat, veg, noodles)
+smores
+beer, bourbon
+
+## Itinerary
+stops en-route (fruit, beer, lunch?)
+beach, bikes
+
 ## Prep Tasks
 - [ ] Restock ziplock bags
 - [ ] Restock rubbish bags
@@ -100,6 +112,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 - [ ]	Pre-freeze milk jugs
 - [ ] Pre-chill coolers
 - [ ] Buy ice
+- [ ] bake shokupan?
 
 * Unused Items
 	- [ ] baby wipes
@@ -112,8 +125,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 	- [ ] water filter
 
 ## Adjustments for next time?
-* Tarp already in tent bag
-* Flour, butter, raw ingredient staples, etc?
+* Flour, raw ingredient staples, etc?
 * Silicone mixing spatula
 
 ## Packing List

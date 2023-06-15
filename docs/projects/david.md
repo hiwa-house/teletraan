@@ -55,21 +55,18 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 
 ## BUBBLE SOLUTION FORMULA
 
-40	grams	dishwashing liquid
-100	grams	glycerol
-1	gram	guar gum powder
-1000	grams	water
+40	grams	dishwashing liquid  
+100	grams	glycerol  
+1	gram	guar gum powder  
+1000	grams	water  
 
 ## DEALING WITH A CHALLENGE
 
 Even if you try and fail, always respond to challenge with:  
-
 * Hard Work
 * Honesty
-* Helping Others as Best We Can (Compassion)
-
+* Helping Others as Best We Can (Compassion)  
 You can't fail until you quit.  
-
 Failure is an event, not a person. Failing doesn't mean you're a failure.  
 
 ## PARENTING METHODS
@@ -82,7 +79,7 @@ Failure is an event, not a person. Failing doesn't mean you're a failure.
 4. Show the importance of a strong work ethic
 	- Model working hard and doing a job the right way. Shortcuts can be encouraged only if they increase efficiency without affecting quality.
 5. Teach kids to be powerful
-	- Indulgence in negative self-talk is never allowed. Replace negative beliefs (“I can’t do this”), with positive ones, focusing on the desired outcome. Encourage goalsetting in all areas of his life. Write down goals and review them together.
+	- Indulgence in negative self-talk is never allowed. Replace negative beliefs (“I can’t do this”), with positive ones, focusing on the desired outcome. Encourage goalsetting in all areas of his life. Write down goals and review them together.  
 https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-successful-children/
 
 ## RESILIENCE
@@ -90,5 +87,5 @@ https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-succ
 * **Optimism:** When we can’t see a potential positive outcome, it’s rational to give up. Consider your Best Possible Self. See difficulty as transient, local, and controllable so you stop feeling like a pigeon in life’s shooting gallery.
 * **Cognitive Agility:** When you immediately jump to the worst-case scenario, you’re going to want to quit. Take the time to consider more possibilities. And then ask yourself which one you’d bet the mortgage on being most likely. Otherwise, you’ll feel like a shut-in in a house of horrors.
 * **Self-Compassion:** You’re letting someone walk all over you. But the person doing the walking is also you. Take that compassion you usually extend to others and offer some of it to yourself.
-* **Self-Efficacy:** You build confidence and agency by accomplishing things often enough that it changes how you see yourself. Start small and achieve goals until you start to see yourself as “the kind of person who achieves their goals.”
+* **Self-Efficacy:** You build confidence and agency by accomplishing things often enough that it changes how you see yourself. Start small and achieve goals until you start to see yourself as “the kind of person who achieves their goals.”  
 https://bakadesuyo.com/2023/04/how-to-be-resilient-2/

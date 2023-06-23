@@ -1,35 +1,8 @@
 # Camping
 
-## 2023 IMA Crew Campground Options
-
-Only the numbered campgrounds under this heading have availability for summer 2023. These campgrounds all have 5 adjacent campsites available for arriving 8/20 and departing 8/23.  
-
-1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
-	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Twin+Harbors+State+Park,+3120+WA-105,+Westport,+WA+98595/)
-	- [ ] Pros: Cooler temps, kites, sandy beaches
-	- [ ] Cons: Mosquitos, cooler temps
-1. [Ocean City](https://www.parks.wa.gov/554/Ocean-City)
-	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/)
-	- [ ] Pros: Cooler temps, kites, sandy beaches
-	- [ ] Cons: Mosquitos, cooler temps
-1. [Camano Island](https://parks.state.wa.us/484/Camano-Island)
-	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Camano+Island+State+Park,+Camano,+WA+98282/)
-	- [ ] Pros: Short drive
-	- [ ] Cons: 
-1. [Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend)
-	- [ ] Drive Time: [2 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/)
-	- [ ] Pros: 
-	- [ ] Cons: 
-1. [Penrose Point](https://www.parks.wa.gov/564/Penrose-Point)
-	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Penrose+Point+State+Park,+158th+Avenue+Southwest,+Lakebay,+WA/)
-	- [ ] Pros: Short drive
-	- [ ] Cons: Noisy neighbors
-
----
-
 ## Visited campgrounds
 
-Locations where we've stayed and enjoyed. Roughly in order of preference. Reservations full for 2023.  
+Locations where we've stayed and enjoyed. Roughly in order of preference.  
 
 1. [NFS Verlot Campground](https://recreation.gov/camping/campgrounds/232120)
 	- [ ] Drive time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Verlot+Campground,+Mountain+Loop+Highway,+Granite+Falls,+WA/)
@@ -46,7 +19,7 @@ Locations where we've stayed and enjoyed. Roughly in order of preference. Reserv
 
 ## Campgrounds to try
 
-Locations that we'd like to try someday in roughly order of preference. (But, first we'd need to actually reserve sites when reservations open.) Reservations full for 2023.  
+Locations that we'd like to try someday in roughly order of preference. (But, first we'd need to actually reserve sites when reservations open.)  
 
 1. [Dungeness Recreation Area](https://clallam.net/Parks/Dungeness.html)
 	- [ ] Drive time: 2.5 hrs
@@ -76,6 +49,26 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 1. [Moran State Park](https://parks.state.wa.us/547/Moran)
 1. [Fort Worden State Park](https://parks.state.wa.us/511/Fort-Worden)
 1. Birch Bay State Park
+1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Twin+Harbors+State+Park,+3120+WA-105,+Westport,+WA+98595/)
+	- [ ] Pros: Cooler temps, kites, sandy beaches
+	- [ ] Cons: Mosquitos, cooler temps
+1. [Ocean City](https://www.parks.wa.gov/554/Ocean-City)
+	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/)
+	- [ ] Pros: Cooler temps, kites, sandy beaches
+	- [ ] Cons: Mosquitos, cooler temps
+1. [Camano Island](https://parks.state.wa.us/484/Camano-Island)
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Camano+Island+State+Park,+Camano,+WA+98282/)
+	- [ ] Pros: Short drive
+	- [ ] Cons: 
+1. [Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend)
+	- [ ] Drive Time: [2 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/)
+	- [ ] Pros: 
+	- [ ] Cons: 
+1. [Penrose Point](https://www.parks.wa.gov/564/Penrose-Point)
+	- [ ] Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Penrose+Point+State+Park,+158th+Avenue+Southwest,+Lakebay,+WA/)
+	- [ ] Pros: Short drive
+	- [ ] Cons: Noisy neighbors
 
 ---
 
@@ -91,28 +84,19 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * pizza
 * stone soup
 
-## Menu
-FRI, dinner (steak, bulgogi, hot dog or hamburger, broccoli, fries?)
-SAT/SUN, breakfast (eggs, bacon, shokupan, cereal, milk, fruit?)
-SAT, lunch (sandwiches, chips, pickles, fruit, cheese, meat, dips)
-SAT, dinner (hot pot - meat, veg, noodles)
-smores
-beer, bourbon
-
 ## Itinerary
-stops en-route (fruit, beer, lunch?)
+stops en-route (berries, stemma, structures, chuckanut?, lunch?)
 beach, bikes
 
 ## Prep Tasks
 - [ ] Restock ziplock bags
 - [ ] Restock rubbish bags
 - [ ] Charge batteries
-- [ ] Stage music downloads
+- [ ] Stage playlist download
 - [ ] Bag ice cubes
 - [ ]	Pre-freeze milk jugs
 - [ ] Pre-chill coolers
 - [ ] Buy ice
-- [ ] bake shokupan?
 
 * Unused Items
 	- [ ] baby wipes
@@ -126,7 +110,8 @@ beach, bikes
 
 ## Adjustments for next time?
 * Flour, raw ingredient staples, etc?
-* Silicone mixing spatula
+* Buy dustpan from Daiso
+* Stuff sack for pillows
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

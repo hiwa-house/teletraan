@@ -9,7 +9,7 @@
 * East-West center
 * Friendship Garden
 * Makapu'u lighthouse
-* Mango season
+* Mango season (kokua market)
 * Manoa falls
 * Old Pali lookout
 * Sea Life park
@@ -25,8 +25,10 @@ Arrive at HNL for bag drop/security no later than 1:30 before flight.
 
 ## Menu  
 For potluck, takeout often cheaper than cooking.  
+Pasta  
 Pizza  
 Mac and cheese  
+Tacos  
 
 ## Restaurants
 **Outdoor Dining**  
@@ -39,76 +41,79 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 
 ---
 ## Packing List
-- [ ] omiyage, beer
+- [X] omiyage, beer
 - [ ] cash
-- [ ] gift cards
-- [ ] CO₂ meter
-- [ ] kindle
-- [ ] dongles/cables
-- [ ] phone car mount
-- [ ] truck USB charger
-- [ ] bluetooth speaker
-- [ ] Ds headphones
-- [ ] download movies
+- [X] gift cards
+- [X] CO₂ meter
+- [X] kindle
+- [X] dongles/cables
+- [X] phone car mount
+- [X] truck USB charger
+- [X] Ds headphones
+- [X] download movies
 ---
-- [ ] insurance card
-- [ ] airplane masks
-- [ ] normal masks
-- [ ] sleep mask
-- [ ] toiletries
-- [ ] covid tests
+- [X] insurance card
+- [X] airplane masks
+- [X] normal masks
+- [X] sleep mask
+- [X] toiletries
+- [X] covid tests
 - [ ] nose spray
-- [ ] vitamins
-- [ ] shampoo brush
-- [ ] foot scrubber
-- [ ] grooming scissors/tweezer
+- [X] vitamins
+- [X] shampoo brush
+- [X] foot scrubber
+- [X] grooming scissors/tweezer
 - [ ] toothbrush/charger
-- [ ] trimmer
-- [ ] shaving kit
+- [X] trimmer
+- [X] shaving kit
 ---
 - [ ] sourdough/kefir
-- [ ] kitchen knife
-- [ ] tea pint
-- [ ] thermapen
-- [ ] gram scale
-- [ ] tea strainer
-- [ ] green tea
+- [X] yeast, 10g
+- [X] bread flour, 1000g
+- [X] semolina, 120g
+- [X] rye blend, 400g
+- [X] thermapen
+- [X] gram scale
+- [X] kitchen knife
+- [X] pizza pans
+- [X] tea pint
+- [X] tea strainer
+- [X] green tea, x6
+- [X] water bottle
 ---
-- [ ] sunglasses (all)
-- [ ] hiking shoes
-- [ ] underwear, x8
-- [ ] t-shirts, x8
-- [ ] shorts, x3
-- [ ] boardshorts, x1
-- [ ] rash guard, x1
-- [ ] aloha shirt, x1
+- [X] sunglasses (all)
+- [X] hiking shoes
+- [X] underwear, x8
+- [X] t-shirts, x8
+- [X] shorts, x3
+- [X] boardshorts, x1
+- [X] rash guard, x1
+- [X] aloha shirt, x1
 - [ ] thin hoodie, x1
-- [ ] sleep shorts, x1
-- [ ] low socks, x1
+- [X] sleep shorts, x1
+- [X] low socks, x1
 - [ ] belt
-- [ ] hat
+- [X] hat
 ---
-- [ ] USPS freeze
-- [ ] secure bikes
+- [X] USPS freeze
+- [X] secure bikes
 - [ ] turn off washer water/hang reminder sign
 - [ ] lock shed
 - [ ] security timer light
 
 ## Nature Camp
-- [ ] water shoes
-- [ ] light long sleeves/pants
+- [X] water shoes
+- [X] light long sleeves/pants
 - [ ] water bottle (1l)
-- [ ] lunch bag
+- [X] bento box / fruit fork
     - [ ] PBJ wrap
-    - [ ] fruit (pineapple, berries)
+    - [ ] fruit (pineapple)
     - [ ] string cheese
-    - [ ] yogurt packet
+    - [ ] deli meat
     - [ ] graham cracker
-    - [ ] goldfish
     - [ ] treat
-- [ ] masks (x2)
-- [ ] sun hat
-- [ ] rain jacket
-- [ ] change of clothes/towel
-- [ ] sunscreen
-
+- [X] masks (x2)
+- [X] sun hat
+- [X] rain jacket
+- [X] change of clothes/towel
+- [X] sunscreen

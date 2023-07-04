@@ -104,7 +104,6 @@ beach, bikes
 	- [ ] first-aid kit
 	- [ ] lauhala mat
 	- [ ] roasting fork
-	- [ ] stock pot
 	- [ ] toilet paper
 	- [ ] water filter
 
@@ -112,6 +111,9 @@ beach, bikes
 * Flour, raw ingredient staples, etc?
 * Buy dustpan from Daiso
 * Stuff sack for pillows
+* Camp blanket
+* Sleep mask
+* Kids morning clock
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

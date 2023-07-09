@@ -1,6 +1,7 @@
 ## Omiyage
 
 ## Shopping
+https://hawaii.com/things-to-do-oahu/farmers-markets/
 
 ## Adventures
 * Aquarium
@@ -102,18 +103,23 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 - [ ] security timer light
 
 ## Nature Camp
-- [X] water shoes
-- [X] light long sleeves/pants
+- [ ] water shoes
+- [ ] light long sleeves/pants
 - [ ] water bottle (1l)
-- [X] bento box / fruit fork
+- [ ] bento box / fruit fork
     - [ ] PBJ wrap
     - [ ] fruit (pineapple)
-    - [ ] string cheese
+    - [ ] yakult
     - [ ] deli meat
     - [ ] graham cracker
     - [ ] treat
-- [X] masks (x2)
-- [X] sun hat
-- [X] rain jacket
-- [X] change of clothes/towel
-- [X] sunscreen
+- [ ] masks (x2)
+- [ ] sun hat
+- [ ] rain jacket
+- [ ] change of clothes/towel
+- [ ] sunscreen
+- [ ] craft supplies
+    - [ ] scissors
+    - [ ] glue
+    - [ ] colored pencils
+    - [ ] pencil

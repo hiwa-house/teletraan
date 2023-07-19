@@ -1,27 +1,4 @@
-﻿Place,Hood,Food,Category
-Helena's Hawaiian Food,Kalihi,"lau lau, pipikaula",no-ka-oi
-Nico's,Kalihi,seafood,no-ka-oi
-Sugoi,Kalihi,plate lunch,no-ka-oi
-Utage,Kalihi,okinawan,no-ka-oi
-Pioneer Saloon,Kapahulu,japanese plate lunch,no-ka-oi
-Off The Hook,Manoa,poke,no-ka-oi
-Koko Head Cafe,Kaimuki,brunch,restaurant
-Side Street Inn,Kapahulu,bar food,restaurant
-Uncle Clay's,Aina Haina,shave ice,snack
-Royal Kitchen,Chinatown,manapua,snack
-It's Tea,Kakaako,boba,snack
-Fujiya,Kalihi,mochi,snack
-Leonard's Bakery,Kapahulu,malasadas,snack
-Waiola Shave Ice,Kapahulu,shave ice,snack
-Liliha Bakery,Liliha,"coco puffs, mochi donut",snack
-Ted's Bakery,North Shore,pie,snack
-Hana Tea,Pearl City,boba,snack
-EARL Sandwich,Kaimuki,sandwiches,takeout
-Best Drive-In,Kalihi,korean plate lunch,takeout
-Monarch Seafood,Kalihi,seafood plate lunch,takeout
-Diamond Head Market & Grill,Kapahulu,healthy plate lunch,takeout
-L&L,Liliha,mochiko chicken,takeout
-Zippy's,multiple,chili,takeout
+Place,Hood,Food,Category
 Murphy's Bar & Grill,Downtown,pub,beer
 Kona Brewing,Hawaii Kai,pub,beer
 Lanikai Brewing Co,Kailua,brewery,beer
@@ -31,24 +8,38 @@ Village Bottleshop,Kakaako,beer,beer
 Waikiki Brewing Co,Kakaako,brewery,beer
 Inu Island Ales,Kaneohe,brewery,beer
 Beer Lab HI,Mo'ili'ili,brewery,beer
-Tamura's Fine Wine & Liquors,multiple,bottleshop,beer
+Tamura's Fine Wine & Liquors,multiple,"bottleshop, poke",beer
 Hana Koa Brewing,Ward,brewery,beer
-Gen Korean BBQ House,?,kbbq,TO-DO
-Izakaya Naru,?,izakaya,TO-DO
-Izakaya Nonbei,?,izakaya,TO-DO
-Izakaya Torae Torae,?,izakaya,TO-DO
-Katsumidori Sushi Tokyo,?,sushi,TO-DO
-Maile’s Thai Bistro,?,thai,TO-DO
-Osoyami Bar & Grill,?,dive bar,TO-DO
-Paradise Ciders,?,cider,TO-DO
-Yakiniku Korea House,?,kbbq,TO-DO
+Fête,Chinatown,"cocktail bar, date",restaurant
+Koko Head Cafe,Kaimuki,brunch,restaurant
+Helena's Hawaiian Food,Kalihi,"lau lau, pipikaula",restaurant
+Nico's,Kalihi,seafood,restaurant
+Utage,Kalihi,okinawan,restaurant
+Side Street Inn,Kapahulu,bar food,restaurant
+Royal Kitchen,Chinatown,manapua,snack
+It's Tea,Kakaako,boba,snack
+Leonard's Bakery,Kapahulu,malasadas,snack
+Waiola Shave Ice,Kapahulu,shave ice,snack
+Liliha Bakery,Liliha,"coco puffs, mochi donut",snack
+Fujiya,McCully,mochi,snack
+Ted's Bakery,North Shore,pie,snack
+Hana Tea,Pearl City,boba,snack
+Sage Creamery,Waikiki,ice cream (D Head Market),snack
+EARL Sandwich,Kaimuki,sandwiches,takeout
+Best Drive-In,Kalihi,korean plate lunch,takeout
+Monarch Seafood,Kalihi,seafood plate lunch,takeout
+Sugoi,Kalihi,plate lunch,takeout
+Diamond Head Market & Grill,Kapahulu,healthy plate lunch,takeout
+Pioneer Saloon,Kapahulu,japanese plate lunch,takeout
+L&L,Liliha,mochiko chicken,takeout
+Off The Hook,Manoa,poke,takeout
+Zippy's,multiple,chili,takeout
 Jade Dynasty Seafood Restaurant,Ala Moana,dim sum,TO-DO
 Mariposa,Ala Moana,sunset date night,TO-DO
 Chun Wah Kam,Chinatown,ginger chicken fried rice,TO-DO
-Fête,Chinatown,"cocktail bar, date",TO-DO
-Piggy Smalls,Chinatown,brunch,TO-DO
 Taipan,Chinatown,dim sum,TO-DO
 Irifune,Downtown,garlic ahi,TO-DO
+Maile’s Thai Bistro,Hawaii Kai,thai,TO-DO
 Kapa Hale,Kahala,"modern hawaiian, lanai",TO-DO
 Chubbie's Burgers,Kaimuki,smash burgers,TO-DO
 Little Vessels,Kaimuki,vegan donut,TO-DO
@@ -67,6 +58,8 @@ Mad Bene,Kapolei,"pizza, lanai",TO-DO
 Bella Banh Mi Café,Liliha,banh mi,TO-DO
 Kyung's Seafood,Makiki,korean bar food,TO-DO
 Bozu,McCully,"sushi, izakaya",TO-DO
+Osoyami Bar & Grill,McCully,dive bar,TO-DO
+Paradise Ciders,Mililani,cider,TO-DO
 ‘Ili‘ili Cash & Carry,Mo'ili'ili,"pizza, sammies, italian deli",TO-DO
 Guava Smoked,multiple,smoked meat plate lunch,TO-DO
 Island Vintage Coffee,multiple,"shave ice, acai bowls",TO-DO
@@ -74,7 +67,6 @@ Paradise Poke,Nuuanu,poke,TO-DO
 Mountain Magic Shave Ice,Waikele,shave ice,TO-DO
 Chart House,Waikiki,bloody mary,TO-DO
 Penny's Malasadas,Waikiki,malasadas,TO-DO
-Sage Creamery,Waikiki,ice cream (D Head Market),TO-DO
 Tim Ho Wan,Waikiki,fancy dim sum,TO-DO
 Hau Tree,Waikīkī,"brunch, lanai",TO-DO
 Herringbone,Waikīkī,"seafood, lanai",TO-DO

@@ -16,6 +16,8 @@
 
 ## Biking
 - [ ] East Lake Sammamish Trail
+- [ ] Duthie Hill Bike Park
+- [ ] Torguson Park
 
 ## Tide Pooling
 - [ ] Saltwater State Park, Des Moines

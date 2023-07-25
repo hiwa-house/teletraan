@@ -1,6 +1,7 @@
 ## Omiyage
 
 ## Shopping
+https://hawaii.com/things-to-do-oahu/farmers-markets/
 
 ## Adventures
 * Aquarium
@@ -21,6 +22,7 @@
 * Yokohama Bay (dolphins)
 
 ## Notes
+Arrive at SEA for bag drop/security no later than 1:45 before flight.
 Arrive at HNL for bag drop/security no later than 1:30 before flight.
 
 ## Menu  
@@ -41,79 +43,83 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 
 ---
 ## Packing List
-- [X] omiyage, beer
+- [ ] omiyage, beer
 - [ ] cash
-- [X] gift cards
-- [X] CO₂ meter
-- [X] kindle
-- [X] dongles/cables
-- [X] phone car mount
-- [X] truck USB charger
-- [X] Ds headphones
-- [X] download movies
+- [ ] gift cards
+- [ ] CO₂ meter
+- [ ] kindle
+- [ ] dongles/cables
+- [ ] phone car mount
+- [ ] truck USB charger
+- [ ] Ds headphones
+- [ ] download movies
 ---
-- [X] insurance card
-- [X] airplane masks
-- [X] normal masks
-- [X] sleep mask
-- [X] toiletries
-- [X] covid tests
+- [ ] insurance card
+- [ ] airplane masks
+- [ ] normal masks
+- [ ] sleep mask
+- [ ] toiletries
+- [ ] covid tests
 - [ ] nose spray
-- [X] vitamins
-- [X] shampoo brush
-- [X] foot scrubber
-- [X] grooming scissors/tweezer
+- [ ] vitamins
+- [ ] shampoo brush
+- [ ] foot scrubber
+- [ ] grooming scissors/tweezer
 - [ ] toothbrush/charger
-- [X] trimmer
-- [X] shaving kit
+- [ ] trimmer
+- [ ] shaving kit
 ---
 - [ ] sourdough/kefir
-- [X] yeast, 10g
-- [X] bread flour, 1000g
-- [X] semolina, 120g
-- [X] rye blend, 400g
-- [X] thermapen
-- [X] gram scale
-- [X] kitchen knife
-- [X] pizza pans
-- [X] tea pint
-- [X] tea strainer
-- [X] green tea, x6
-- [X] water bottle
+- [ ] yeast, 10g
+- [ ] bread flour, 1000g
+- [ ] semolina, 120g
+- [ ] rye blend, 400g
+- [ ] thermapen
+- [ ] gram scale
+- [ ] kitchen knife
+- [ ] pizza pans
+- [ ] tea pint
+- [ ] tea strainer
+- [ ] green tea, x6
+- [ ] water bottle
 ---
-- [X] sunglasses (all)
-- [X] hiking shoes
-- [X] underwear, x8
-- [X] t-shirts, x8
-- [X] shorts, x3
-- [X] boardshorts, x1
-- [X] rash guard, x1
-- [X] aloha shirt, x1
+- [ ] sunglasses (all)
+- [ ] hiking shoes
+- [ ] underwear, x8
+- [ ] t-shirts, x8
+- [ ] shorts, x3
+- [ ] boardshorts, x1
+- [ ] rash guard, x1
+- [ ] aloha shirt, x1
 - [ ] thin hoodie, x1
-- [X] sleep shorts, x1
-- [X] low socks, x1
+- [ ] sleep shorts, x1
+- [ ] low socks, x1
 - [ ] belt
-- [X] hat
+- [ ] hat
 ---
-- [X] USPS freeze
-- [X] secure bikes
+- [ ] USPS freeze
+- [ ] secure bikes
 - [ ] turn off washer water/hang reminder sign
 - [ ] lock shed
 - [ ] security timer light
 
 ## Nature Camp
-- [X] water shoes
-- [X] light long sleeves/pants
+- [ ] water shoes
+- [ ] light long sleeves/pants
 - [ ] water bottle (1l)
-- [X] bento box / fruit fork
+- [ ] bento box / fruit fork
     - [ ] PBJ wrap
-    - [ ] fruit (pineapple)
-    - [ ] string cheese
-    - [ ] deli meat
-    - [ ] graham cracker
-    - [ ] treat
-- [X] masks (x2)
-- [X] sun hat
-- [X] rain jacket
-- [X] change of clothes/towel
-- [X] sunscreen
+    - [ ] fruit
+    - [ ] yakult
+    - [ ] cheese balls
+    - [ ] cookie
+- [ ] masks (x2)
+- [ ] sun hat
+- [ ] rain jacket
+- [ ] change of clothes/towel
+- [ ] sunscreen
+- [ ] craft supplies
+    - [ ] scissors
+    - [ ] glue
+    - [ ] colored pencils
+    - [ ] pencil

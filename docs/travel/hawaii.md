@@ -2,6 +2,8 @@
 
 ## Shopping
 https://hawaii.com/things-to-do-oahu/farmers-markets/
+reef field guide for snorkeling
+https://dlnr.hawaii.gov/dar/education/
 
 ## Adventures
 * Aquarium
@@ -25,7 +27,7 @@ https://hawaii.com/things-to-do-oahu/farmers-markets/
 Arrive at SEA for bag drop/security no later than 1:45 before flight.
 Arrive at HNL for bag drop/security no later than 1:30 before flight.
 
-## Menu  
+## Menu
 For potluck, takeout often cheaper than cooking.  
 Pasta  
 Pizza  

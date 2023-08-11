@@ -48,19 +48,23 @@
 
 ## 📋 set-up  
 - [ ] Sanitize ferment and serving keg.
-- [X] Filter Strike Volume into boil kettle, then heat to 100°F.
-- [ ] Add 1.0 g/gal each of bread yeast and sugar.
+- [X] Set up brewing equipment (kettle, MLT, mash bag, chiller, cart, grain mill, close valves).
+- [X] Filter Strike Volume into boil kettle.
+- [X] Measure Irish moss and rehydrate in water.
+- [X] Measure MLT minerals and dose into MLT (CaSO₄, CaCl₂, NaCl, Ellagic).
+- [X] Measure HLT minerals (NaMeta).
+- [X] Measure End of Boil minerals (Ellagic, Yeast Nutrient)
+- [ ] Measure hops and adjuncts.
 - [X] Weigh grains into bucket.
-- [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
-- [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
-- [X] Adjust grain mill gap spacing (0.028 in).
-- [X] Dose bottom of mash bag with minerals.
-- [ ] Begin heating strike water in Boil Kettle at 75% heat.
-- [ ] Condition pre-measured grains, and rest for 10 minutes.
-- [ ] Mill grains into MLT.
-- [X] Dose HLT with SMB.
+- [X] Heat Strike Volume to 100°F.
+- [X] Add 1.0 g/gal each of bread yeast and sugar, and rest for 90 minutes.
 
 ## 📋 mash  
+- [ ] Begin heating strike water in Boil Kettle at 75% heat.
+- [ ] Condition pre-measured grains, and rest for 10 minutes.
+- [ ] Adjust grain mill gap spacing (0.028 in).
+- [ ] Mill grains into MLT.
+- [ ] Dose HLT with NaMeta.
 - [ ] Set Boil Kettle to MLT underlet pump flow, open Kettle valve to flood pump line with strike water.
 - [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM = 6% power).
 - [ ] Turn off pump, close MLT valve, then close Boil Kettle valve.
@@ -68,7 +72,7 @@
 - [ ] Set RIMS recirculation pump flow, open MLT valve.
 - [ ] Rest mash for 5 minutes, then turn on pump and recirculate for 5 minutes (0.6 GPM).
 - [ ] Slowly increase recirculation to 2.0 GPM while turning on element PID, and set first mash step.
-- [ ] Mash per schedule, and record data in log.
+- [ ] Mash per schedule, and record data for each rest in log.
 - [ ] After first β rest, and measure/adjust mash pH.
 - [ ] At end of mash, turn off PID, turn off pump, and close MLT valve.
 
@@ -77,7 +81,7 @@
 - [ ] Open RIMS valve, and pump sparge water volume to MLT (0.6 GPM = 6% power).
 - [ ] Install edge drain dip tube in Boil Kettle.
 - [ ] Set MLT to Boil Kettle pump flow, open MLT valve, and flood pump line with wort.
-- [ ] Open Boil Kettle valve and pump wort volume to Kettle at #2 on controller (0.5 GPM).
+- [ ] Open Boil Kettle valve and pump wort volume to Kettle (0.6 GPM).
 - [ ] When Boil Kettle reaches pre-boil volume, close Boil Kettle valve, and turn off all pumps.
 - [ ] Stir Kettle wort thoroughly, measure pre-boil volume/°B. Adjust with Gravity Dilution Calculator as needed.
 - [ ] Drain remaining second runnings through sample valve for yeast propagation, sauergut, and barley tea.
@@ -88,19 +92,19 @@
 - [ ] Add hops (FWH / 0:30).
 - [ ] At 15 minutes before end of boil, flame out, measure wort volume, °B, and pH.
 - [ ] Adjust boil length as necessary, then re-ignite flame.
-- [ ] Add acid boil additions, Irish Moss (0:15), ellagic acid (0:06).
+- [ ] Add acid boil additions, Irish Moss (0:15), and ellagic acid/nutrient (0:06).
 - [ ] Begin sanitizing post-boil equipment, including wort chiller.
 - [ ] Flame out, measure wort volume.
 
 ## 📋 chill & pitch  
-- [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 10:00 orientation.
+- [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 09:00 orientation.
 - [ ] Activate wort chiller and stirrer, then cool to 170°F.
 - [ ] Add whirlpool hop addition in mesh bag.
 - [ ] Re-activate wort chiller and stirrer, then cool to less than 70°F (recover hot waste water for cleaning).
 - [ ] Remove wort chiller, then whirlpool with stirrer for 2 minutes.
 - [ ] Raise valve edge of Boil Kettle on block, and wait 30 minutes to settle trub.
 - [ ] Prep fermenter and serving keg, then continue equipment clean-up.
-- [ ] Turn pick-up tube to 12:00 orientation, and transfer wort to fermentation vessel.
+- [ ] Transfer wort to fermentation vessel.
 - [ ] Transfer trub, record trub volume, and transfer to pitcher in fridge to reserve as speise for spunding and FFT.
 - [ ] *Begin fermentation schedule.*
 

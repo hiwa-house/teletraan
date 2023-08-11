@@ -1,5 +1,10 @@
 # Camping
 
+**IMA**
+Bring at least 6 extra eggs
+Make sure one soup base is spicy
+Boiled eggs?
+
 ## Visited campgrounds
 
 Locations where we've stayed and enjoyed. Roughly in order of preference.  
@@ -75,7 +80,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 ## Menu Ideas
 * korean nachos
 * pasta
-* onion burgers
+* burgers
 * paella
 * tacos
 * quesadilla
@@ -85,16 +90,14 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * stone soup
 
 ## Itinerary
-stops en-route (berries, stemma, structures, chuckanut?, lunch?)
-beach, bikes
 
 ## Prep Tasks
+- [ ]	Pre-freeze milk jugs
+- [ ] Bag ice cubes
 - [ ] Restock ziplock bags
 - [ ] Restock rubbish bags
 - [ ] Charge batteries
 - [ ] Stage playlist download
-- [ ] Bag ice cubes
-- [ ]	Pre-freeze milk jugs
 - [ ] Pre-chill coolers
 - [ ] Buy ice
 
@@ -112,8 +115,12 @@ beach, bikes
 * Buy dustpan from Daiso
 * Stuff sack for pillows
 * Camp blanket
-* Sleep mask
-* Kids morning clock
+* Add vacuum
+* smaller bucket
+* pepper mill
+* terrarium
+* propane lantern replacement
+* raise bike seat
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

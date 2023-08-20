@@ -1,10 +1,5 @@
 # Camping
 
-**IMA**
-Bring at least 6 extra eggs
-Make sure one soup base is spicy
-Boiled eggs?
-
 ## Visited campgrounds
 
 Locations where we've stayed and enjoyed. Roughly in order of preference.  
@@ -14,6 +9,10 @@ Locations where we've stayed and enjoyed. Roughly in order of preference.
 	- [ ] Pros: Short drive, clean/large sites, riverfront, water play, short hikes, quiet camp road for biking
 	- [ ] Cons: Deer flies in later summer, gets hot and dusty, longer hikes require driving
 	- [ ] Best sites: 15, 16, 17, 18, 13 *(big enough for 2+ tents, beachfront)*
+1. [Birch Bay State Park]()
+	- [ ] Drive time: [2.0 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Birch+Bay+State+Park,+Helweg+Road,+Blaine,+WA/)
+	- [ ] Pros: Freeway driving, clean/shaded sites, clean bathrooms/showers, walking distance to bay, short drive to beach town, water play, Pt. Whitehorn, quiet camp road for biking
+	- [ ] Cons: Can get crowded
 2. [ONP Sol Duc Hot Springs Campground](https://recreation.gov/camping/campgrounds/251906)
 	- [ ] Drive time: [3.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Sol+Duc+Campground,+Sol+Duc-Hot+Springs+Rd,+Port+Angeles,+WA/)
 	- [ ] Adjacent to resort, hot springs, rain forest, extra fees
@@ -53,7 +52,6 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 1. https://recreation.gov/camping/campgrounds/232465
 1. [Moran State Park](https://parks.state.wa.us/547/Moran)
 1. [Fort Worden State Park](https://parks.state.wa.us/511/Fort-Worden)
-1. Birch Bay State Park
 1. [Twin Harbors](https://www.parks.wa.gov/292/Twin-Harbors)
 	- [ ] Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Twin+Harbors+State+Park,+3120+WA-105,+Westport,+WA+98595/)
 	- [ ] Pros: Cooler temps, kites, sandy beaches
@@ -112,15 +110,12 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 
 ## Adjustments for next time?
 * Flour, raw ingredient staples, etc?
-* Buy dustpan from Daiso
 * Stuff sack for pillows
 * Camp blanket
-* Add vacuum
-* smaller bucket
 * pepper mill
 * terrarium
 * propane lantern replacement
-* raise bike seat
+* can opener
 
 ## Packing List
 {{ read_csv("travel/camping.csv") }}

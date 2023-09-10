@@ -27,3 +27,6 @@
 - [ ] Pocket Beach, Seattle
 - [ ] Richmond Beach, Shoreline
 - [ ] Golden Gardens, Seattle
+
+## Fishing
+- [ ] Lake Boren

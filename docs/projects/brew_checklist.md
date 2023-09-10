@@ -39,14 +39,14 @@
 	}
 </style>
 
-# Brew Day Checklist  
+# Brew Day Checklist
 <label name="var_label" for="bdate">Brew Date</label><input type="date" id="bdate" name="bdate" required>
 <label name="var_label" for="style">Beer Style</label><input type="text" id="style" name="style" required>
 
-## ⚠️ info  
+## ⚠️ info
 * 
 
-## 📋 set-up  
+## 📋 set-up
 - [ ] Sanitize ferment and serving keg.
 - [X] Set up brewing equipment (kettle, MLT, mash bag, chiller, cart, grain mill, close valves).
 - [X] Filter Strike Volume into boil kettle.
@@ -55,11 +55,11 @@
 - [X] Measure HLT minerals (NaMeta).
 - [X] Measure End of Boil minerals (Ellagic, Yeast Nutrient)
 - [ ] Measure hops and adjuncts.
-- [X] Weigh grains into bucket.
-- [X] Heat Strike Volume to 100°F.
-- [X] Add 1.0 g/gal each of bread yeast and sugar, and rest for 90 minutes.
+- [ ] Weigh grains into bucket.
+- [ ] Heat Strike Volume to 100°F.
+- [ ] Add 1.0 g/gal each of bread yeast and sugar, and rest for 90 minutes.
 
-## 📋 mash  
+## 📋 mash
 - [ ] Begin heating strike water in Boil Kettle at 75% heat.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Adjust grain mill gap spacing (0.028 in).
@@ -76,7 +76,7 @@
 - [ ] After first β rest, and measure/adjust mash pH.
 - [ ] At end of mash, turn off PID, turn off pump, and close MLT valve.
 
-## 📋 mash out  
+## 📋 mash out
 - [ ] Set Boil Kettle to MLT sparge pump flow, open Kettle valve to flood pump line with sparge water.
 - [ ] Open RIMS valve, and pump sparge water volume to MLT (0.6 GPM = 6% power).
 - [ ] Install edge drain dip tube in Boil Kettle.
@@ -86,7 +86,7 @@
 - [ ] Stir Kettle wort thoroughly, measure pre-boil volume/°B. Adjust with Gravity Dilution Calculator as needed.
 - [ ] Drain remaining second runnings through sample valve for yeast propagation, sauergut, and barley tea.
 
-## 📋 boil  
+## 📋 boil
 - [ ] Add Fermcap (9 drops), and bring Boil Kettle to a rolling simmer with no lid.
 - [ ] Begin cleaning MLT and plumbing.
 - [ ] Add hops (FWH / 0:30).
@@ -96,7 +96,7 @@
 - [ ] Begin sanitizing post-boil equipment, including wort chiller.
 - [ ] Flame out, measure wort volume.
 
-## 📋 chill & pitch  
+## 📋 chill & pitch
 - [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 09:00 orientation.
 - [ ] Activate wort chiller and stirrer, then cool to 170°F.
 - [ ] Add whirlpool hop addition in mesh bag.
@@ -108,5 +108,5 @@
 - [ ] Transfer trub, record trub volume, and transfer to pitcher in fridge to reserve as speise for spunding and FFT.
 - [ ] *Begin fermentation schedule.*
 
-## ✏️ notes  
+## ✏️ notes
 <textarea id="notes" name="notes" rows="12" required></textarea>

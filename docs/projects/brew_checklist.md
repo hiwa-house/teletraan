@@ -47,23 +47,23 @@
 * 
 
 ## 📋 set-up
-- [ ] Sanitize ferment and serving keg.
+- [X] Sanitize ferment and serving keg.
 - [X] Set up brewing equipment (kettle, MLT, mash bag, chiller, cart, grain mill, close valves).
 - [X] Filter Strike Volume into boil kettle.
 - [X] Measure Irish moss and rehydrate in water.
 - [X] Measure MLT minerals and dose into MLT (CaSO₄, CaCl₂, NaCl, Ellagic).
 - [X] Measure HLT minerals (NaMeta).
 - [X] Measure End of Boil minerals (Ellagic, Yeast Nutrient)
-- [ ] Measure hops and adjuncts.
-- [ ] Weigh grains into bucket.
-- [ ] Heat Strike Volume to 100°F.
-- [ ] Add 1.0 g/gal each of bread yeast and sugar, and rest for 90 minutes.
+- [X] Measure hops and adjuncts.
+- [X] Weigh grains into bucket.
+- [X] Heat Strike Volume to 100°F.
+- [X] Add 1.0 g/gal each of bread yeast and sugar, and rest for 90 minutes.
 
 ## 📋 mash
-- [ ] Begin heating strike water in Boil Kettle at 75% heat.
-- [ ] Condition pre-measured grains, and rest for 10 minutes.
-- [ ] Adjust grain mill gap spacing (0.028 in).
-- [ ] Mill grains into MLT.
+- [X] Begin heating strike water in Boil Kettle at 75% heat.
+- [X] Condition pre-measured grains, and rest for 10 minutes.
+- [X] Adjust grain mill gap spacing (0.028 in).
+- [X] Mill grains into MLT.
 - [ ] Dose HLT with NaMeta.
 - [ ] Set Boil Kettle to MLT underlet pump flow, open Kettle valve to flood pump line with strike water.
 - [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM = 6% power).

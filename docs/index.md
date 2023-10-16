@@ -1,4 +1,4 @@
-<section markdown="1" class="left-sidebar">
+<div markdown="1" class="left-sidebar">
 
 <div markdown="1">
 

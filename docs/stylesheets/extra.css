@@ -78,3 +78,26 @@ background:#EDEDED;
 a[name=book_link] {
 margin-left: 1em;
 }
+
+/* container */
+.left-sidebar {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/* columns */
+.left-sidebar > * {
+    width:100%;
+    padding:1rem;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .left-sidebar > *:nth-child(1) {
+        width:calc(100% / 3 * 2);
+    }
+    .left-sidebar > *:nth-child(2) {
+        width:calc(100% / 3);
+        order:-1;
+    }
+}

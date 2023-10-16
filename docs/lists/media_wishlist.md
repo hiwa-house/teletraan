@@ -58,3 +58,7 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Medieval
 - Paper Girls
 - Rubikon
+- The Collective
+- Zom 100
+- Hijack
+- Bottoms

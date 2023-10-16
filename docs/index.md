@@ -5,8 +5,8 @@
 
 <blockquote name="internet_quotes">
 
-*It isn't personal. It isn't permanent. It isn't important. It is important to be kind to all, to maintain my center, to be respectful, magnanimous, and wise. <br>
--Stoic Mantra*
+<i>It isn't personal. It isn't permanent. It isn't important. It is important to be kind to all, to maintain my center, to be respectful, magnanimous, and wise. <br>
+-Stoic Mantra</i>
 
 </blockquote>
 <blockquote name="internet_quotes">

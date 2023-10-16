@@ -1,6 +1,7 @@
-<section markdown="1" style="display: flex;">
+<section class="row" markdown="1">
 
-<div class="my-block" markdown="1">
+<div class="left" markdown="1">
+
 ## 💭 Quotes
 
 Test quote
@@ -12,7 +13,8 @@ Test quote
 <a name="book_link" href="" target="_blank">Fermentation</a><br>
 </div>
 
-<div class="my-block" markdown="1">
+<div class="right" markdown="1">
+
 ## 🐬 Simple Joys
 
 * Watching D play with his friends after school

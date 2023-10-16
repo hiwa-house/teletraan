@@ -1,4 +1,4 @@
-<section class="row" markdown="1">
+<section markdown="1" style="display: flex;">
 
 <div class="left" markdown="1">
 

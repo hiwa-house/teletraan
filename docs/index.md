@@ -1,23 +1,18 @@
-<div class="row">
-<div class="left">
-
 ## 💭 Quotes
 
 <blockquote name="internet_quotes">
-
 <i>It isn't personal. It isn't permanent. It isn't important. It is important to be kind to all, to maintain my center, to be respectful, magnanimous, and wise. <br>
 -Stoic Mantra</i>
+</blockquote>
+
+<blockquote name="internet_quotes">
+<i>"To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble." <br>
+-[Bill Watterson](https://www.graduationwisdom.com/speeches/0025-watterson.htm)</i>
 
 </blockquote>
 <blockquote name="internet_quotes">
 
-*"To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble." <br>
--[Bill Watterson](https://www.graduationwisdom.com/speeches/0025-watterson.htm)*
-
-</blockquote>
-<blockquote name="internet_quotes">
-
-*"This bus makes many stops. I have no expectation that you will like all of them." <br>
+*"This bus makes many stops. I have no expectation that you will like all of them."  
 -[Anthony Bourdain](https://www.reddit.com/r/IAmA/comments/197ji0/i_am_anthony_bourdain_ask_me_anything/c8lhrth/")*
 
 </blockquote>
@@ -39,22 +34,12 @@
 <a name="book_link" href="https://teletraan.hiwa.house/" target="_blank">Teletraan</a><br>
 <a name="book_link" href="" target="_blank">Fermentation</a><br>
 
-</div>
-
-<div class="right">
-<div class="row">
-<div class="inner_left">
-
 ## 🐬 Simple Joys
 * Watching D play with his friends after school
 * Rough snuggles in bed after Mama leaves for work
 * Family teamwork on travel adventures
 * Watching snow fall at night
 * Barrels at Sandys
-
-</div>
-
-<div class="inner_right">
 
 ## 💪 Challenges
 * Stosslüften
@@ -64,9 +49,6 @@
 * Project progress each week
 * DIY gifting
 * Snack less, sleep more
-
-</div>
-</div>
 
 ## 🔬 Focus
 
@@ -91,6 +73,3 @@
 
 ### Anxiety
 > Perhaps the metaphor "energy" is the energy the brain expends to continuously compute social requirements and the extent to which you see others as an emotional threat. This causes your brain to keep its "shields up", which can feel exhausting. I feel drained when I think people may potentially judge me: during extended family events, class reunions or ceremonies, but I feel perfectly fine amongst a small group of friends or strangers at the pub. Relatedly, alcohol can also dramatically reduce the drain.
-
-</div>
-</div>

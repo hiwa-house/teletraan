@@ -1,3 +1,5 @@
+<div markdown="1" class="two-column">
+
 ## 💭 Quotes
 
 <blockquote name="internet_quotes">
@@ -33,6 +35,9 @@
 <a name="book_link" href="https://cookbook.hiwa.house/" target="_blank">Cookbook</a><br>
 <a name="book_link" href="https://teletraan.hiwa.house/" target="_blank">Teletraan</a><br>
 <a name="book_link" href="" target="_blank">Fermentation</a><br>
+
+</div>
+<div markdown="1" class="two-column">
 
 ## 🐬 Simple Joys
 * Watching D play with his friends after school
@@ -73,3 +78,7 @@
 
 ### Anxiety
 > Perhaps the metaphor "energy" is the energy the brain expends to continuously compute social requirements and the extent to which you see others as an emotional threat. This causes your brain to keep its "shields up", which can feel exhausting. I feel drained when I think people may potentially judge me: during extended family events, class reunions or ceremonies, but I feel perfectly fine amongst a small group of friends or strangers at the pub. Relatedly, alcohol can also dramatically reduce the drain.
+
+</div>
+
+---

@@ -1,36 +1,3 @@
-<style>
-   .row {
-   	display: flex;
-   	flex-wrap: wrap;
-   }
-   .left {
-		flex-basis: 30%;
-	}
-   .right {
-		flex-basis: 70%;
-	}
-   .inner_left {
-		flex: 50%;
-		padding: 0px;
-   }
-   .inner_right {
-		flex: 50%;
-		padding: 0px;
-   }
-   blockquote[name=internet_quotes] {
-		margin:0.5em 20px;
-		color: #555555;
-		padding:0.1em 10px;
-		border-left:8px solid #4051b5 ;
-		line-height:1.6;
-		position: relative;
-		background:#EDEDED;
-   }
-   a[name=book_link] {
-   	margin-left: 1em;
-   }
-</style>
-
 <div class="row">
 <div class="left">
 

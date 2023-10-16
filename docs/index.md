@@ -1,6 +1,6 @@
-<section markdown="1" style="display: flex;">
+<section markdown="1" class="left-sidebar">
 
-<div class="left" markdown="1">
+<div markdown="1">
 
 ## 💭 Quotes
 
@@ -13,7 +13,7 @@ Test quote
 <a name="book_link" href="" target="_blank">Fermentation</a><br>
 </div>
 
-<div class="right" markdown="1">
+<div markdown="1">
 
 ## 🐬 Simple Joys
 

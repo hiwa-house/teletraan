@@ -10,12 +10,12 @@
 -[Bill Watterson](https://www.graduationwisdom.com/speeches/0025-watterson.htm)</i>
 
 </blockquote>
+
 <blockquote name="internet_quotes">
-
-*"This bus makes many stops. I have no expectation that you will like all of them."  
--[Anthony Bourdain](https://www.reddit.com/r/IAmA/comments/197ji0/i_am_anthony_bourdain_ask_me_anything/c8lhrth/")*
-
+*"This bus makes many stops. I have no expectation that you will like all of them."*  
+*-[Anthony Bourdain](https://www.reddit.com/r/IAmA/comments/197ji0/i_am_anthony_bourdain_ask_me_anything/c8lhrth/")*
 </blockquote>
+
 <blockquote name="internet_quotes">
 
 *"Nonsense? That's how we roll." <br>

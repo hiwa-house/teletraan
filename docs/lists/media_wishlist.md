@@ -47,7 +47,7 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - The Big Door Prize
 - The Tomorrow Job
 - Inside
-- Green Lanter: Beware My Power
+- Green Lantern: Beware My Power
 - Rare Beasts
 - Dinner in America
 - Resident Evil (netflix)
@@ -62,3 +62,6 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Zom 100
 - Hijack
 - Bottoms
+- The Kill Room
+- My Animal
+- Freelance

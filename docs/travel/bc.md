@@ -2,34 +2,34 @@
 
 https://www.google.com/maps/dir/2321+129th+Ave+SE,+Bellevue,+WA+98005,+USA/Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA/T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada/Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada/Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada/4325+Northlands+Boulevard,+Whistler,+BC+V0N+1B4,+Canada/Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada/Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada/  
 
- [directions](https://maps.apple.com/?daddr=)  
+ [🧭](https://maps.apple.com/?daddr=)  
 
 ## Whistler Trip
 
 https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747  
 
-* Costco Marysville [directions](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  
-* T&T [directions](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)  
-* Costco [directions](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)  
-* Shopper's Drug Mart [directions](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
+* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  
+* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)  
+* Costco [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)  
+* Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
 	- Betadine Cold Defence Nasal Spray
 	- Sensodyne Repair & Protect Whitening
-* Condo [directions](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)  
+* Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)  
 	- https://outpost.duve.co/g/XfFlxgmnDyl
 	- Print "Sunpath 38 / 1-808-230-7907"
 	- Check-out: 10:00a
 	- Pool/hot tub
-* Nester's [directions](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
+* Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
 	- Best grocery selection for price
 	- https://nestersliquor.com/
 	- Bottleshop
 		- Stocks Dageraad, Backcountry, Field House, Superflux, Container, Twin Sails
-* Whistler Base [directions](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
+* Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
 	- Snowboard lessons: 2/19-2/20
 
 * Other Groceries/Produce  
-	2. Independent [directions](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
-	3. Fresh Street [directions](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
+	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
+	3. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
 		- $10 off $100 coupon in Pique magazine
 
 * Gas (total~=$140)  
@@ -75,19 +75,19 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 		- Cheung fun
 	- https://sashimiya.ca/  
 		- Sushi/sashimi
-	- https://abento.ca/ [directions]()  
+	- https://abento.ca/ [🧭]()  
 		- Taiwanese bentos
 		- h: 11:30a-3:00p
 * Whistler
-	- https://peakedpies.com/ [directions](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
+	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
 		- Meat Pies
 
 ## Poutine
 * Vancouver
-	- https://westcoastpoutine.wixsite.com/labellepatatevan [directions](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)  
+	- https://westcoastpoutine.wixsite.com/labellepatatevan [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)  
 	- Costco Food Court  
 * Whistler
-	- https://chubbyducks.ca/ [directions](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
+	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
 
 ## Bakeries
 * Vancouver
@@ -96,21 +96,21 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 	- https://newtownbakery.ca/  
 		- Cantonese bakery
 * Whistler
-	- https://purebread.ca/ [directions](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
-	- https://edsbred.com/ [directions](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
+	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
+	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
 
 ## Breweries
-1. https://dageraadbrewing.com/ [directions](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
+1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
 	- Belgian-style
-2. https://backcountrybrewing.com/ [directions](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
+2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
 	- On the way in Squamish
-3. https://fieldhousebrewing.com/ [directions](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
+3. https://fieldhousebrewing.com/ [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
 	- Beer nerd approved
-4. https://superfluxbeer.com/ [directions](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
+4. https://superfluxbeer.com/ [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
 	- IPAs
-5. https://drinkcontainer.beer/ [directions](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
-6. https://brassneck.ca/ [directions](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
-7. https://twinsailsbrewing.com/ [directions](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
+5. https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
+6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
+7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
 
 ## Activities
 * Whistler
@@ -119,7 +119,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 		- Pool, hot tub, sauna
 	- https://scandinave.com/whistler  
 		- Nordic-style outdoor spa
-		- Thermal Journey without Reservation
+		- Thermal Journey without Reservation: $135
 	- https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing  
 		- Free admission
 		- Sledding hill

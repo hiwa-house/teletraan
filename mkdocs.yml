@@ -1,13 +1,14 @@
-site_name: HiWa Teletraan
+site_name: HiWa House
 #site_url: https://github.com/hiwa-house/teletraan
 
 theme:
     name: material
     custom_dir: overrides
     icon:
-        logo: material/monitor-dashboard
-#        logo: apple-touch-icon.png
-    favicon: apple-touch-icon.png
+#        logo: material/monitor-dashboard
+        logo: solid-house-chimney
+    favicon: solid-house-chimney.svg
+#    favicon: apple-touch-icon.png
     features:
 #        - navigation.expand
         - navigation.instant
@@ -22,8 +23,10 @@ markdown_extensions:
     # Python Markdown
     - admonition
     - attr_list
-#    - md_in_html
+    - def_list
+    - md_in_html
     - meta
+    - tables
     - toc:
         permalink: true
 
@@ -34,10 +37,13 @@ markdown_extensions:
         hide_protocol: true
     - pymdownx.smartsymbols
     - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
     - pymdownx.tasklist:
         clickable_checkbox: true
 
 plugins:
+    - awesome-pages
     - search
     - table-reader:
         data_path: "docs"

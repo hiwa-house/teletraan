@@ -1,7 +1,6 @@
 ## Monitored Series
 Ahsoka
 Animaniacs
-Attack on Titan
 Blade Runner: Black Lotus
 The Book of Boba Fett
 Cowboy Bebop (2021)

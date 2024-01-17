@@ -68,9 +68,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 ## Take Out
 * Vancouver
 	- https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2  
-		- BBQ
 	- https://instagram.com/hkbbqmaster/  
-		- BBQ
 	- https://instagram.com/heiheiriceroll/  
 		- Cheung fun
 	- https://sashimiya.ca/  
@@ -92,9 +90,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 ## Bakeries
 * Vancouver
 	- https://instagram.com/kamdobakery/  
-		- Cantonese bakery
 	- https://newtownbakery.ca/  
-		- Cantonese bakery
 * Whistler
 	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
 	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  

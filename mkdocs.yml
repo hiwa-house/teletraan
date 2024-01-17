@@ -10,7 +10,7 @@ theme:
     favicon: solid-house-chimney.svg
 #    favicon: apple-touch-icon.png
     features:
-#        - navigation.expand
+        - navigation.expand
         - navigation.instant
         - navigation.path
     palette:

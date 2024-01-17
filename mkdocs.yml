@@ -12,6 +12,7 @@ theme:
     features:
 #        - navigation.expand
         - navigation.instant
+        - navigation.path
     palette:
         primary: green
 
@@ -43,7 +44,8 @@ markdown_extensions:
         clickable_checkbox: true
 
 plugins:
-    - awesome-pages
+    - awesome-pages:
+        collapse_single_pages: true
     - search
     - table-reader:
         data_path: "docs"

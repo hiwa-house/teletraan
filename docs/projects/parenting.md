@@ -1,6 +1,6 @@
-# How to David
+# Parenting
 
-## ALLOWANCE
+## Allowance
 
 - 5 wooden = 1 silver, 3 silver = $5
 - Spending plan:
@@ -13,7 +13,7 @@
 - Debit card?
 - School lunch stipend?
 
-## BEHAVIOR REFLECTION
+## Behavior Reflection
 
 1. What happened?
 2. How were you feeling and what were you needing?
@@ -22,9 +22,8 @@
 5. What have you learnt and what will you do differently next time?
 6. How can the damage be repaired?
 
-## BOOKS
+## Books with Baba
 
-- [ ] The BFG
 - [ ] Doctor Doolittle
 - [ ] The Rescuers
 ---
@@ -51,25 +50,18 @@
 - [X] The Lion, the Witch, and the Wardrobe
 - [X] Charlie and the Chocolate Factory
 - [X] Charlie and the Great Glass Elevator
-https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all-time
+- [X] The BFG
+---
+https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all-time  
 
-## BUBBLE SOLUTION FORMULA
+## Bubble Solution Formula
 
-40	grams	dishwashing liquid  
-100	grams	glycerol  
-1	gram	guar gum powder  
-1000	grams	water  
+- [ ] 40	grams	dishwashing liquid
+- [ ] 100	grams	glycerol
+- [ ] 1	gram	guar gum powder
+- [ ] 1000	grams	water
 
-## DEALING WITH A CHALLENGE
-
-Even if you try and fail, always respond to challenge with:  
-* Hard Work
-* Honesty
-* Helping Others as Best We Can (Compassion)  
-You can't fail until you quit.  
-Failure is an event, not a person. Failing doesn't mean you're a failure.  
-
-## PARENTING METHODS
+## Coaching Success
 1. Give incentive to learn from the masters
 	- Pay $2/chapter of an book/audiobook and then, summarize the main points in my own words, choosing books on management, wealth building, and personal growth.
 2. Encourage questions
@@ -80,12 +72,23 @@ Failure is an event, not a person. Failing doesn't mean you're a failure.
 	- Model working hard and doing a job the right way. Shortcuts can be encouraged only if they increase efficiency without affecting quality.
 5. Teach kids to be powerful
 	- Indulgence in negative self-talk is never allowed. Replace negative beliefs (“I can’t do this”), with positive ones, focusing on the desired outcome. Encourage goalsetting in all areas of his life. Write down goals and review them together.  
-https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-successful-children/
+---
+https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-successful-children/  
 
-## RESILIENCE
+## Confronting a Challenge
+
+* Even if you try and fail, always respond to challenge with:
+	* Hard Work
+	* Honesty
+	* Helping Others as Best We Can (Compassion)
+* You can't fail until you quit.
+* Failure is an event, not a person. Failing doesn't mean you're a failure.
+
+## Resilience
 * **Emotional Regulation:** When feelings overwhelm you, you can’t make good decisions. You’re an emotional crash test dummy. Slow down and get some distance. Notice and name your emotions. Then reappraise. Is this really that bad? Are these thoughts useful?
 * **Optimism:** When we can’t see a potential positive outcome, it’s rational to give up. Consider your Best Possible Self. See difficulty as transient, local, and controllable so you stop feeling like a pigeon in life’s shooting gallery.
 * **Cognitive Agility:** When you immediately jump to the worst-case scenario, you’re going to want to quit. Take the time to consider more possibilities. And then ask yourself which one you’d bet the mortgage on being most likely. Otherwise, you’ll feel like a shut-in in a house of horrors.
 * **Self-Compassion:** You’re letting someone walk all over you. But the person doing the walking is also you. Take that compassion you usually extend to others and offer some of it to yourself.
 * **Self-Efficacy:** You build confidence and agency by accomplishing things often enough that it changes how you see yourself. Start small and achieve goals until you start to see yourself as “the kind of person who achieves their goals.”  
-https://bakadesuyo.com/2023/04/how-to-be-resilient-2/
+---
+https://bakadesuyo.com/2023/04/how-to-be-resilient-2/  

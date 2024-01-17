@@ -1,3 +1,5 @@
+# Brew Day Checklist
+
 <style>
 	input[name=style], input[name=bdate] {
 	padding: 2px 10px 5px 5px;
@@ -39,7 +41,6 @@
 	}
 </style>
 
-# Brew Day Checklist
 <label name="var_label" for="bdate">Brew Date</label><input type="date" id="bdate" name="bdate" required>
 <label name="var_label" for="style">Beer Style</label><input type="text" id="style" name="style" required>
 

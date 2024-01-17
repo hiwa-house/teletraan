@@ -1,7 +1,9 @@
 # Total Responsibility Transfer
-A strategy dividing household labor more equally
-Emily Oster
-https://emilyoster.substack.com/p/total-responsibility-transfer
+
+**A strategy for dividing household labor more equally**
+*[Emily Oster](https://emilyoster.substack.com/p/total-responsibility-transfer)*
+
+---
 
 Today marks the second anniversary of The Family Firm, my third book. The book focuses on data around older children and, more than that, on using deliberate decision-making to create a family-life structure that you love. If you haven’t read it, this time of year is a good time!
 
@@ -39,7 +41,7 @@ Total responsibility transfer is not going to fix the problem of invisible labor
 
 When I do choose to TRT something, I think I’m better at staying out of it. Just don’t ask my family about that. 
 
-Resources:
-Thomas Phelan, The Manager Mom Epidemic
-Eve Rodsky, Fair Play
-Emily Oster, The Family Firm
+*Resources:*
+> Thomas Phelan, The Manager Mom Epidemic
+> Eve Rodsky, Fair Play
+> Emily Oster, The Family Firm

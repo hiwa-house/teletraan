@@ -1,3 +1,5 @@
+# Media Wishlist
+
 ## Monitored Series
 Ahsoka
 Animaniacs
@@ -36,13 +38,13 @@ Sword Art Online
 Tiny World
 Young Justice
 
-## ANIME
+## Anime Dubs
 - high school of the dead
 - kurokami (black god)
 - akame ga kill
 - parasyte
 
-## MUSIC
+## Music
 - Kamaka Camarillo
 - Keauhou
 - *Missing from Wedding Playlist*
@@ -56,7 +58,7 @@ Young Justice
 $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)[%title%]
 ```
 
-## MOVIES/SERIES (undecided)
+## Movies/Series *(undecided)*
 - The Portable Door
 - The Wrath of Becky
 - Quasi
@@ -103,156 +105,155 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Maboroshi
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
-2001: A Space Odyssey
-Stalker
-Close Encounters of the Third Kind
-Blade Runner
-Alien
-Under the Skin
-Children of Men
-Metropolis (1927)
-Star Wars
-The Matrix
-Starship Troopers
-The Day the Earth Stood Still
-The Man Who Fell to Earth
-Arrival
-Edge of Tomorrow
-Terminator 2: Judgment Day
-Eternal Sunshine of the Spotless Mind
-Invasion of the Body Snatchers (1978)
-Planet of the Apes
-Solaris (1972)
-The Thing (1982)
-The Empire Strikes Back
-Snowpiercer
-Minority Report
-Quartermass and the Pit
-The Fly (1986)
-Alphaville
-Brazil
-Ex Machina
-Mad Max: Fury Road
-La Jetee
-Akira
-Invasion of the Body Snatchers (1956)
-Aliens
-Her
-Forbidden Planet
-Godzilla
-Inception
-Wall-E
-The Terminator
-Videodrome
-Back to the Future
-They Live
-Gravity
-A Trip to the Moon (1902)
-The Brother From Another Planet
-Looper
-The Road Warrior
-Everything Everywhere All at Once
-The Martian
-Star Trek II: Wrath of Khan
-A Clockwork Orange
-Dune: Part I
-War of the Worlds (2005)
-Seconds
-Primer
-Moon
-Robocop
-A Scanner Darkly
-E.T. The Extra-Terrestrial
-12 Monkeys
-Contact
-Avatar (2009)
-Interstellar
-Annihilation
-Liquid Sky
-Fantastic Planet
-The Andromeda Strain (1971)
-Fahrenheit 451 (1966)
-Escape from New York
-Logan's Run
-Ghost in the Shell (1995)
-Total Recall
-A.I. Artificial Intelligence
-The Host
-Donnie Darko
-High Life
-Nope
-Galaxy Quest
-Tetsuo: The Iron Man
-Day of the Triffids
-Strange Days
-THX 1138
-Paprika
-Sunshine
-Star Trek IV: The Voyage Home
-Blade Runner 2049
-Scanners
-Earth vs. the Flying Saucers
-Cloverfield
-Dark Star
-The Incredible Shrinking Man
-Star Wars: The Last Jedi
-The Iron Giant
-Silent Running
-Another Earth
-Soylent Green
-Rollerball (1975)
-Predator (1987)
-Starman
-Westworld (1973)
-This Island Earth
-Space is the Place
-Destination Moon
-After Yang
-Jurassic Park
-Colossus: The Forbin Project
-Invaders from Mars (1953)
-Barbarella
-Existenz
-Serenity
-Gattaca
-Death Race 2000 (1975)
-Them!
-Rogue One
-The Vast of Night
-Guardians of the Galaxy
-The Beast from 2000 Fathoms
-The Time Machine (1954)
-Dark City
-Pi
-Time Bandits
-Phase IV (1974)
-Attack the Block
-Things to Come
-God Told Me To
-World on a Wire
-Time after Time
-Never Let Me Go
-The Fifth Element
-Ad Astra
-2046
-District 9
-Born in Flames
-Repo Man
-Tron
-Zardoz
-Bill & Ted's Excellent Adventure
-Independence Day
-Dune (1984)
-Idiocracy
-Adventures of Buckaroo Banzai
-Men in Black
-The Hitchiker's Guide to the Galaxy
-The Last Starfighter
-The Running Man
-Species
-Demolition Man
-The Omega Man
-Tank Girl
-
+1. 2001: A Space Odyssey
+1. Stalker
+1. Close Encounters of the Third Kind
+1. Blade Runner
+1. Alien
+1. Under the Skin
+1. Children of Men
+1. Metropolis (1927)
+1. Star Wars
+1. The Matrix
+1. Starship Troopers
+1. The Day the Earth Stood Still
+1. The Man Who Fell to Earth
+1. Arrival
+1. Edge of Tomorrow
+1. Terminator 2: Judgment Day
+1. Eternal Sunshine of the Spotless Mind
+1. Invasion of the Body Snatchers (1978)
+1. Planet of the Apes
+1. Solaris (1972)
+1. The Thing (1982)
+1. The Empire Strikes Back
+1. Snowpiercer
+1. Minority Report
+1. Quartermass and the Pit
+1. The Fly (1986)
+1. Alphaville
+1. Brazil
+1. Ex Machina
+1. Mad Max: Fury Road
+1. La Jetee
+1. Akira
+1. Invasion of the Body Snatchers (1956)
+1. Aliens
+1. Her
+1. Forbidden Planet
+1. Godzilla
+1. Inception
+1. Wall-E
+1. The Terminator
+1. Videodrome
+1. Back to the Future
+1. They Live
+1. Gravity
+1. A Trip to the Moon (1902)
+1. The Brother From Another Planet
+1. Looper
+1. The Road Warrior
+1. Everything Everywhere All at Once
+1. The Martian
+1. Star Trek II: Wrath of Khan
+1. A Clockwork Orange
+1. Dune: Part I
+1. War of the Worlds (2005)
+1. Seconds
+1. Primer
+1. Moon
+1. Robocop
+1. A Scanner Darkly
+1. E.T. The Extra-Terrestrial
+1. 12 Monkeys
+1. Contact
+1. Avatar (2009)
+1. Interstellar
+1. Annihilation
+1. Liquid Sky
+1. Fantastic Planet
+1. The Andromeda Strain (1971)
+1. Fahrenheit 451 (1966)
+1. Escape from New York
+1. Logan's Run
+1. Ghost in the Shell (1995)
+1. Total Recall
+1. A.I. Artificial Intelligence
+1. The Host
+1. Donnie Darko
+1. High Life
+1. Nope
+1. Galaxy Quest
+1. Tetsuo: The Iron Man
+1. Day of the Triffids
+1. Strange Days
+1. THX 1138
+1. Paprika
+1. Sunshine
+1. Star Trek IV: The Voyage Home
+1. Blade Runner 2049
+1. Scanners
+1. Earth vs. the Flying Saucers
+1. Cloverfield
+1. Dark Star
+1. The Incredible Shrinking Man
+1. Star Wars: The Last Jedi
+1. The Iron Giant
+1. Silent Running
+1. Another Earth
+1. Soylent Green
+1. Rollerball (1975)
+1. Predator (1987)
+1. Starman
+1. Westworld (1973)
+1. This Island Earth
+1. Space is the Place
+1. Destination Moon
+1. After Yang
+1. Jurassic Park
+1. Colossus: The Forbin Project
+1. Invaders from Mars (1953)
+1. Barbarella
+1. Existenz
+1. Serenity
+1. Gattaca
+1. Death Race 2000 (1975)
+1. Them!
+1. Rogue One
+1. The Vast of Night
+1. Guardians of the Galaxy
+1. The Beast from 2000 Fathoms
+1. The Time Machine (1954)
+1. Dark City
+1. Pi
+1. Time Bandits
+1. Phase IV (1974)
+1. Attack the Block
+1. Things to Come
+1. God Told Me To
+1. World on a Wire
+1. Time after Time
+1. Never Let Me Go
+1. The Fifth Element
+1. Ad Astra
+1. 2046
+1. District 9
+1. Born in Flames
+1. Repo Man
+1. Tron
+1. Zardoz
+1. Bill & Ted's Excellent Adventure
+1. Independence Day
+1. Dune (1984)
+1. Idiocracy
+1. Adventures of Buckaroo Banzai
+1. Men in Black
+1. The Hitchiker's Guide to the Galaxy
+1. The Last Starfighter
+1. The Running Man
+1. Species
+1. Demolition Man
+1. The Omega Man
+1. Tank Girl
 ---
-https://www.rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/
+https://rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/  

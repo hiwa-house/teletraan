@@ -1,6 +1,6 @@
 # Total Responsibility Transfer
 
-**A strategy for dividing household labor more equally**
+**A strategy for dividing household labor more equally**  
 *[Emily Oster](https://emilyoster.substack.com/p/total-responsibility-transfer)*
 
 ---

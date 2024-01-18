@@ -27,4 +27,4 @@
 
 ---
 
-Inspired by [this page](https://www.ling.upenn.edu/~beatrice/buddhist-practice/six-guidelines.html).
+Inspired by [this page](https://www.ling.upenn.edu/~beatrice/personal/buddhist-practice/index.html).

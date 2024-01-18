@@ -13,7 +13,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 * Costco [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)  
 * Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
 	- Betadine Cold Defence Nasal Spray
-	- Sensodyne Repair & Protect Whitening
+	- Sensodyne Repair & Protect Whitening *w/ Novamin*
 * Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)  
 	- https://outpost.duve.co/g/XfFlxgmnDyl
 	- Print "Sunpath 38 / 1-808-230-7907"
@@ -32,7 +32,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 	3. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
 		- $10 off $100 coupon in Pique magazine
 
-* Gas (total~=$140)  
+* Gas *(total ~= $140)*  
 	- Costco Marysville: fill
 	- Whistler: 20 liters @ $1.80/l
 	- Costco Marysville: fill

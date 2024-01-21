@@ -4,6 +4,10 @@
 
 	To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.
 
+!!! quote "[Bertrand Russell](https://www.columbia.edu/~ey2172/russell.html)"
+
+	The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are so full of doubts.
+
 !!! quote "[Anthony Bourdain](https://www.reddit.com/r/IAmA/comments/197ji0/i_am_anthony_bourdain_ask_me_anything/c8lhrth/)"
 
 	This bus makes many stops. I have no expectation that you will like all of them.
@@ -12,35 +16,48 @@
 
 	Nonsense? That's how we roll.
 
-!!! quote "[Bertrand Russell](https://www.columbia.edu/~ey2172/russell.html)"
-
-	The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are so full of doubts.
-
 </div>
 
 <div class="grid cards" markdown>
+
+-	## 🥗 Food Goals
+
+	---
+
+	* Maintain time-restricted eating.
+	* Protein- and fiber-rich breakfast.
+	* Eat more plants.
+	* Reduce alcohol.
+
+-	## 📈 Money Goals
+
+	---
+
+	* No drinks when eating out.
+	* Takeout only 3 times/month.
+	* Invest more in vacations/kiddo.
+	* Investment property.
 
 -	## 🐬 Simple Joys
 
 	---
 
-	* Watching D play with his friends after school
-	* Rough snuggles in bed after Mama leaves for work
-	* Family teamwork on travel adventures
-	* Watching snow fall at night
-	* Barrels at Sandys
+	* Watching D play with his friends after school.
+	* Rough snuggles in bed after Mama leaves for work.
+	* Family teamwork on travel adventures.
+	* Watching snow fall at night.
+	* Barrels at Sandys.
 
 -	## 💪 Challenges
 
 	---
 
-	* Stosslüften
 	* "I'm happy to see you!"
-	* Daily exercise sets
-	* Swimming/hiking twice each month
-	* Project progress each week
-	* DIY gifting
-	* Snack less, sleep more
+	* Su-Fr exercise: 5 sets of calf, squat, pushup, bear crawl.
+	* Morning walk.
+	* Swimming/hiking twice each month.
+	* Project progress each week.
+	* Snack less, sleep more.
 
 
 </div>

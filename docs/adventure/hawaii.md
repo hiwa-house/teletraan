@@ -43,7 +43,7 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-waikiki-kapahulu-an
 https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-mccully/  
 
 ---
-{{ read_csv("travel/hawaii.csv") }}
+{{ read_csv("adventure/hawaii.csv") }}
 
 ---
 ## Packing List

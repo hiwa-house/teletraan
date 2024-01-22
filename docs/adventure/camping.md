@@ -120,4 +120,4 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * kite
 
 ## Packing List
-{{ read_csv("travel/camping.csv") }}
+{{ read_csv("adventure/camping.csv") }}

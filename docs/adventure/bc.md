@@ -25,7 +25,7 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 	- Bottleshop
 		- Stocks Dageraad, Backcountry, Field House, Superflux, Container, Twin Sails
 * Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
-	- Snowboard lessons: 2/19-2/20
+	- Snowboard lessons: Mo-Tu
 
 * Other Groceries/Produce  
 	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)

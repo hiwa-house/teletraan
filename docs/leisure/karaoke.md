@@ -1,4 +1,4 @@
 
 Songs to sing.
 
-{{ read_csv("lists/karaoke.csv") }}
+{{ read_csv("leisure/karaoke.csv") }}

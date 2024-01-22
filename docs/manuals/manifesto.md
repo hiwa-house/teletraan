@@ -1,3 +1,5 @@
+# Manifesto of the Idle Parent
+
 * We reject the idea that parenting requires hard work.
 * We pledge to leave our children alone.
 * We reject the rampant consumerism that invades children’s lives from the moment they are born.

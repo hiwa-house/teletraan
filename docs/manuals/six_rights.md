@@ -1,3 +1,5 @@
+# Six Right Livelihood Guidelines
+
 ## 🥢 Consume Mindfully
 * Eat with awareness and gratitude.
 * Pause before buying and see if breathing is enough.
@@ -27,4 +29,4 @@
 
 ---
 
-Inspired by [this page](https://www.ling.upenn.edu/~beatrice/personal/buddhist-practice/index.html).
+Borrowed from [this page](https://www.ling.upenn.edu/~beatrice/personal/buddhist-practice/index.html).

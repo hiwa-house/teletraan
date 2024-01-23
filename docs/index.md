@@ -20,7 +20,7 @@
 
 <div class="grid cards" markdown>
 
--	## 🥗 Food Goals
+-	## 🥗 Nutrition
 
 	---
 
@@ -29,7 +29,7 @@
 	* Eat more plants.
 	* Reduce alcohol.
 
--	## 📈 Money Goals
+-	## 📈 Money Health
 
 	---
 

@@ -59,8 +59,13 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 
 ## Financial Education & Support
 
+!!! warning
+
+	For older kids, paying for grades did not work. [www](https://scholar.harvard.edu/files/fryer/files/financial_incentives_and_student_achievement_evidence_from_randomized_trials.pdf)
+
 * Elementary school:
-	- 5 wooden = 1 silver, 3 silver = $5
+	* Token economy: 1 token per chore
+	- 5 wooden = 1 silver -> 3 silver = $5
 	- Spending plan:
 		- Informed decision: wait for a sale, need or want, alternatives?
 		- Reflect: did the purchase meet expectations? would you do it again?

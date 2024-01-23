@@ -20,7 +20,7 @@
 
 <div class="grid cards" markdown>
 
--	## 🥗 Nutrition
+-	## 🥗 Nourishment
 
 	---
 
@@ -29,7 +29,7 @@
 	* Eat more plants.
 	* Reduce alcohol.
 
--	## 📈 Money Health
+-	## 📈 Fiscal
 
 	---
 
@@ -53,8 +53,8 @@
 	---
 
 	* "I'm happy to see you!"
-	* Su-Fr exercise: 5 sets of calf, squat, pushup, bear crawl.
-	* Morning walk.
+	* Su-Fr: 5 sets of calf, squat, pushup, bear crawl.
+	* Morning walks.
 	* Swimming/hiking twice each month.
 	* Project progress each week.
 	* Snack less, sleep more.

@@ -131,3 +131,6 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 		- Duration: ~1.5hours
 		- Whistler Orientation Tour: Meet at the CIBC Guest Satisfaction Centre at the Alpine Lightboard (top of the Whistler Village Gondola).
 		- Blackcomb Orientation Tour: Meet at the Lightboard outside the Rendezvous, at the top of the Blackcomb Gondola.
+
+## Packing List
+- [ ] ???

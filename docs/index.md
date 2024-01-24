@@ -33,10 +33,10 @@
 
 	---
 
-	* No drinks when eating out.
+	* No drinks when dining out.
 	* Takeout only 3 times/month.
-	* Invest more in vacations/kiddo.
-	* Investment property.
+	* Invest in more vacations/kiddo.
+	* Investment property?
 
 -	## 🐬 Simple Joys
 
@@ -53,9 +53,9 @@
 	---
 
 	* "I'm happy to see you!"
-	* Su-Fr: 5 sets of calf, squat, pushup, bear crawl.
+	* *Su-Fr:* 5x - calf, squat, pushup, bear crawl.
 	* Morning walks.
-	* Swimming/hiking twice each month.
+	* Kayak/hike twice each month.
 	* Project progress each week.
 	* Snack less, sleep more.
 

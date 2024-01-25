@@ -9,7 +9,7 @@
 - [ ] 89° side angle guide *(88° for more aggressive edge)*
 - [ ] Clamp
 - [ ] Fine chromium bastard file
-- [ ] Coarse diamond stone *(100 grit or silver/black DMT)*
+- [ ] Extra coarse diamond stone *(100 grit or silver/black DMT)*
 - [ ] Fine diamond stone *(400 grit or red/blue DMT)*
 - [ ] Coarse sanding sponge
 ---
@@ -35,9 +35,9 @@
 https://snowboardingforum.com/threads/wax-recommendations.268210/  
 https://skitalk.com/threads/cheap-vs-expensive-diamond-stones.8299/  
 
-## Yellow Jackets
+## Yellowjackets
 
-Yellow jackets build hives in wall/ceiling voids of the house, wood piles, and underground. Look for a busy exterior entry point as you will not see a hive. If the hive is out of reach and none are being seen inside, it can be left alone to die in the fall (it will not reactivate in the spring).  
+Yellowjackets build hives in wall/ceiling voids of the house, wood piles, and underground. Look for a busy exterior entry point as you will not see a hive. If the hive is out of reach and none are being seen inside, it can be left alone to die in the fall (it will not reactivate in the spring).  
 
 There's nothing you can buy off the shelf that will penetrate the hive from outside, at least without getting dangerously close. Order a single packet of Alpine WSG on Amazon. Mix it in a half gallon of water and let it dissolve for 5 min. Then spray it in the entry point (save the rest as it will last a good while). Any sprayer with a tight stream spray will work; especially if done at night. Alpine doesn't irritate them and the hive will be dead by the next day. If not, spray again. Also, they will not reactivate next season in that spot.  
 

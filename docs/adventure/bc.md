@@ -132,5 +132,60 @@ https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!
 		- Whistler Orientation Tour: Meet at the CIBC Guest Satisfaction Centre at the Alpine Lightboard (top of the Whistler Village Gondola).
 		- Blackcomb Orientation Tour: Meet at the Lightboard outside the Rendezvous, at the top of the Blackcomb Gondola.
 
-## Packing List
-- [ ] ???
+### Pack List
+- [ ] truck USB charger
+- [ ] blankets
+- [ ] tire inflator
+- [ ] air purifier
+- [ ] hand warmers
+- [ ] laptop
+- [ ] dongles/cables
+- [ ] CO₂ monitor
+- [ ] bluetooth speaker
+- [ ] headlamp
+- [ ] lego
+- [ ] drawing/origami supplies
+---
+- [ ] KF94 masks
+- [ ] trimmer
+- [ ] sleep mask
+- [ ] toiletries
+- [ ] nose spray
+- [ ] vitamins
+- [ ] toothbrush
+---
+- [ ] tea pint
+- [ ] kraut
+- [ ] crackers
+- [ ] water bottle
+- [ ] kitchen knife
+- [ ] half pint, x4
+- [ ] tea strainer
+- [ ] green tea
+- [ ] cereal/granola
+- [ ] chips
+- [ ] nuts
+- [ ] milk
+- [ ] dip
+---
+- [ ] boots?
+- [ ] hiking shoes
+- [ ] snow gear
+- [ ] beanie
+- [ ] puffy vest
+- [ ] underwear, x3
+- [ ] t-shirts, x3
+- [ ] pajama pants
+- [ ] sweats
+- [ ] jeans
+- [ ] thermal pants
+- [ ] thermal shirt, x3
+- [ ] wool shirt, x2
+- [ ] wool socks, x3
+- [ ] thick wool socks
+- [ ] thick hoodie
+- [ ] belt
+---
+- [ ] USPS freeze
+- [ ] lock shed
+- [ ] security timer light

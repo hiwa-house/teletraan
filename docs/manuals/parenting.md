@@ -78,8 +78,7 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 	- School lunch stipend?
 	- Pay $2/chapter read and then, summarize the main points in his own words, choosing books on management, wealth building, and personal growth.
 * High school:
-	* Basic car: He pays 10%, we pay 90%.
-	* Insurance is free if grades are maintained, and he works part-time.
+	* He uses truck as needed for free, but pays for insurance and maintenance.
 	* Teach minor vehicle maintenance. He is expected to price shop for major repairs.
 	* Match investment savings.
 * College to age 25:

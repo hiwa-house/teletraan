@@ -11,8 +11,8 @@
 - [ ] Fine chromium bastard file
 - [ ] Coarse diamond stone *(100 grit or silver/black DMT)*
 - [ ] Fine diamond stone *(400 grit or red/blue DMT)*
-- [ ] Gummy stone
-
+- [ ] Coarse sanding sponge
+---
 1. Base Cleaning:
 	1. Crayon small amount of wax onto the base.
 	2. Heat with heat gun in one hand, while wiping melted wax with a rag in the other.
@@ -21,7 +21,8 @@
 	1. Crayon thin, even layer of wax onto the base (including sidewalls).
 	2. Melt wax with heat gun, then allow to cool.
 	3. Buff with nylon roto brush.
-3. Set base edge bevel *(rarely necessary)*: https://youtube.com/watch?v=zR0WL3aKONE  
+3. Set base edge bevel: https://youtube.com/watch?v=zR0WL3aKONE  
+	1. Rarely necessary. Possibly only after major damage. Just have shop do it?
 4. Bevel side edges: https://youtube.com/watch?v=xdzEwUSZdbI  
 	1. Clean edge with green scrubber.
 	2. Lubricate during filing with 80/20 water to alcohol.
@@ -29,7 +30,7 @@
 	4. Between each grit, knock down burr on base edge.
 	5. Switch to coarse diamond stone, repeat steps 3-4.
 	6. Switch to fine diamond stone, repeat steps 3-4.
-	7. Feather last 3-4" on tips with gummy stone to detune.
+	7. Feather last 3-4" on tips with sanding sponge to detune.
 ---
 https://snowboardingforum.com/threads/wax-recommendations.268210/  
 https://skitalk.com/threads/cheap-vs-expensive-diamond-stones.8299/  

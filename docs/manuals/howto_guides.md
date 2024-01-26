@@ -35,6 +35,12 @@
 https://snowboardingforum.com/threads/wax-recommendations.268210/  
 https://skitalk.com/threads/cheap-vs-expensive-diamond-stones.8299/  
 
+## Ventilation
+
+https://sciencedirect.com/science/article/pii/S0048969722029813  
+https://forhealth.org/tools/co2-calculator/  
+https://forhealth.org/Harvard.Schools_For_Health.Foundations_for_Student_Success.pdf  
+
 ## Yellowjackets
 
 Yellowjackets build hives in wall/ceiling voids of the house, wood piles, and underground. Look for a busy exterior entry point as you will not see a hive. If the hive is out of reach and none are being seen inside, it can be left alone to die in the fall (it will not reactivate in the spring).  
@@ -43,9 +49,3 @@ There's nothing you can buy off the shelf that will penetrate the hive from outs
 
 https://reddit.com/r/pestcontrol/comments/ymu3c9/yellow_jacket_control_if_youre_searching/  
 https://amazon.com/dp/B00OZ9C6WC  
-
-## Ventilation
-
-https://sciencedirect.com/science/article/pii/S0048969722029813  
-https://forhealth.org/tools/co2-calculator/  
-https://forhealth.org/Harvard.Schools_For_Health.Foundations_for_Student_Success.pdf  

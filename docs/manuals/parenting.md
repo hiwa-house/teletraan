@@ -162,3 +162,13 @@ https://kidnonfic.substack.com/p/tech-stuff-for-ten-yr-olds
 * **Get clean.** It’s amazing how an impromptu bath can provide rest for young and old alike. Depending on their age, they may like extra bubbles, a bath bomb, or extra toys. Caring for your body is important!
 ---
 https://pbs.org/parents/thrive/simple-self-care-habits-for-kids  
+
+## Urge vs. Action
+
+> Really, what we have to teach our kids is how to differentiate urge from action. For example, having the urge to hit is okay; hitting a person is not okay. We know this to be true in our adult lives — that there’s a big difference between being angry and then doing something rash or irresponsible or hurtful out of anger. We know that we can type the email and not send it. We know that we can want to quit on the spot but think better of it.
+
+> Parents often have the goal of getting rid of the urge *(What’s wrong with you? Why would you want to hurt someone?)*, but it’s better to humanize the urge and shift where we allow a child to discharge it, because it allows the child to gain regulation and, over time, make better decisions.
+
+> Instead of shaming them for the feeling *(which is not in their control)* empower them about their actions *(which are much more in their control)*. Our job is to teach them about regulation, about redirection, about our ability to realize we’re going down a bad road, stop and turn around. It’s also to teach them about the responsibility to evaluate after we’ve lost control, apologize, repair and learn from what happened.
+---
+https://thepaintedporch.com/products/good-inside-a-guide-to-becoming-the-parent-you-want-to-be  

@@ -4,13 +4,13 @@
 
 	To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.
 
-!!! quote "[Bertrand Russell](https://www.columbia.edu/~ey2172/russell.html)"
-
-	The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are so full of doubts.
-
 !!! quote "[Anthony Bourdain](https://www.reddit.com/r/IAmA/comments/197ji0/i_am_anthony_bourdain_ask_me_anything/c8lhrth/)"
 
 	This bus makes many stops. I have no expectation that you will like all of them.
+
+!!! quote "[Benjamin Franklin](https://founders.archives.gov/documents/Franklin/01-02-02-0028)"
+
+	Well done is better than well said.
 
 !!! quote "[Kill la Kill](https://streamable.com/6q8n)"
 

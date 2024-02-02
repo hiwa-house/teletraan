@@ -1,13 +1,14 @@
 # Dream List
 
 ## Want to Go
+* Denmark
 * Japan
 * Vancouver
 * Thailand
 * Singapore
 * Iceland
-* Norway
 * Ireland
+* New Zealand
 
 ## Want to Have
 

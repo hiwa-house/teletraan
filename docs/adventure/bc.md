@@ -1,6 +1,6 @@
 # BC
 
-## Whistler Trip
+## Itinerary
 [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
 
 * Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  

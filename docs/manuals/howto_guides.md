@@ -19,7 +19,7 @@
 - [ ] Coarse sanding sponge
 ---
 1. Set base edge bevel: https://youtube.com/watch?v=zR0WL3aKONE  
-	1. Rarely necessary. Possibly only after major damage. Just have shop do it?
+	1. Rarely necessary. Possibly only after major damage. *Just have shop do it?*
 2. Bevel side edges: https://youtube.com/watch?v=xdzEwUSZdbI  
 	1. Clean edge with green scrubber.
 	2. Lubricate during filing with 80/20 water to alcohol.

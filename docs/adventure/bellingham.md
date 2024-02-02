@@ -1,6 +1,6 @@
-## Bellingham
+# Bellingham
 
-### Outdoor Dining
+## Dine In
 - [X] [Otherlands](https://www.otherlandsbeer.com/the-cafe) *(euro, brunch)*
 - [X] [Stemma Brewing Co](https://www.stemmabrewing.com/taplist) *(taco truck, sheltered, heated)*
 - [X] [Boundary Bay Brewing](https://www.bbaybrewery.com/brewpub-menu) *(pub grub, sheltered, heated)*
@@ -24,7 +24,7 @@
 - Birch Door *(fancy brunch)*
 - Carnal *(upscale meat)*
 
-### Takeout or Indoor Dining Only
+## Counter Service
 - [X] [Cafe Rumba](https://www.clover.com/online-ordering/cafe-rumba-bellingham) *(peruvian sammies, oh god the sammies)*
 - [X] [Mallard](https://www.mallardicecream.com/) *(ice cream)*
 - [X] [Mount Bakery Cafe](https://www.mountbakery.com/downtown-mount-bakery) *(pastries)*
@@ -50,7 +50,7 @@
 - JUXT Taphouse *(bar food)*
 - Hot Mess *(cheesesteaks)*
 
-### Adventures
+## Adventures
 - [X] Teddy Bear Cove
 - [X] Point Whitehorn Beach *(agate collecting, I can see Canada from my house)*
 - [X] Whatcom Falls Park
@@ -62,12 +62,9 @@
 - Marine Park
 
 ### LEGEND
-- [X] Tested, would try again
-- [ ] Want to try
-- Untried, untested
-
----
----
+- [X] Fav; would try again
+- [ ] Try; Do or do not, there is no
+- Brainstormed ideas
 
 ### Pack List
 - [ ] truck USB charger
@@ -128,3 +125,6 @@
 - [ ] USPS freeze
 - [ ] lock shed
 - [ ] security timer light
+
+---
+ [🧭](https://maps.apple.com/?daddr=)  

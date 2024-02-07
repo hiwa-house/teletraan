@@ -170,5 +170,6 @@ https://pbs.org/parents/thrive/simple-self-care-habits-for-kids
 > Parents often have the goal of getting rid of the urge *(What’s wrong with you? Why would you want to hurt someone?)*, but it’s better to humanize the urge and shift where we allow a child to discharge it, because it allows the child to gain regulation and, over time, make better decisions.
 
 > Instead of shaming them for the feeling *(which is not in their control)* empower them about their actions *(which are much more in their control)*. Our job is to teach them about regulation, about redirection, about our ability to realize we’re going down a bad road, stop and turn around. It’s also to teach them about the responsibility to evaluate after we’ve lost control, apologize, repair and learn from what happened.
+
 ---
 https://thepaintedporch.com/products/good-inside-a-guide-to-becoming-the-parent-you-want-to-be  

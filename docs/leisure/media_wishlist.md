@@ -10,6 +10,7 @@ ARK: The Animated Series
 Avatar: The Last Airbender
 Blade Runner: Black Lotus
 Blue Exorcist
+Blue Eye Samurai
 The Book of Boba Fett
 The Boys
 The Brothers Sun
@@ -56,6 +57,7 @@ Noragami
 Obi-Wan Kenobi
 The Old Man
 One-Punch Man
+Orphan Black: Echoes
 The Orville
 The Outlaws
 Peacemaker
@@ -65,6 +67,7 @@ Prehistoric Planet (2022)
 Primal
 Psycho-Pass
 Raised by Wolves (2020)
+A Real Bug's Life
 Resident Alien
 Rick and Morty
 Saga of Tanya the Evil
@@ -158,6 +161,14 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - My Animal
 - Freelance
 - Maboroshi
+- Saltburn
+- Godzilla Minus One
+- Dream Scenario
+- Obliterated
+- Scavengers Reign
+- The Toxic Avenger
+- Monarch: Legacy of Monsters
+- If You Were the Last
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

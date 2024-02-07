@@ -24,27 +24,42 @@
 * Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
 	- Snowboard lessons: Mo-Tu
 
+---
+* ***Costco Visa:*** No foreign transaction fees
 * Other Groceries/Produce  
 	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
 	3. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
 		- $10 off $100 coupon in Pique magazine
----
 * Gas *(total ~= $140)*  
+	* Costco <-> Costco distance: 380 mi
 	- Costco Marysville: fill
-	- Whistler: 20 liters @ $1.80/l *(need 1/2 tank)*
+	- Whistler: 20 liters @ $1.80/l
 	- Costco Marysville: fill
 
 ## Menu
 * Pasta
 	* Precook sauce
 	* Bring pasta, meatballs
+	* bread, salad
 * Tacos
+	* Precook meat
+	* 3x breasts?
+	* Need:
+		* shells
+		* cheese
+		* lettuce
+		* hot sauce
 * Mac and cheese
+	* Bring enough for 3x?
+	* pasta, cheese, evap milk
+	* cheese grater
+	* broccoli
+	* sides? hot dogs? spam?
 ---
 * steak/hamburgers
 * french toast
 * meat and cheese/snacks
-* chili
+* chili and rice
 
 ## Dine In
 * http://dynasty-restaurant.ca/  
@@ -99,6 +114,18 @@
 
 ## Activities
 * Whistler
+	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
+
+		|	TICKET	|	ADULT	|	CHILD	|
+		|	:-----	|	:---:	|	:---:	|
+		|	1 Hr		|	$32	|	$25	|
+		|	2 Hrs		|	$44	|	$29	|
+
+		- 11:00a-6:00p
+		- The Tube Park is located on Blackcomb Mountain, just above mid-station of the Excalibur Gondola (first stop on the Gondola) and adjacent to Lot 8.
+		- Access on foot is via a "no cost" ride on the lower line of the Excalibur Gondola up to the mid-station and is open the same hours as the Tube Park.
+		- Once at the mid-station, guests cross the ski run towards Lot 7 and proceed up the side of the run on the walkway to the Tube Park pathway entrance.
+
 	- https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/  
 	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
 		- Pool, hot tub, sauna
@@ -156,6 +183,7 @@
 - [ ] nuts
 - [ ] milk
 - [ ] dip
+- [ ] cooler
 ---
 - [ ] boots?
 - [ ] hiking shoes
@@ -175,7 +203,10 @@
 - [ ] thick hoodie
 - [ ] belt
 ---
+- [ ] freeze milk jugs
 - [ ] USPS freeze
+- [ ] cell service
+- [ ] credit card travel notification
 - [ ] lock shed
 - [ ] security timer light
 

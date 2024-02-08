@@ -1,8 +1,6 @@
 # BC
 
 ## 🗺️ Itinerary
-[📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
-
 * Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  
 * Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
 	- 10:00a
@@ -26,6 +24,8 @@
 
 ## ✏️ Note
 * ***Costco Visa:*** No foreign transaction fees
+* [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
+* https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
 * Other Groceries/Produce  
 	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
 	3. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
@@ -70,7 +70,7 @@
 	- [ ] frozen berries
 	- [ ] bananas
 	- [ ] eggs
-	- [ ] hot chocolate
+	- [ ] hot chocolate?
 	- [ ] broccoli
 	- [ ] bread (for pasta)
 	- [ ] salad mix (for pasta)

@@ -1,6 +1,6 @@
 # BC
 
-## Itinerary
+## 🗺️ Itinerary
 [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
 
 * Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  
@@ -24,7 +24,7 @@
 * Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
 	- Snowboard lessons: Mo-Tu
 
----
+## ✏️ Note
 * ***Costco Visa:*** No foreign transaction fees
 * Other Groceries/Produce  
 	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
@@ -36,32 +36,55 @@
 	- Whistler: 20 liters @ $1.80/l
 	- Costco Marysville: fill
 
-## Menu
+## 🥣 Menu
 * Pasta
 	* Precook sauce
-	* Bring pasta, meatballs
-	* bread, salad
 * Tacos
-	* Precook meat
-	* 3x breasts?
-	* Need:
-		* shells
-		* cheese
-		* lettuce
-		* hot sauce
+	* Precook sauce, x1.5
 * Mac and cheese
-	* Bring enough for 3x?
-	* pasta, cheese, evap milk
-	* cheese grater
-	* broccoli
-	* sides? hot dogs? spam?
 ---
-* steak/hamburgers
-* french toast
-* meat and cheese/snacks
-* chili and rice
+* Bring:
+	- [ ] snacks *(need)*
+	- [ ] chips *(need)*
+	- [ ] mayo *(need)*
+	- [ ] TJ meatballs, x2 *(need)*
+	- [ ] TJ corn-flour tortillas *(need)*
+	- [ ] colby jack cheese, 32oz *(need)*
+	- [ ] cheddar cheese, 32oz *(need)*
+	- [ ] Clif bars
+	- [ ] granola
+	- [ ] TJ ube mix
+	- [ ] ketchup
+	- [ ] chocolate
+	- [ ] green tea
+	- [ ] butter
+	- [ ] salt/pepper
+	- [ ] rotini pasta, 24oz
+	- [ ] elbow pasta, 24oz
+	- [ ] taco shells
+	- [ ] Mexican hot sauce
+	- [ ] evaporated milk, x2
+	- [ ] rice and rice cooker
+* Buy:
+	- [ ] milk
+	- [ ] frozen berries
+	- [ ] bananas
+	- [ ] eggs
+	- [ ] hot chocolate
+	- [ ] broccoli
+	- [ ] bread (for pasta)
+	- [ ] salad mix (for pasta)
+	- [ ] dressing
+	- [ ] iceberg lettuce (for tacos)
+	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
+	- [ ] rotisserie chix
+* Other menu ideas:
+	* steak/hamburgers
+	* french toast
+	* meat and cheese plate
+	* black beans and rice
 
-## Dine In
+## 🍽️ Dine In
 * http://dynasty-restaurant.ca/  
 	- Dim sum
 	- h: 10:00a-3:00p
@@ -69,7 +92,7 @@
 	- Dim sum
 	- h: 9:00a-3:00p
 
-## Take Out
+## 🥡 Take Out
 * Vancouver
 	- https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2  
 	- https://instagram.com/hkbbqmaster/  
@@ -84,14 +107,14 @@
 	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
 		- Meat Pies
 
-## Poutine
+## 🍟 Poutine
 * Vancouver
 	- https://westcoastpoutine.wixsite.com/labellepatatevan [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)  
 	- Costco Food Court  
 * Whistler
 	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
 
-## Bakeries
+## 🥐 Bakeries
 * Vancouver
 	- https://instagram.com/kamdobakery/  
 	- https://newtownbakery.ca/  
@@ -99,7 +122,7 @@
 	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
 	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
 
-## Breweries
+## 🍺 Breweries
 1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
 	- Belgian-style
 2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
@@ -112,7 +135,7 @@
 6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
 7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
 
-## Activities
+## 🏂 Activities
 * Whistler
 	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
 
@@ -148,19 +171,19 @@
 		- ***Whistler Orientation Tour:*** Meet at the CIBC Guest Satisfaction Centre at the Alpine Lightboard (top of the Whistler Village Gondola).
 		- ***Blackcomb Orientation Tour:*** Meet at the Lightboard outside the Rendezvous, at the top of the Blackcomb Gondola.
 
-### Pack List
+## 🧳 Pack List
 - [ ] truck USB charger
 - [ ] blankets
 - [ ] tire inflator
-- [ ] air purifier
+- [ ] air purifier?
 - [ ] hand warmers
 - [ ] laptop
 - [ ] dongles/cables
 - [ ] CO₂ monitor
 - [ ] bluetooth speaker
 - [ ] headlamp
-- [ ] lego
-- [ ] drawing/origami supplies
+- [ ] toys/art
+- [ ] board game
 ---
 - [ ] KF94 masks
 - [ ] trimmer
@@ -171,42 +194,46 @@
 - [ ] toothbrush
 ---
 - [ ] tea pint
-- [ ] kraut
-- [ ] crackers
 - [ ] water bottle
 - [ ] kitchen knife
 - [ ] half pint, x4
 - [ ] tea strainer
-- [ ] green tea
-- [ ] cereal/granola
-- [ ] chips
-- [ ] nuts
-- [ ] milk
-- [ ] dip
+- [ ] cheese grater
+- [ ] ladle
+- [ ] smash spatula
+- [ ] cooking chopsticks
+- [ ] ziploc bags
+- [ ] dish towels
 - [ ] cooler
 ---
-- [ ] boots?
 - [ ] hiking shoes
-- [ ] snow gear
+- [ ] slippahs
+- [ ] slippers
+- [ ] ski socks
+- [ ] snow pants
+- [ ] ski jacket
+- [ ] neck warmer
+- [ ] helmet
+- [ ] ski gloves
+- [ ] wool gloves
 - [ ] beanie
-- [ ] puffy vest
-- [ ] underwear, x3
-- [ ] t-shirts, x3
+- [ ] puffy jacket
+- [ ] thermal pants
+- [ ] wool shirt, x5
+- [ ] thick wool shirt, x2
+- [ ] underwear, x6
+- [ ] t-shirts, x6
+- [ ] board shorts
 - [ ] pajama pants
 - [ ] sweats
-- [ ] jeans
-- [ ] thermal pants
-- [ ] thermal shirt, x3
-- [ ] wool shirt, x2
+- [ ] pants, x3
 - [ ] wool socks, x3
-- [ ] thick wool socks
-- [ ] thick hoodie
 - [ ] belt
 ---
 - [ ] freeze milk jugs
 - [ ] USPS freeze
 - [ ] cell service
-- [ ] credit card travel notification
+- [X] credit card travel notification
 - [ ] lock shed
 - [ ] security timer light
 

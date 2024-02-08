@@ -206,15 +206,18 @@
 - [ ] dish towels
 - [ ] cooler
 ---
+- [ ] snowboard
+- [ ] snowboard boots
+- [ ] snow pants
+- [ ] ski jacket
+- [ ] helmet
+- [ ] ski gloves
+- [ ] ski socks
+---
 - [ ] hiking shoes
 - [ ] slippahs
 - [ ] slippers
-- [ ] ski socks
-- [ ] snow pants
-- [ ] ski jacket
 - [ ] neck warmer
-- [ ] helmet
-- [ ] ski gloves
 - [ ] wool gloves
 - [ ] beanie
 - [ ] puffy jacket

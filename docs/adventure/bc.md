@@ -23,8 +23,8 @@
 	- Snowboard lessons: Mo-Tu
 
 ## ✏️ Note
-* ***Costco Visa:*** No foreign transaction fees
 * [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
+* ***Costco Visa:*** No foreign transaction fees
 * https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
 * Other Groceries/Produce  
 	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)

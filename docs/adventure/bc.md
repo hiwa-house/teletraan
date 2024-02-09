@@ -51,13 +51,14 @@
 	- [ ] TJ corn-flour tortillas *(need)*
 	- [ ] colby jack cheese, 32oz *(need)*
 	- [ ] cheddar cheese, 32oz *(need)*
+	- [ ] black beans, 16oz *(need)*
+	- [ ] ketchup *(need)*
+	- [ ] chocolate *(need)*
 	- [ ] Clif bars
 	- [ ] granola
 	- [ ] TJ ube mix
-	- [ ] ketchup
-	- [ ] chocolate
 	- [ ] green tea
-	- [ ] butter
+	- [ ] butter, x2
 	- [ ] salt/pepper
 	- [ ] rotini pasta, 24oz
 	- [ ] elbow pasta, 24oz
@@ -66,10 +67,10 @@
 	- [ ] evaporated milk, x2
 	- [ ] rice and rice cooker
 * Buy:
-	- [ ] milk
-	- [ ] frozen berries
+	- [ ] milk, 1gal
+	- [ ] frozen blueberries
 	- [ ] bananas
-	- [ ] eggs
+	- [ ] eggs, x18
 	- [ ] hot chocolate?
 	- [ ] broccoli
 	- [ ] bread (for pasta)
@@ -78,8 +79,17 @@
 	- [ ] iceberg lettuce (for tacos)
 	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
 	- [ ] rotisserie chix
+	- [ ] If black beans:
+		- [ ] cured sausage, 6oz
+		- [ ] celery
+		- [ ] onion
+		- [ ] garlic
+		- [ ] orange
+		- [ ] chix stock
 * Other menu ideas:
 	* steak/hamburgers
+	* chinese bbq, veggies, rice
+	* donburi, veggies, rice
 	* french toast
 	* meat and cheese plate
 	* black beans and rice
@@ -137,6 +147,9 @@
 
 ## 🏂 Activities
 * Whistler
+	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)  
+		- Free event
+		- Every Sunday in Skier's Plaza at 7:30p
 	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
 
 		|	TICKET	|	ADULT	|	CHILD	|
@@ -149,19 +162,17 @@
 		- Access on foot is via a "no cost" ride on the lower line of the Excalibur Gondola up to the mid-station and is open the same hours as the Tube Park.
 		- Once at the mid-station, guests cross the ski run towards Lot 7 and proceed up the side of the run on the walkway to the Tube Park pathway entrance.
 
-	- https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/  
+	- [Outdoor Skating Rink](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/)
+		- 11:00a-1:30p, 2:30p-5:00p, 6:00p-8:30p
 	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
 		- Pool, hot tub, sauna
-	- https://scandinave.com/whistler  
+	- https://scandinave.com/whistler
 		- Nordic-style outdoor spa
 		- Thermal Journey without Reservation: $135
 	- [Whistler Sliding Centre](https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing)
 		- Free admission
 		- Sledding hill
 		- Bobsled/skeleton spectating: 1:00p-3:00p
-	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)  
-		- Free event
-		- Every Sunday in Skier's Plaza at 7:30p
 	- [Whistler/Blackcomb Free Mountain Tours](https://whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/free-mountain-tours.aspx)
 		- Ski/snowboard tours
 		- Meeting Time: 11:15a

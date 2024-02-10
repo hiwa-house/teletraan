@@ -65,14 +65,16 @@
 	- [ ] taco shells
 	- [ ] Mexican hot sauce
 	- [ ] evaporated milk, x2
+	- [ ] dashi powder
 	- [ ] rice and rice cooker
 * Buy:
+	- [ ] hot chocolate?
 	- [ ] milk, 1gal
 	- [ ] frozen blueberries
 	- [ ] bananas
 	- [ ] eggs, x18
-	- [ ] hot chocolate?
 	- [ ] broccoli
+	- [ ] tomato
 	- [ ] bread (for pasta)
 	- [ ] salad mix (for pasta)
 	- [ ] dressing
@@ -186,6 +188,7 @@
 - [ ] truck USB charger
 - [ ] blankets
 - [ ] tire inflator
+- [ ] propane heater
 - [ ] air purifier?
 - [ ] hand warmers
 - [ ] laptop
@@ -207,6 +210,8 @@
 - [ ] tea pint
 - [ ] water bottle
 - [ ] kitchen knife
+- [ ] scale
+- [ ] ruler
 - [ ] half pint, x4
 - [ ] tea strainer
 - [ ] cheese grater

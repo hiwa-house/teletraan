@@ -44,16 +44,15 @@
 * Mac and cheese
 ---
 * Bring:
-	- [ ] snacks *(need)*
-	- [ ] chips *(need)*
-	- [ ] mayo *(need)*
-	- [ ] TJ meatballs, x2 *(need)*
+	- [ ] snacks/chips
 	- [ ] TJ corn-flour tortillas *(need)*
-	- [ ] colby jack cheese, 32oz *(need)*
-	- [ ] cheddar cheese, 32oz *(need)*
-	- [ ] black beans, 16oz *(need)*
-	- [ ] ketchup *(need)*
-	- [ ] chocolate *(need)*
+	- [ ] mayo
+	- [ ] TJ meatballs, x2
+	- [ ] colby jack cheese, 32oz
+	- [ ] cheddar cheese, 32oz
+	- [ ] black beans, 16oz
+	- [ ] ketchup
+	- [ ] chocolate
 	- [ ] Clif bars
 	- [ ] granola
 	- [ ] TJ ube mix
@@ -66,7 +65,7 @@
 	- [ ] Mexican hot sauce
 	- [ ] evaporated milk, x2
 	- [ ] dashi powder
-	- [ ] rice and rice cooker
+	- [ ] rice and rice cooker?
 * Buy:
 	- [ ] hot chocolate?
 	- [ ] milk, 1gal

@@ -11,7 +11,7 @@
 	- Betadine Cold Defence Nasal Spray
 	- Sensodyne Repair & Protect Whitening *w/ Novamin*
 * Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)  
-	- Print "Sunpath 38 / 1-808-230-7907"
+	- Print "Sunpath 38 / Phone #"
 	- Check-out: 10:00a
 	- Pool/hot tub
 * Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
@@ -44,8 +44,8 @@
 * Mac and cheese
 ---
 * Bring:
-	- [ ] snacks/chips
 	- [ ] TJ corn-flour tortillas *(need)*
+	- [ ] snacks/chips
 	- [ ] mayo
 	- [ ] TJ meatballs, x2
 	- [ ] colby jack cheese, 32oz

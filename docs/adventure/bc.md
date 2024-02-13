@@ -22,13 +22,15 @@
 * Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
 	- Snowboard lessons: Mo-Tu
 
-## ✏️ Note
+## ✏️ Notes
 * [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
 * ***Costco Visa:*** No foreign transaction fees
 * https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
-* Other Groceries/Produce  
-	2. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
-	3. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
+* Groceries/Produce
+	1. T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)
+	2. Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)
+	3. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
+	4. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
 		- $10 off $100 coupon in Pique magazine
 * Gas *(total ~= $140)*  
 	* Costco <-> Costco distance: 380 mi
@@ -37,49 +39,55 @@
 	- Costco Marysville: fill
 
 ## 🥣 Menu
-* Pasta
-	* Precook sauce
-* Tacos
-	* Precook sauce, x1.5
-* Mac and cheese
+|	**Sat**	|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
+|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
+|	*???* 	|	BBQ   	|	Pasta 	|	Tacos 	|	Mac/Chz	|	Burgers	|	*???* 	|
+|	      	|	Broccoli	|	Salad 	|	      	|	Broccoli	|	Broccoli	|	      	|
+|	      	|	Rice  	|	Bread 	|	      	|	Kimchi	|	*???* 	|	      	|
+
+*Other Ideas: Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
+
 ---
 * Bring:
 	- [ ] TJ corn-flour tortillas *(need)*
-	- [ ] snacks/chips
-	- [ ] mayo
-	- [ ] TJ meatballs, x2
-	- [ ] colby jack cheese, 32oz
-	- [ ] cheddar cheese, 32oz
-	- [ ] black beans, 16oz
-	- [ ] ketchup
-	- [ ] chocolate
-	- [ ] Clif bars
 	- [ ] granola
-	- [ ] TJ ube mix
-	- [ ] green tea
-	- [ ] butter, x2
-	- [ ] salt/pepper
+	- [ ] Clif bars
 	- [ ] rotini pasta, 24oz
 	- [ ] elbow pasta, 24oz
 	- [ ] taco shells
-	- [ ] Mexican hot sauce
 	- [ ] evaporated milk, x2
 	- [ ] dashi powder
-	- [ ] rice and rice cooker?
+	- [ ] TJ ube mix
+	- [ ] snacks/chips
+	- [ ] black beans, 16oz
+	- [ ] chocolate
+	- [ ] green tea
+	- [ ] instant coffee
+	- [ ] salt/pepper
+	- [ ] ketchup
+	- [ ] mayo
+	- [ ] Mexican hot sauce
+	- [ ] colby jack cheese, 32oz
+	- [ ] cheddar cheese, 32oz
+	- [ ] rice
+	- [ ] butter, x2
+	- [ ] TJ meatballs, x2
 * Buy:
-	- [ ] hot chocolate?
+	- [ ] rotisserie chix
 	- [ ] milk, 1gal
+	- [ ] eggs, x18
+	- [ ] garlic spread?
 	- [ ] frozen blueberries
 	- [ ] bananas
-	- [ ] eggs, x18
 	- [ ] broccoli
 	- [ ] tomato
-	- [ ] bread (for pasta)
-	- [ ] salad mix (for pasta)
+	- [ ] salad mix
+	- [ ] iceberg lettuce
+	- [ ] white onion?
+	- [ ] bread
 	- [ ] dressing
-	- [ ] iceberg lettuce (for tacos)
+	- [ ] hot chocolate?
 	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
-	- [ ] rotisserie chix
 	- [ ] If black beans:
 		- [ ] cured sausage, 6oz
 		- [ ] celery
@@ -87,15 +95,11 @@
 		- [ ] garlic
 		- [ ] orange
 		- [ ] chix stock
-* Other menu ideas:
-	* steak/hamburgers
-	* chinese bbq, veggies, rice
-	* donburi, veggies, rice
-	* french toast
-	* meat and cheese plate
-	* black beans and rice
 
 ## 🍽️ Dine In
+* http://kirinrestaurants.com/
+	- Dim sum
+	- http://kirinrestaurants.com/menu/
 * http://dynasty-restaurant.ca/  
 	- Dim sum
 	- h: 10:00a-3:00p
@@ -111,7 +115,7 @@
 		- Cheung fun
 	- https://sashimiya.ca/  
 		- Sushi/sashimi
-	- https://abento.ca/ [🧭]()  
+	- https://abento.ca/
 		- Taiwanese bentos
 		- h: 11:30a-3:00p
 * Whistler
@@ -147,6 +151,20 @@
 7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
 
 ## 🏂 Activities
+* Vancouver
+	1. [Lynn Canyon](https://lynncanyon.ca/) [🧭](https://maps.apple.com/?daddr=Lynn+Canyon+Ecology+Centre,+3663+Park+Rd,+North+Vancouver,+BC+V7J+3G3,+Canada)
+		- Hiking trails
+		- Suspension bridges
+	2. [Dr Sun Yat Sen Chinese Garden](https://vancouverchinesegarden.com/visit/) [🧭](https://maps.apple.com/?daddr=180+Keefer+St,+Vancouver,+BC+V6A+3V8,+Canada)
+		- 9:30a-4:00p
+		- Family: $32
+	3. [Stanley Park Seawall Loop](https://vancouver.ca/parks-recreation-culture/stanley-park-seawall.aspx) [🧭](https://maps.apple.com/?daddr=1798+W+Georgia+St,+Vancouver,+BC+V6G+2V7,+Canada)
+		- https://spokesbicyclerentals.com/
+		- Bike rental: $9/hour
+		- 6.2 mi *(10 km)*
+		- totem poles
+	4. [Granville Island Public Market]() [🧭](https://maps.apple.com/?daddr=Granville+Island+Public+Market,+Public+Market,+1689+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada)
+		- Parking: $3/hour
 * Whistler
 	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)  
 		- Free event
@@ -163,17 +181,6 @@
 		- Access on foot is via a "no cost" ride on the lower line of the Excalibur Gondola up to the mid-station and is open the same hours as the Tube Park.
 		- Once at the mid-station, guests cross the ski run towards Lot 7 and proceed up the side of the run on the walkway to the Tube Park pathway entrance.
 
-	- [Outdoor Skating Rink](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/)
-		- 11:00a-1:30p, 2:30p-5:00p, 6:00p-8:30p
-	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
-		- Pool, hot tub, sauna
-	- https://scandinave.com/whistler
-		- Nordic-style outdoor spa
-		- Thermal Journey without Reservation: $135
-	- [Whistler Sliding Centre](https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing)
-		- Free admission
-		- Sledding hill
-		- Bobsled/skeleton spectating: 1:00p-3:00p
 	- [Whistler/Blackcomb Free Mountain Tours](https://whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/free-mountain-tours.aspx)
 		- Ski/snowboard tours
 		- Meeting Time: 11:15a
@@ -182,6 +189,17 @@
 		- Duration: ~1.5hours
 		- ***Whistler Orientation Tour:*** Meet at the CIBC Guest Satisfaction Centre at the Alpine Lightboard (top of the Whistler Village Gondola).
 		- ***Blackcomb Orientation Tour:*** Meet at the Lightboard outside the Rendezvous, at the top of the Blackcomb Gondola.
+	- [Whistler Sliding Centre](https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing)
+		- Free admission
+		- Sledding hill
+		- Bobsled/skeleton spectating: 1:00p-3:00p
+	- https://scandinave.com/whistler
+		- Nordic-style outdoor spa
+		- Thermal Journey without Reservation: $135
+	- [Outdoor Skating Rink](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/)
+		- 11:00a-1:30p, 2:30p-5:00p, 6:00p-8:30p
+	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
+		- Pool, hot tub, sauna
 
 ## 🧳 Pack List
 - [ ] truck USB charger
@@ -199,7 +217,7 @@
 - [ ] board game
 ---
 - [ ] KF94 masks
-- [ ] trimmer
+- [ ] beard trimmer
 - [ ] sleep mask
 - [ ] toiletries
 - [ ] nose spray
@@ -207,6 +225,7 @@
 - [ ] toothbrush
 ---
 - [ ] tea pint
+- [ ] coffee mug
 - [ ] water bottle
 - [ ] kitchen knife
 - [ ] scale
@@ -249,6 +268,8 @@
 - [ ] belt
 ---
 - [ ] freeze milk jugs
+- [ ] cook pasta sauce
+- [ ] cook taco sauce, x1.5
 - [ ] USPS freeze
 - [ ] cell service
 - [X] credit card travel notification

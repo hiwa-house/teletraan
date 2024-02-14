@@ -1,12 +1,13 @@
 # BC
 
 ## 🗺️ Itinerary
-* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)  
+* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
+	* *(Bellingham cheaper?)*
 * Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
 	- 10:00a
 	- http://kirinrestaurants.com/menu/
-* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)  
-* Costco [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)  
+* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)
+* Parker Place (Aberdeen) Meat & BBQ? [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
 * Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
 	- Betadine Cold Defence Nasal Spray
 	- Sensodyne Repair & Protect Whitening *w/ Novamin*
@@ -24,14 +25,16 @@
 
 ## ✏️ Notes
 * [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
-* ***Costco Visa:*** No foreign transaction fees
+* Enable/disable data roaming and/or cell service once in Canada.
+* ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
+* ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
 * https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
 * Groceries/Produce
 	1. T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)
 	2. Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)
 	3. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
 	4. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
-		- $10 off $100 coupon in Pique magazine
+		- $10 off $100 coupon in Pique magazine.
 * Gas *(total ~= $140)*  
 	* Costco <-> Costco distance: 380 mi
 	- Costco Marysville: fill
@@ -96,60 +99,6 @@
 		- [ ] orange
 		- [ ] chix stock
 
-## 🍽️ Dine In
-* http://kirinrestaurants.com/
-	- Dim sum
-	- http://kirinrestaurants.com/menu/
-* http://dynasty-restaurant.ca/  
-	- Dim sum
-	- h: 10:00a-3:00p
-* https://goldenparamount.com/  
-	- Dim sum
-	- h: 9:00a-3:00p
-
-## 🥡 Take Out
-* Vancouver
-	- https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2  
-	- https://instagram.com/hkbbqmaster/  
-	- https://instagram.com/heiheiriceroll/  
-		- Cheung fun
-	- https://sashimiya.ca/  
-		- Sushi/sashimi
-	- https://abento.ca/
-		- Taiwanese bentos
-		- h: 11:30a-3:00p
-* Whistler
-	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
-		- Meat Pies
-
-## 🍟 Poutine
-* Vancouver
-	- https://westcoastpoutine.wixsite.com/labellepatatevan [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)  
-	- Costco Food Court  
-* Whistler
-	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
-
-## 🥐 Bakeries
-* Vancouver
-	- https://instagram.com/kamdobakery/  
-	- https://newtownbakery.ca/  
-* Whistler
-	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
-	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
-
-## 🍺 Breweries
-1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
-	- Belgian-style
-2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
-	- On the way in Squamish
-3. https://fieldhousebrewing.com/ [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
-	- Beer nerd approved
-4. https://superfluxbeer.com/ [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
-	- IPAs
-5. https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
-6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
-7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
-
 ## 🏂 Activities
 * Vancouver
 	1. [Lynn Canyon](https://lynncanyon.ca/) [🧭](https://maps.apple.com/?daddr=Lynn+Canyon+Ecology+Centre,+3663+Park+Rd,+North+Vancouver,+BC+V7J+3G3,+Canada)
@@ -201,6 +150,79 @@
 	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
 		- Pool, hot tub, sauna
 
+## 🍽️ Dine In
+* http://kirinrestaurants.com/
+	- Dim sum
+	- h: 10:00a-2:30p
+* http://dynasty-restaurant.ca/  
+	- Dim sum
+	- h: 10:00a-3:00p
+* https://goldenparamount.com/  
+	- Dim sum
+	- h: 9:00a-3:00p
+
+## 🥡 Take Out
+* Vancouver
+	- [Parker Place (Aberdeen) Meat & BBQ](https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2) [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
+		- Chinese BBQ
+		- Recent menu: [📋](https://s3-media0.fl.yelpcdn.com/bphoto/fY-gdKQ2vNHUFqfQyEG6Ig/o.jpg)
+		- h: opens at 8:30a or 11:00a?
+		- Cash only
+	- [Hei Hei Rice Roll](https://instagram.com/heiheiriceroll/) [🧭](https://maps.apple.com/?daddr=Richmond+Public+Market,+8260+Westminster+Hwy,+Richmond,+BC+V6X+1A7,+Canada)
+		- Inside Richmond Public Market
+		- Cheung fun
+		- h: 9:00a-6:00p
+	- [Sashimiya](https://sashimiya.ca/) [🧭](https://maps.apple.com/?daddr=Sashimiya,+1348+Hornby+St,+Vancouver,+BC+V6Z+1W5,+Canada)
+		- Sushi/sashimi
+		- Japanese grocery & snacks
+		- h: 11:00a-8:00p
+	- https://instagram.com/hkbbqmaster/  
+	- https://abento.ca/
+		- Taiwanese bentos
+		- h: 11:30a-3:00p
+* Whistler
+	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
+		- Meat Pies
+
+## 🍟 Poutine
+* Vancouver
+	- [La Belle Patate](https://westcoastpoutine.wixsite.com/labellepatatevan) [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)
+		- h: 11:00a-11:00p
+	- Costco Food Court  
+* Whistler
+	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
+
+## 🥐 Bakeries
+* Vancouver
+	- [Kam Do Bakery](https://instagram.com/kamdobakery/) [🧭](https://maps.apple.com/?daddr=6211+No.+3+Rd+Unit+130,+Richmond,+BC+V6Y+0C2,+Canada)
+		- Fancier
+		- Cash only
+		- h: 7:00a-9:00p
+	- [New Town Bakery & Restaurant](https://newtownbakery.ca/) [🧭](https://maps.apple.com/?daddr=148+E+Pender+St,+Vancouver,+BC+V6A+1T3,+Canada)
+		- Chinese/Filipino
+		- Cash only
+		- h: 6:30a-7:30p
+* Whistler
+	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
+	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
+
+## 🍺 Breweries
+1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
+	- Belgian-style
+2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
+	- On the way in Squamish
+3. https://fieldhousebrewing.com/ [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
+	- Beer nerd approved
+4. https://superfluxbeer.com/ [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
+	- IPAs
+	- 10 min drive from AirBnb
+5. https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
+	- 10 min drive from AirBnb
+	- Near Superflux
+6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
+	- Closest to AirBnb *(8 min drive)*
+7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
+
 ## 🧳 Pack List
 - [ ] truck USB charger
 - [ ] blankets
@@ -209,6 +231,7 @@
 - [ ] air purifier?
 - [ ] hand warmers
 - [ ] laptop
+- [ ] kindle
 - [ ] dongles/cables
 - [ ] CO₂ monitor
 - [ ] bluetooth speaker
@@ -267,14 +290,14 @@
 - [ ] wool socks, x3
 - [ ] belt
 ---
-- [ ] freeze milk jugs
+- [X] freeze milk jugs
+- [X] Xfinity Global Travel Pass
+- [X] Costco Visa travel notification
+- [X] USPS hold mail
 - [ ] cook pasta sauce
 - [ ] cook taco sauce, x1.5
-- [ ] USPS freeze
-- [ ] cell service
-- [X] credit card travel notification
 - [ ] lock shed
 - [ ] security timer light
 
 ---
- [🧭](https://maps.apple.com/?daddr=)  
+ [🧭](https://maps.apple.com/?daddr=)

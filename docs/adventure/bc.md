@@ -91,7 +91,7 @@
 	- [ ] dressing
 	- [ ] hot chocolate?
 	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
-	- [ ] If black beans:
+	- [ ] *If black beans:*
 		- [ ] cured sausage, 6oz
 		- [ ] celery
 		- [ ] onion
@@ -151,15 +151,14 @@
 		- Pool, hot tub, sauna
 
 ## 🍽️ Dine In
-* http://kirinrestaurants.com/
-	- Dim sum
-	- h: 10:00a-2:30p
-* http://dynasty-restaurant.ca/  
-	- Dim sum
-	- h: 10:00a-3:00p
-* https://goldenparamount.com/  
-	- Dim sum
-	- h: 9:00a-3:00p
+* Vancouver
+	* Dim Sum
+		* http://kirinrestaurants.com/
+			- h: 10:00a-2:30p
+		* http://dynasty-restaurant.ca/  
+			- h: 10:00a-3:00p
+		* https://goldenparamount.com/  
+			- h: 9:00a-3:00p
 
 ## 🥡 Take Out
 * Vancouver

@@ -15,6 +15,7 @@
 	- Print "Sunpath 38 / Phone #"
 	- Check-out: 10:00a
 	- Pool/hot tub
+	- Outpost is partnered with local companies to offer discounts, including ski/bike rentals, Snowmobiling, Snowshoeing, Vallea Lumina, Scandinave Spa, and many more! Get in touch if you want to find out more.
 * Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
 	- Best grocery selection for price
 	- https://nestersliquor.com/
@@ -208,6 +209,7 @@
 ## 🍺 Breweries
 1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
 	- Belgian-style
+	- 20 min drive from AirBnb
 2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
 	- On the way in Squamish
 3. https://fieldhousebrewing.com/ [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)

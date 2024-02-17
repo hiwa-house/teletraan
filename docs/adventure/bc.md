@@ -1,6 +1,7 @@
 # BC
 
 ## 🗺️ Itinerary
+* TJ
 * Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
 	* *(Bellingham cheaper?)*
 * Vancouver [🧭](https://maps.apple.com/?daddr=2169+Mannering+Avenue,+Vancouver,+BC+V5N+3C5,+Canada)
@@ -13,8 +14,7 @@
 * Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
 	- Betadine Cold Defence Nasal Spray
 	- Sensodyne Repair & Protect Whitening *w/ Novamin*
-* Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)  
-	- Print "Sunpath 38 / Phone #"
+* Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)
 	- Check-out: 10:00a
 	- Pool/hot tub
 	- Outpost is partnered with local companies to offer discounts, including ski/bike rentals, Snowmobiling, Snowshoeing, Vallea Lumina, Scandinave Spa, and many more! Get in touch if you want to find out more.
@@ -54,31 +54,7 @@
 *Other Ideas: Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
 
 ---
-* Bring:
-	- [ ] TJ corn-flour tortillas *(need)*
-	- [ ] granola
-	- [ ] Clif bars
-	- [ ] rotini pasta, 24oz
-	- [ ] elbow pasta, 24oz
-	- [ ] taco shells
-	- [ ] evaporated milk, x2
-	- [ ] dashi powder
-	- [ ] TJ ube mix
-	- [ ] snacks/chips
-	- [ ] black beans, 16oz
-	- [ ] chocolate
-	- [ ] green tea
-	- [ ] instant coffee
-	- [ ] salt/pepper
-	- [ ] ketchup
-	- [ ] mayo
-	- [ ] Mexican hot sauce
-	- [ ] colby jack cheese, 32oz
-	- [ ] cheddar cheese, 32oz
-	- [ ] rice
-	- [ ] butter, x2
-	- [ ] TJ meatballs, x2
-* Buy:
+* Groceries:
 	- [ ] rotisserie chix
 	- [ ] milk, 1gal
 	- [ ] eggs, x18
@@ -94,6 +70,7 @@
 	- [ ] dressing
 	- [ ] hot chocolate?
 	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
+	- [ ] donburi sauce??
 	- [ ] *If black beans:*
 		- [ ] cured sausage, 6oz
 		- [ ] celery
@@ -227,73 +204,97 @@
 7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
 
 ## 🧳 Pack List
-- [ ] truck USB charger
-- [ ] blankets
-- [ ] tire inflator
-- [ ] propane heater
 - [ ] air purifier?
-- [ ] hand warmers
-- [ ] laptop
-- [ ] kindle
-- [ ] dongles/cables
-- [ ] CO₂ monitor
-- [ ] bluetooth speaker
-- [ ] headlamp
-- [ ] toys/art
-- [ ] board game
-- [ ] passports
+- [X] truck USB charger
+- [X] blankets
+- [X] tire inflator
+- [X] propane heater
+- [X] hand warmers
+- [X] laptop
+- [X] kindle
+- [X] dongles/cables
+- [X] CO₂ monitor
+- [X] bluetooth speaker
+- [X] headlamp
+- [X] toys/art
+- [X] board game
+- [X] passports
 ---
-- [ ] KF94 masks
-- [ ] beard trimmer
-- [ ] sleep mask
-- [ ] toiletries
-- [ ] nose spray
-- [ ] vitamins
-- [ ] toothbrush
+- [X] beard trimmer
+- [X] KF94 masks
+- [X] sleep mask
+- [X] toiletries
+- [X] nose spray
+- [X] vitamins
+- [X] toothbrush
 ---
-- [ ] tea pint
-- [ ] coffee mug
-- [ ] water bottle
-- [ ] kitchen knife
-- [ ] scale
-- [ ] ruler
-- [ ] half pint, x4
-- [ ] tea strainer
-- [ ] cheese grater
-- [ ] ladle
-- [ ] smash spatula
-- [ ] cooking chopsticks
-- [ ] ziploc bags
-- [ ] tupperware
-- [ ] dish towels
-- [ ] cooler
+- [X] cooler bag
+- [X] tea pint
+- [X] coffee mug
+- [X] water bottle
+- [X] kitchen knife
+- [X] scale
+- [X] ruler
+- [X] half pint, x4
+- [X] tea strainer
+- [X] cheese grater
+- [X] ladle
+- [X] smash spatula
+- [X] cooking chopsticks
+- [X] ziploc bags
+- [X] tupperware
+- [X] dish towels
 ---
-- [ ] snowboard
-- [ ] snowboard boots
-- [ ] snow pants
-- [ ] ski jacket
-- [ ] helmet
-- [ ] ski gloves
-- [ ] ski socks
+- [X] snowboard
+- [X] snowboard boots
+- [X] snow pants
+- [X] ski jacket
+- [X] helmet
+- [X] ski gloves
+- [X] ski socks
 ---
-- [ ] hiking shoes
 - [ ] slippahs
 - [ ] slippers
-- [ ] neck warmer
-- [ ] wool gloves
-- [ ] beanie
-- [ ] puffy jacket
-- [ ] thermal pants
-- [ ] wool shirt, x5
-- [ ] thick wool shirt, x2
-- [ ] underwear, x6
-- [ ] t-shirts, x6
-- [ ] board shorts
-- [ ] pajama pants
-- [ ] sweats
-- [ ] pants, x3
-- [ ] wool socks, x3
-- [ ] belt
+- [X] hiking shoes
+- [X] neck warmer
+- [X] wool gloves
+- [X] beanie
+- [X] puffy jacket
+- [X] thermal pants
+- [X] wool shirt, x5
+- [X] thick wool shirt, x2
+- [X] underwear, x6
+- [X] t-shirts, x6
+- [X] board shorts
+- [X] pajama pants
+- [X] sweats
+- [X] pants, x3
+- [X] wool socks, x3
+- [X] belt
+---
+- [ ] TJ corn-flour tortillas *(need)*
+- [X] butter, x2
+- [X] TJ meatballs, x2
+- [X] snacks/chips
+- [X] granola
+- [X] Clif bars
+- [X] rotini pasta, 24oz
+- [X] elbow pasta, 24oz
+- [X] taco shells
+- [X] evaporated milk, x2
+- [X] dashi powder
+- [X] TJ ube mix
+- [X] black beans, 16oz
+- [X] chocolate
+- [X] green tea
+- [X] instant coffee
+- [X] salt/pepper
+- [X] ketchup
+- [X] mayo
+- [X] Mexican hot sauce
+- [X] colby jack cheese, 32oz
+- [X] cheddar cheese, 32oz
+- [X] rice
 ---
 - [X] freeze milk jugs
 - [X] Xfinity Global Travel Pass
@@ -301,7 +302,7 @@
 - [X] USPS hold mail
 - [X] Meal prep
 - [X] Lock shed
-- [ ] Security light timer
+- [X] Security light timer
 
 ---
  [🧭](https://maps.apple.com/?daddr=)

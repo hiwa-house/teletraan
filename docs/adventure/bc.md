@@ -3,10 +3,12 @@
 ## 🗺️ Itinerary
 * Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
 	* *(Bellingham cheaper?)*
+* Vancouver [🧭](https://maps.apple.com/?daddr=2169+Mannering+Avenue,+Vancouver,+BC+V5N+3C5,+Canada)
+	* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Kingsway+Store,+Kingsway,+Vancouver,+BC,+Canada)
+	* Shopper's Drug Mart?
 * Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
 	- 10:00a
 	- http://kirinrestaurants.com/menu/
-* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)
 * Parker Place (Aberdeen) Meat & BBQ? [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
 * Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
 	- Betadine Cold Defence Nasal Spray
@@ -116,9 +118,9 @@
 	4. [Granville Island Public Market]() [🧭](https://maps.apple.com/?daddr=Granville+Island+Public+Market,+Public+Market,+1689+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada)
 		- Parking: $3/hour
 * Whistler
-	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)  
-		- Free event
+	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)
 		- Every Sunday in Skier's Plaza at 7:30p
+		- Free event
 	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
 
 		|	TICKET	|	ADULT	|	CHILD	|
@@ -239,6 +241,7 @@
 - [ ] headlamp
 - [ ] toys/art
 - [ ] board game
+- [ ] passports
 ---
 - [ ] KF94 masks
 - [ ] beard trimmer
@@ -261,6 +264,7 @@
 - [ ] smash spatula
 - [ ] cooking chopsticks
 - [ ] ziploc bags
+- [ ] tupperware
 - [ ] dish towels
 - [ ] cooler
 ---
@@ -295,10 +299,9 @@
 - [X] Xfinity Global Travel Pass
 - [X] Costco Visa travel notification
 - [X] USPS hold mail
-- [ ] cook pasta sauce
-- [ ] cook taco sauce, x1.5
-- [ ] lock shed
-- [ ] security timer light
+- [X] Meal prep
+- [X] Lock shed
+- [ ] Security light timer
 
 ---
  [🧭](https://maps.apple.com/?daddr=)

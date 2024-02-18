@@ -1,12 +1,10 @@
 # BC
 
 ## 🗺️ Itinerary
-* TJ
-* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
-	* *(Bellingham cheaper?)*
 * Vancouver [🧭](https://maps.apple.com/?daddr=2169+Mannering+Avenue,+Vancouver,+BC+V5N+3C5,+Canada)
 	* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Kingsway+Store,+Kingsway,+Vancouver,+BC,+Canada)
 	* Shopper's Drug Mart?
+		* kids dramamine?
 * Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
 	- 10:00a
 	- http://kirinrestaurants.com/menu/
@@ -25,6 +23,13 @@
 		- Stocks Dageraad, Backcountry, Field House, Superflux, Container, Twin Sails
 * Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
 	- Snowboard lessons: Mo-Tu
+* Squamish gas
+	- Fill to half tank at <$1.70/l
+* Vancouver?
+	- Lunch at Richmond Public Market or beer?
+* Bellingham
+	- Cafe Rumba, Structures?
+* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
 
 ## ✏️ Notes
 * [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
@@ -52,32 +57,6 @@
 |	      	|	Rice  	|	Bread 	|	      	|	Kimchi	|	*???* 	|	      	|
 
 *Other Ideas: Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
-
----
-* Groceries:
-	- [ ] rotisserie chix
-	- [ ] milk, 1gal
-	- [ ] eggs, x18
-	- [ ] garlic spread?
-	- [ ] frozen blueberries
-	- [ ] bananas
-	- [ ] broccoli
-	- [ ] tomato
-	- [ ] salad mix
-	- [ ] iceberg lettuce
-	- [ ] white onion?
-	- [ ] bread
-	- [ ] dressing
-	- [ ] hot chocolate?
-	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
-	- [ ] donburi sauce??
-	- [ ] *If black beans:*
-		- [ ] cured sausage, 6oz
-		- [ ] celery
-		- [ ] onion
-		- [ ] garlic
-		- [ ] orange
-		- [ ] chix stock
 
 ## 🏂 Activities
 * Vancouver
@@ -253,8 +232,8 @@
 - [X] ski gloves
 - [X] ski socks
 ---
-- [ ] slippahs
-- [ ] slippers
+- [X] slippahs
+- [X] slippers
 - [X] hiking shoes
 - [X] neck warmer
 - [X] wool gloves
@@ -271,30 +250,6 @@
 - [X] pants, x3
 - [X] wool socks, x3
 - [X] belt
----
-- [ ] TJ corn-flour tortillas *(need)*
-- [X] butter, x2
-- [X] TJ meatballs, x2
-- [X] snacks/chips
-- [X] granola
-- [X] Clif bars
-- [X] rotini pasta, 24oz
-- [X] elbow pasta, 24oz
-- [X] taco shells
-- [X] evaporated milk, x2
-- [X] dashi powder
-- [X] TJ ube mix
-- [X] black beans, 16oz
-- [X] chocolate
-- [X] green tea
-- [X] instant coffee
-- [X] salt/pepper
-- [X] ketchup
-- [X] mayo
-- [X] Mexican hot sauce
-- [X] colby jack cheese, 32oz
-- [X] cheddar cheese, 32oz
-- [X] rice
 ---
 - [X] freeze milk jugs
 - [X] Xfinity Global Travel Pass

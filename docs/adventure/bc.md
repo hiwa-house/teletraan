@@ -1,17 +1,6 @@
 # BC
 
 ## 🗺️ Itinerary
-* Vancouver [🧭](https://maps.apple.com/?daddr=2169+Mannering+Avenue,+Vancouver,+BC+V5N+3C5,+Canada)
-	* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Kingsway+Store,+Kingsway,+Vancouver,+BC,+Canada)
-	* Shopper's Drug Mart?
-		* kids dramamine?
-* Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
-	- 10:00a
-	- http://kirinrestaurants.com/menu/
-* Parker Place (Aberdeen) Meat & BBQ? [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
-* Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
-	- Betadine Cold Defence Nasal Spray
-	- Sensodyne Repair & Protect Whitening *w/ Novamin*
 * Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)
 	- Check-out: 10:00a
 	- Pool/hot tub

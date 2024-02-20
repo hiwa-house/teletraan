@@ -5,13 +5,6 @@
 	- Check-out: 10:00a
 	- Pool/hot tub
 	- Outpost is partnered with local companies to offer discounts, including ski/bike rentals, Snowmobiling, Snowshoeing, Vallea Lumina, Scandinave Spa, and many more! Get in touch if you want to find out more.
-* Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
-	- Best grocery selection for price
-	- https://nestersliquor.com/
-	- Bottleshop
-		- Stocks Dageraad, Backcountry, Field House, Superflux, Container, Twin Sails
-* Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
-	- Snowboard lessons: Mo-Tu
 * Squamish gas
 	- Fill to half tank at <$1.70/l
 * Vancouver?

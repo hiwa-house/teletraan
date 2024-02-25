@@ -1,30 +1,6 @@
 # BC
 
 ## 🗺️ Itinerary
-* TJ
-* Costco Marysville [🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Twin+Lakes+Avenue,+Marysville,+WA)
-	* *(Bellingham cheaper?)*
-* Vancouver [🧭](https://maps.apple.com/?daddr=2169+Mannering+Avenue,+Vancouver,+BC+V5N+3C5,+Canada)
-	* T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Kingsway+Store,+Kingsway,+Vancouver,+BC,+Canada)
-	* Shopper's Drug Mart?
-* Kirin Seafood Restaurant [🧭](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)  
-	- 10:00a
-	- http://kirinrestaurants.com/menu/
-* Parker Place (Aberdeen) Meat & BBQ? [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
-* Shopper's Drug Mart [🧭](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Pemberton+Avenue,+Squamish,+BC,+Canada)  
-	- Betadine Cold Defence Nasal Spray
-	- Sensodyne Repair & Protect Whitening *w/ Novamin*
-* Condo [🧭](https://maps.apple.com/?daddr=4325+Northlands+Blvd,+Whistler,+BC+V0N+1B0,+Canada)
-	- Check-out: 10:00a
-	- Pool/hot tub
-	- Outpost is partnered with local companies to offer discounts, including ski/bike rentals, Snowmobiling, Snowshoeing, Vallea Lumina, Scandinave Spa, and many more! Get in touch if you want to find out more.
-* Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)  
-	- Best grocery selection for price
-	- https://nestersliquor.com/
-	- Bottleshop
-		- Stocks Dageraad, Backcountry, Field House, Superflux, Container, Twin Sails
-* Whistler Base [🧭](https://maps.apple.com/?daddr=Whistler+Village+Guest+Services,+Skiers+Plaza,+Whistler,+BC+V0N+1B4,+Canada)  
-	- Snowboard lessons: Mo-Tu
 
 ## ✏️ Notes
 * [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
@@ -41,43 +17,17 @@
 * Gas *(total ~= $140)*  
 	* Costco <-> Costco distance: 380 mi
 	- Costco Marysville: fill
-	- Whistler: 20 liters @ $1.80/l
+	- Squamish: half tank *(11 liters @ $1.70/l)*
 	- Costco Marysville: fill
 
 ## 🥣 Menu
 |	**Sat**	|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
 |	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
-|	*???* 	|	BBQ   	|	Pasta 	|	Tacos 	|	Mac/Chz	|	Burgers	|	*???* 	|
+|	Takeout 	|	BBQ   	|	Pasta 	|	Tacos 	|	Mac/Chz	|	Burgers	|	Leftover	|
 |	      	|	Broccoli	|	Salad 	|	      	|	Broccoli	|	Broccoli	|	      	|
 |	      	|	Rice  	|	Bread 	|	      	|	Kimchi	|	*???* 	|	      	|
 
 *Other Ideas: Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
-
----
-* Groceries:
-	- [ ] rotisserie chix
-	- [ ] milk, 1gal
-	- [ ] eggs, x18
-	- [ ] garlic spread?
-	- [ ] frozen blueberries
-	- [ ] bananas
-	- [ ] broccoli
-	- [ ] tomato
-	- [ ] salad mix
-	- [ ] iceberg lettuce
-	- [ ] white onion?
-	- [ ] bread
-	- [ ] dressing
-	- [ ] hot chocolate?
-	- [ ] Mac & cheese sides (hot dogs, spam, kimchi, ???)
-	- [ ] donburi sauce??
-	- [ ] *If black beans:*
-		- [ ] cured sausage, 6oz
-		- [ ] celery
-		- [ ] onion
-		- [ ] garlic
-		- [ ] orange
-		- [ ] chix stock
 
 ## 🏂 Activities
 * Vancouver
@@ -99,17 +49,10 @@
 		- Every Sunday in Skier's Plaza at 7:30p
 		- Free event
 	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
-
-		|	TICKET	|	ADULT	|	CHILD	|
-		|	:-----	|	:---:	|	:---:	|
-		|	1 Hr		|	$32	|	$25	|
-		|	2 Hrs		|	$44	|	$29	|
-
 		- 11:00a-6:00p
 		- The Tube Park is located on Blackcomb Mountain, just above mid-station of the Excalibur Gondola (first stop on the Gondola) and adjacent to Lot 8.
 		- Access on foot is via a "no cost" ride on the lower line of the Excalibur Gondola up to the mid-station and is open the same hours as the Tube Park.
 		- Once at the mid-station, guests cross the ski run towards Lot 7 and proceed up the side of the run on the walkway to the Tube Park pathway entrance.
-
 	- [Whistler/Blackcomb Free Mountain Tours](https://whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/free-mountain-tours.aspx)
 		- Ski/snowboard tours
 		- Meeting Time: 11:15a
@@ -205,104 +148,80 @@
 
 ## 🧳 Pack List
 - [ ] air purifier?
-- [X] truck USB charger
-- [X] blankets
-- [X] tire inflator
-- [X] propane heater
-- [X] hand warmers
-- [X] laptop
-- [X] kindle
-- [X] dongles/cables
-- [X] CO₂ monitor
-- [X] bluetooth speaker
-- [X] headlamp
-- [X] toys/art
-- [X] board game
-- [X] passports
+- [ ] truck USB charger
+- [ ] blankets
+- [ ] tire inflator
+- [ ] propane heater
+- [ ] hand warmers
+- [ ] laptop
+- [ ] kindle
+- [ ] dongles/cables
+- [ ] CO₂ monitor
+- [ ] bluetooth speaker
+- [ ] headlamp
+- [ ] toys/art
+- [ ] board game
+- [ ] passports
 ---
-- [X] beard trimmer
-- [X] KF94 masks
-- [X] sleep mask
-- [X] toiletries
-- [X] nose spray
-- [X] vitamins
-- [X] toothbrush
+- [ ] beard trimmer
+- [ ] KF94 masks
+- [ ] sleep mask
+- [ ] toiletries
+- [ ] nose spray
+- [ ] vitamins
+- [ ] toothbrush
 ---
-- [X] cooler bag
-- [X] tea pint
-- [X] coffee mug
-- [X] water bottle
-- [X] kitchen knife
-- [X] scale
-- [X] ruler
-- [X] half pint, x4
-- [X] tea strainer
-- [X] cheese grater
-- [X] ladle
-- [X] smash spatula
-- [X] cooking chopsticks
-- [X] ziploc bags
-- [X] tupperware
-- [X] dish towels
+- [ ] cooler bag
+- [ ] tea pint
+- [ ] coffee mug
+- [ ] water bottle
+- [ ] kitchen knife
+- [ ] scale
+- [ ] ruler
+- [ ] half pint, x4
+- [ ] tea strainer
+- [ ] cheese grater
+- [ ] ladle
+- [ ] smash spatula
+- [ ] cooking chopsticks
+- [ ] ziploc bags
+- [ ] tupperware
+- [ ] dish towels
 ---
-- [X] snowboard
-- [X] snowboard boots
-- [X] snow pants
-- [X] ski jacket
-- [X] helmet
-- [X] ski gloves
-- [X] ski socks
+- [ ] snowboard
+- [ ] snowboard boots
+- [ ] snow pants
+- [ ] ski jacket
+- [ ] helmet
+- [ ] ski gloves
+- [ ] ski socks
 ---
 - [ ] slippahs
 - [ ] slippers
-- [X] hiking shoes
-- [X] neck warmer
-- [X] wool gloves
-- [X] beanie
-- [X] puffy jacket
-- [X] thermal pants
-- [X] wool shirt, x5
-- [X] thick wool shirt, x2
-- [X] underwear, x6
-- [X] t-shirts, x6
-- [X] board shorts
-- [X] pajama pants
-- [X] sweats
-- [X] pants, x3
-- [X] wool socks, x3
-- [X] belt
+- [ ] hiking shoes
+- [ ] neck warmer
+- [ ] wool gloves
+- [ ] beanie
+- [ ] puffy jacket
+- [ ] thermal pants
+- [ ] wool shirt, x5
+- [ ] thick wool shirt, x2
+- [ ] underwear, x6
+- [ ] t-shirts, x6
+- [ ] board shorts
+- [ ] pajama pants
+- [ ] sweats
+- [ ] pants, x3
+- [ ] wool socks, x3
+- [ ] belt
 ---
-- [ ] TJ corn-flour tortillas *(need)*
-- [X] butter, x2
-- [X] TJ meatballs, x2
-- [X] snacks/chips
-- [X] granola
-- [X] Clif bars
-- [X] rotini pasta, 24oz
-- [X] elbow pasta, 24oz
-- [X] taco shells
-- [X] evaporated milk, x2
-- [X] dashi powder
-- [X] TJ ube mix
-- [X] black beans, 16oz
-- [X] chocolate
-- [X] green tea
-- [X] instant coffee
-- [X] salt/pepper
-- [X] ketchup
-- [X] mayo
-- [X] Mexican hot sauce
-- [X] colby jack cheese, 32oz
-- [X] cheddar cheese, 32oz
-- [X] rice
----
-- [X] freeze milk jugs
-- [X] Xfinity Global Travel Pass
-- [X] Costco Visa travel notification
-- [X] USPS hold mail
-- [X] Meal prep
-- [X] Lock shed
-- [X] Security light timer
+- [ ] freeze milk jugs
+- [ ] Xfinity Global Travel Pass
+- [ ] Costco Visa travel notification
+- [ ] USPS hold mail
+- [ ] Meal prep
+- [ ] Lock shed
+- [ ] Security light timer
 
 ---
  [🧭](https://maps.apple.com/?daddr=)

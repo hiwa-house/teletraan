@@ -64,7 +64,7 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 	For older kids, paying for grades did not work. [www](https://scholar.harvard.edu/files/fryer/files/financial_incentives_and_student_achievement_evidence_from_randomized_trials.pdf)
 
 * Elementary school:
-	* Token economy: 1 token per chore
+	* Token economy: 1 token per chore, exercise, or math practice
 	- 5 wooden = 1 silver -> 3 silver = $5
 	- Spending plan:
 		- Informed decision: wait for a sale, need or want, alternatives?
@@ -76,7 +76,7 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 * Junior high:
 	- Debit card?
 	- School lunch stipend?
-	- Pay $2/chapter read and then, summarize the main points in his own words, choosing books on management, wealth building, and personal growth.
+	- Pay $2/chapter read and then, summarize the main points in his own words, encouraging books on management, wealth building, personal growth, and biographies.
 * High school:
 	* He uses truck as needed for free, but pays for insurance and maintenance.
 	* Teach minor vehicle maintenance. He is expected to price shop for major repairs.

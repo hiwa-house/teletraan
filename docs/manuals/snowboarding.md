@@ -13,6 +13,7 @@
 **Current Stance:** [Bataleon Astro AsymWrap](https://www.youtube.com/watch?v=oyCfDZXJcyY) / 52cm / +18° / +3° / ~8°
 ***Natural Stance (NS):** Measured length from the floor to the center of your knee.*
 |	**Style**		|	**Width**	|	**F. Angle**	|	**B. Angle**	|	**Lean**	|
+|	------------	|	---------	|	------------	|	------------	|	------	|
 |	All Mountain	|	NS+2cm		|	+15 to +24°		|	-6 to +6°		|	8°			|
 |	Freestyle		|	NS+6cm		|	+6 to +21°		|	0 to -15°		|	0°			|
 |	Freeride			|	NS+4cm		|	+21 to +30°		|	0 to +9°			|	10-12°	|

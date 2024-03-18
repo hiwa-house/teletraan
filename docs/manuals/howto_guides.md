@@ -24,7 +24,7 @@
 	* *Maintenance Interval:* 6,000 miles
 	* *Maintenance Schedule:* https://cars101.com/subaru/maintenance-2015.html
 	* *Wheel Torque:* 89 ft-lbs
-	* *[Lights](https://www.subaruxvforum.com/threads/comprehensive-list-of-all-bulb-types-for-xv.34905/post-457521):*
+	* *[Light Bulbs](https://www.subaruxvforum.com/threads/comprehensive-list-of-all-bulb-types-for-xv.34905/post-457521):*
 		* *Low Beam:* Philips H11 Standard
 		* *High Beam:* Philips 9005 Standard
 		* *Parking (C-light):* 168

@@ -26,7 +26,7 @@
 ## Tuning
 
 - [ ] Wax
-- [ ] Heat gun
+- [ ] Heat gun *(Heat at 125°-130°C)*
 - [ ] Blue shop towels
 - [ ] Roto brush and drill
 - [ ] 89° side angle guide *(88° for more aggressive edge)*

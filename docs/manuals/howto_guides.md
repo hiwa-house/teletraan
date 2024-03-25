@@ -18,6 +18,7 @@
 	* *Maintenance Interval:* 5,000 miles
 	* *Maintenance Schedule:* ?
 	* *Specs:* https://tacomaworld.com/threads/2nd-gen-diy-maintenance-quick-reference-guide.438945/
+	* [Service History](https://www.toyota.com/owners/my-vehicle/service-history)
 * Subaru Crosstrek
 	* *Gas Tank:* 15.9 gallons
 	* *Oil Change:* 0W-20, 5 quarts
@@ -29,6 +30,7 @@
 		* *High Beam:* Philips 9005 Standard
 		* *Parking (C-light):* 168
 	* *Specs:* ?
+	* [Service History](https://www.mysubaru.com/serviceHistory/serviceHistoryHome.html)
 
 ## Ventilation
 

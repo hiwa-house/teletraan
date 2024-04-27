@@ -71,6 +71,11 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - The Toxic Avenger
 - Monarch: Legacy of Monsters
 - If You Were the Last
+- Pantheon
+- The Artful Dodger
+- The Brothers Sun
+- The Convert
+- Mr & Mrs Smith
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

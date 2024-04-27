@@ -23,6 +23,9 @@
 
 🔗 https://youtube.com/watch?v=lCgM4OOfu44&t=77  
 
+## Boots
+- Foot measurements: 262cm (8.5/9.0) length, 108cm (E) width.
+
 ## Tuning
 
 - [ ] Wax

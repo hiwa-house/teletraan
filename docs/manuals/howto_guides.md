@@ -5,6 +5,15 @@
 * 58" above the floor at the frame midpoint.
 * Bottom of the frame at 12" above sofa or other piece of furniture.
 
+## Hummingbird Nectar
+- [ ] **250	grams**	water
+- [ ] **50	grams**	sugar
+
+## Sinus Irrigation
+- [ ] **1	teaspoon**	salt
+- [ ] **1/2	teaspoon**	baking soda
+- [ ] **240	grams**	water
+
 ## Spirit Level Tips
 
 * When centered, surface is level.

@@ -2,7 +2,6 @@
 
 ## Tasks
 
-- [ ] Rebuild strawberry planter; green onion on top, strawberries on bottom.
 - [ ] Build berry netting frame.
 
 ## Container Watering Guidelines
@@ -34,7 +33,8 @@ https://garlicseed.ca/pages/harvesting-garlic
 ## Hydroponics
 
 https://redwing-farm.blogspot.com/2021/11/whatchamacallit-flow-technique-but.html  
-Hydroponic resevoir sanitizer (28g:1gal water, add 1ml/gal every 4 days).
+Hydroponic resevoir sanitizer added every 4 days.
+https://www.handymath.com/cgi-bin/chlorined.cgi?submit=Entry  
 
 ## Repotting Steps
 

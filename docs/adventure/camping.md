@@ -118,6 +118,8 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * lighter dutch oven
 * larger tea kettle
 * kite
+* yoga mat for tent floor
+* blow torch for firestarting
 
 ## Packing List
 {{ read_csv("adventure/camping.csv") }}

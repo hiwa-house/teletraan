@@ -3,6 +3,9 @@
 ## Anxiety
 Perhaps the metaphor "energy" is the energy the brain expends to continuously compute social requirements and the extent to which you see others as an emotional threat. This causes your brain to keep its "shields up", which can feel exhausting. I feel drained when I think people may potentially judge me: during extended family events, class reunions or ceremonies, but I feel perfectly fine amongst a small group of friends or strangers at the pub. Relatedly, alcohol can also dramatically reduce the drain.
 
+### The Cynic
+The point is to see what value we can find in a paper, not what flaws. Our purpose is to learn and to grow knowledge. Papers are written by humans; every one has flaws. If flaws disqualify, every paper is disqualified. They are experimental, pushing the frontier of knowledge. Your work, your hard work, is to see what you can get out of them.
+
 ## Disappointment & Frustration
 Successful, talented people are often frustrated for a simple reason: The world is constantly disappointing them. They expect everyone to be like them, to work as hard as them, to care as much as them, to hold themselves to the same standards as they do. And if not that, at the very least, we expect people to show up and do their jobs.
 

@@ -50,6 +50,7 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 
 ## Confronting a Challenge
 
+* If someone is better than you at something, then it’s likely because she has failed at it more than you have.
 * Even if you try and fail, always respond to challenge with:
 	* Hard Work
 	* Honesty

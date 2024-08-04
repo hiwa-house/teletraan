@@ -7,15 +7,15 @@ Royal Kitchen,Chinatown,HI,manapua,counter service,fav
 Taipan,Chinatown,HI,dim sum,ohana,try
 Irifune,Downtown,HI,garlic ahi,counter service,try
 Murphy's Bar & Grill,Downtown,HI,irish pub,beer,fav
-Kona Brewing,Hawaii Kai,HI,brew pub,ohana,fav
+Kona Brewing,Hawaii Kai,HI,"brew pub, big portions",ohana,fav
 Kapa Hale,Kahala,HI,"modern hawaiian, lanai",day date,try
 Brew'd Craft Pub,Kaimuki,HI,gastropub,day date,fav
-Chubbie's Burgers,Kaimuki,HI,smash burgers,counter service,try
 EARL Sandwich,Kaimuki,HI,sandwiches,counter service,fav
 Koko Head Cafe,Kaimuki,HI,brunch,ohana,fav
 Little Vessels,Kaimuki,HI,vegan donut,counter service,try
 Yakitori Ando,Kaimuki,HI,omakase,day date,try
-Honolulu BeerWorks,Kakaako,HI,brewery,ohana,fav
+Honolulu BeerWorks,Kakaako,HI,brewery,day date,fav
+Howzit Brewing,Kakaako,HI,brewery,ohana,fav
 Island Sausage,Kakaako,HI,"sausage, fries",counter service,try
 Village Bottleshop,Kakaako,HI,beer bar,ohana,fav
 Waikiki Brewing Co,Kakaako,HI,brewery,ohana,fav
@@ -23,7 +23,6 @@ Yanagi Sushi,Kakaako,HI,sushi,day date,try
 Best Drive-In,Kalihi,HI,korean plate lunch,counter service,fav
 Ethel's Grill,Kalihi,HI,local diner,ohana,try
 Helena's Hawaiian Food,Kalihi,HI,"lau lau, pipikaula",counter service,fav
-Island Style BBQ,Kalihi,HI,plate lunch,counter service,try
 Monarch Seafood,Kalihi,HI,seafood plate lunch,counter service,fav
 Nami Kaze,Kalihi,HI,elevated local,ohana,fav
 Sugoi,Kalihi,HI,plate lunch,counter service,fav
@@ -60,5 +59,9 @@ Chart House,Waikiki,HI,bloody mary,day date,try
 Penny's Malasadas,Waikiki,HI,malasadas,counter service,try
 Sage Creamery,Waikiki,HI,ice cream (D Head Market),counter service,fav
 Hau Tree,Waikīkī,HI,"brunch, lanai",ohana,try
-Queensbreak,Waikīkī,HI,"bar, lanai",day date,try
 Hana Koa Brewing,Ward,HI,brew pub,ohana,fav
+Kamemameha Bakery,Kalihi,HI,poi donuts,counter service,try
+Shimazu Store,Liliha,HI,shave ice,counter service,fav
+Merriman's,Ward,HI,happy hour,ohana,try
+Frankie's Nursery,Waimanalo,HI,fresh fruit,ohana,try
+Kahiau Poke,Chinatown,HI,poke,counter service,try

@@ -9,6 +9,12 @@
 - [ ] **250	grams**	water
 - [ ] **50	grams**	sugar
 
+## Samsung Refrigerator
+* [Force defost](https://www.youtube.com/watch?v=fCHYqdhAnM8):
+	1. Hold POWER FREEZE + FRIDGE buttons until the fridge beeps once.
+	2. Press FRIDGE button until "Fd" is displayed.
+	3. Profit!
+
 ## Sinus Irrigation
 - [ ] **1	teaspoon**	salt
 - [ ] **1/2	teaspoon**	baking soda
@@ -38,6 +44,10 @@
 		* *Low Beam:* Philips H11 Standard
 		* *High Beam:* Philips 9005 Standard
 		* *Parking (C-light):* 168
+	* *Various Parts:*
+		* Disc Brake Caliper Pin Bolt, P/N 26231FE011
+		* Wheel Lug Stud, P/N 28365FE001
+		* Wheel Lug Nut, P/N 28171AJ001
 	* *Specs:* ?
 	* [Service History](https://www.mysubaru.com/serviceHistory/serviceHistoryHome.html)
 

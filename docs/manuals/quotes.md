@@ -12,6 +12,10 @@
 
 	Nonsense? That's how we roll.
 
+!!! quote "[Bernard Meltzer](https://www.brainyquote.com/quotes/bernard_meltzer_157511)"
+
+	Before you speak ask yourself if what you are going to say is true, is kind, is necessary, is helpful. If the answer is no, maybe what you are about to say should be left unsaid.
+
 !!! quote "[Bertrand Russell](https://www.columbia.edu/~ey2172/russell.html)"
 
 	The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are so full of doubts.

@@ -1,12 +1,12 @@
-Howzit Brewing 
-https://honolulumagazine.com/earthing-volunteer-fishpond/  
+AlaskaAir Free Wifi: enter any Tmobile Phone #
 
 ## Omiyage
+https://www.instagram.com/kimmiskookies/
 
 ## Shopping
-https://hawaii.com/things-to-do-oahu/farmers-markets/
-reef field guide for snorkeling
-https://dlnr.hawaii.gov/dar/education/
+https://hawaii.com/things-to-do-oahu/farmers-markets/  
+reef field guide for snorkeling  
+https://dlnr.hawaii.gov/dar/education/  
 
 ## Adventures
 * Aquarium
@@ -14,8 +14,9 @@ https://dlnr.hawaii.gov/dar/education/
 * Bishop Museum
 * East-West center
 * Friendship Garden
+* Library
 * Makapu'u lighthouse
-* Mango season (kokua market)
+* Mango season (Chau's / Frankie's Nursery)
 * Manoa falls
 * Old Pali lookout
 * Sea Life park
@@ -25,6 +26,8 @@ https://dlnr.hawaii.gov/dar/education/
 * Wa'ahila ridge
 * Waimea
 * Yokohama Bay (dolphins)
+* https://honolulumagazine.com/earthing-volunteer-fishpond/
+* https://hawaii.webrender.net/maps/oahu
 
 ## Notes
 Arrive at SEA for bag drop/security no later than 1:45 before flight.
@@ -48,64 +51,63 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 
 ---
 ## Packing List
-- [ ] omiyage, beer
+- [x] omiyage, beer
 - [ ] cash
-- [ ] gift cards
-- [ ] CO₂ meter
-- [ ] kindle
-- [ ] dongles/cables
+- [x] gift cards
+- [x] library card
+- [x] CO₂ meter
+- [x] kindle
+- [x] dongles/cables
 - [ ] phone car mount
-- [ ] truck USB charger
-- [ ] Ds headphones
-- [ ] download movies
+- [x] truck USB charger
+- [x] Ds headphones
+- [x] download movies
 ---
-- [ ] insurance card
-- [ ] airplane masks
-- [ ] normal masks
-- [ ] sleep mask
-- [ ] toiletries
-- [ ] covid tests
-- [ ] nose spray
-- [ ] vitamins
-- [ ] shampoo brush
-- [ ] foot scrubber
-- [ ] grooming scissors/tweezer
-- [ ] toothbrush/charger
+- [x] insurance card
+- [x] airplane masks
+- [x] normal masks
+- [x] sleep mask
+- [x] toiletries
+- [x] covid tests
+- [x] nose spray
+- [x] vitamins
+- [x] shampoo brush
+- [x] foot scrubber
+- [x] grooming scissors/tweezer
+- [x] toothbrush/charger
 - [ ] trimmer
 - [ ] shaving kit
 ---
-- [ ] sourdough/kefir
-- [ ] yeast, 10g
-- [ ] bread flour, 1000g
-- [ ] semolina, 120g
-- [ ] rye blend, 400g
-- [ ] thermapen
-- [ ] gram scale
-- [ ] kitchen knife
-- [ ] pizza pans
-- [ ] tea pint
-- [ ] tea strainer
-- [ ] green tea, x6
-- [ ] water bottle
+- [x] sourdough/kefir
+- [x] bread flour, 1000g
+- [x] semolina, 120g
+- [x] thermapen
+- [x] gram scale
+- [x] kitchen knife
+- [x] pizza pans
+- [x] tea pint
+- [x] tea strainer
+- [x] green tea, x6
+- [x] water bottle
 ---
-- [ ] sunglasses (all)
-- [ ] hiking shoes
-- [ ] underwear, x8
-- [ ] t-shirts, x8
-- [ ] shorts, x3
-- [ ] boardshorts, x1
-- [ ] rash guard, x1
+- [x] sunglasses (all)
+- [x] hiking shoes
+- [x] underwear, x8
+- [x] t-shirts, x8
+- [x] shorts, x3
+- [x] boardshorts, x1
+- [x] rash guard, x1
 - [ ] aloha shirt, x1
-- [ ] thin hoodie, x1
-- [ ] sleep shorts, x1
-- [ ] low socks, x1
-- [ ] belt
-- [ ] hat
+- [x] thin hoodie, x1
+- [x] sleep shorts, x1
+- [x] low socks, x1
+- [x] belt
+- [x] hat
 ---
-- [ ] USPS freeze
-- [ ] secure bikes
+- [x] USPS freeze
+- [x] secure bikes
 - [ ] turn off washer water/hang reminder sign
-- [ ] lock shed
+- [x] lock shed
 - [ ] security timer light
 
 ## Nature Camp

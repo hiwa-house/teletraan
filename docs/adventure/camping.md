@@ -100,9 +100,6 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 - [ ] Buy ice
 
 * Unused Items
-	- [ ] silicone tubing
-	- [ ] first-aid kit
-	- [ ] lauhala mat
 	- [ ] roasting fork
 	- [ ] toilet paper
 	- [ ] water filter
@@ -110,16 +107,11 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 
 ## Adjustments for next time?
 * Flour, raw ingredient staples, etc?
-* Stuff sack for pillows
-* Camp blanket
-* pepper mill
-* propane lantern replacement
+* ditch propane lantern
+* smaller griddle with side burner?
+* better bin organization
 * can opener
-* lighter dutch oven
-* larger tea kettle
-* kite
-* yoga mat for tent floor
-* blow torch for firestarting
+* checklists for Mama/David
 
 ## Packing List
 {{ read_csv("adventure/camping.csv") }}

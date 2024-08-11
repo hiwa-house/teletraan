@@ -101,7 +101,6 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 
 * Unused Items
 	- [ ] roasting fork
-	- [ ] toilet paper
 	- [ ] water filter
 	- [ ] folding saw
 
@@ -110,8 +109,16 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * ditch propane lantern
 * smaller griddle with side burner?
 * better bin organization
+	* leave extra room for disorganized return home packing
 * can opener
 * checklists for Mama/David
+* small folding table
+* chuck kit stand/mount
+* RC car charger
+* recycling bin
+* always bring canopy
+* packable blankets
+* lauhala mat
 
 ## Packing List
 {{ read_csv("adventure/camping.csv") }}

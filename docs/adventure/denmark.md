@@ -1,7 +1,6 @@
 # Denmark
 
 ## ✏️ Notes
-apple maps pins
 * https://danishclass101.com/key-danish-phrases/  
 * https://www.rejseplanen.dk/webapp/index.html?language=en_EN  
 * ***Costco Visa:*** No foreign transaction fees.
@@ -100,7 +99,10 @@ apple maps pins
 		* *Westvleteren!?*
 	* Bottleshop - [Hos Rune](https://hos-rune.dk/en)
 	* Brewery/Bottleshop - [Brus](https://tapperietbrus.dk/)
-	* Supermarket - MENY
+	* Supermarket/Beer - [MENY](https://meny.dk/butik/meny-borups-alle)
+		* Best quality
+	* Supermarket - [Føtex](https://www.foetex.dk/kundeservice/find-butik/foetex-frederiksberg/c/foetex-frederiksberg/)
+		* Closest to Scandic
 * **Smørrebrød/Traditional Danish**
 	* [Café & Øl-Halle](https://cafeogoelhalle.dk/)
 		* [Reservations!](https://cafeogoelhalle.dk/bestil-bord/)

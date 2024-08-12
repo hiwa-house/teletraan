@@ -13,10 +13,10 @@
 
 ### 8/13/2024
 - [ ] 13:00CEDT	DL0144 Arrive AMS
+	* Lunch/Dinner?
 - [ ] 17:00CEDT	DL9212 Depart AMS
 - [ ] 18:20CEDT	DL9212 Arrive CPH
 	* Lebara (or Lyca) prepaid SIM
-	* Dinner?
 - [ ] 19:00CEDT	Avis rental car (up to +2h)
 - [ ] 21:00CEDT	Thon Partner Hotel Sorø Check-in
 
@@ -79,7 +79,7 @@
 * https://natmus.dk/museer-og-slotte/kongernes-jelling/  
 
 ## Copenhagen
-### 🏂 Activities
+### Activities
 * https://denblaaplanet.dk/en/  
 * https://natmus.dk/museer-og-slotte/nationalmuseet/  
 * https://natmus.dk/museer-og-slotte/frilandsmuseet/  
@@ -91,7 +91,7 @@
 
 * https://www.visitcopenhagen.com/copenhagen/planning/tivoli-gardens-gdk424504  
 
-### 🍽️ Food
+### Food
 * [CPH Airport](https://go-hotel.com/en/where-to-eat-in-copenhagen-airport)
 * **Picnic**
 	* Drinking in public is allowed; common to buy a beer and enjoy in the park.
@@ -148,7 +148,7 @@
 
 ## Lund
 
-### 🏂 Activities
+### Activities
 * On campus, stick to the older part in Lundagård (park) near the center of town and the cathedral.
 	* https://www.touristinformationlund.se/attractions/university-history/  
 * Around the university - picturesque streets
@@ -156,7 +156,7 @@
 	* Stora (big) and Lilla (little) Sigridsgatan
 	* Hjortgatan
 
-### 🍽️ Food
+### Food
 * Known for falafel - [Clemens](https://www.facebook.com/p/Clemens-Falafel-100064112107485/)
 * Swedish meatballs - [Gastrolnome](https://gastronome.se/en/)
 * Cardamom buns - [Broder Jakobs Stenugnsbageri](https://www.broderjakobs.se/)
@@ -168,7 +168,7 @@
 - [ ] truck USB charger
 - [ ] cell phone mount
 - [ ] outlet converter
-- [ ] blanket?
+- [ ] blanket
 - [ ] laptop
 - [ ] USB cables
 - [ ] CO₂ monitor
@@ -226,6 +226,7 @@
 - [ ] USPS freeze
 - [ ] lock shed
 - [ ] security timer light
+- [ ] credit card travel notice
 
 ---
  [🧭](https://maps.apple.com/?daddr=)  

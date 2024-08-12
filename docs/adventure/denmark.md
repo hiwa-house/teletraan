@@ -10,6 +10,7 @@
 
 ### 8/12/2024
 - [ ] 18:10PDT	DL0144 Depart SEA
+	* Checkpoint 1 (Int'l/South End) or 4 (Alaska)
 
 ### 8/13/2024
 - [ ] 13:00CEDT	DL0144 Arrive AMS

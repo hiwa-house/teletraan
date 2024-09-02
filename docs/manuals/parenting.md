@@ -11,7 +11,6 @@
 
 ## Books with Baba
 
-- [ ] Doctor Doolittle
 - [ ] The Rescuers
 ---
 - [ ] Charlotte's Web
@@ -38,6 +37,7 @@
 - [X] Charlie and the Chocolate Factory
 - [X] Charlie and the Great Glass Elevator
 - [X] The BFG
+- [X] Doctor Doolittle
 ---
 https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all-time  
 

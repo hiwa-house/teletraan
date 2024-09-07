@@ -17,6 +17,11 @@
 ```
 $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)[%title%]
 ```
+## Data Loss
+* /Audio/music/Various Artists/Look at All Love We Found Tribute to Sublime
+* /Kid TV/Nature's Great Events/01x05 - The Great Flood.mkv
+* /Kid TV/Nature's Great Events/01x06 - The Great Feast.mkv
+* /TV/Arrow/08x05 - Prochnost.mkv
 
 ## Movies/Series *(undecided)*
 - The Portable Door

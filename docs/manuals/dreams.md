@@ -1,7 +1,7 @@
 # Dream List
 
 ## Want to Go
-* Denmark
+- [X] Denmark
 * Japan
 * Vancouver
 * Thailand
@@ -20,5 +20,5 @@
 
 * Paleontology Camp
 * Northern Lights
-* Lego House
+- [X] Lego House
 * Class for Mama & Baba

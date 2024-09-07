@@ -119,6 +119,7 @@ Locations that we'd like to try someday in roughly order of preference. (But, fi
 * always bring canopy
 * packable blankets
 * lauhala mat
+* keep food in cooler covered with damp towel
 
 ## Packing List
 {{ read_csv("adventure/camping.csv") }}

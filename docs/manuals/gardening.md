@@ -4,6 +4,19 @@
 
 - [ ] Build berry netting frame.
 
+## Drip Watering Guidelines for Vegetables
+
+|Plant Types      |Watering Device              |Water Needs    |Spring            |Summer            |
+|-----------------|-----------------------------|---------------|------------------|------------------|
+|Beans            |Micro Bubbler (2.0 GPH)      |2 gallons      |0:45 (1x/wk)      |0:75 (1x/wk)      |
+|Carrots, beets   |Dripper (2.0 GPH)            |1 gallon       |0:45 (1x biweekly)|0:75 (1x biweekly)|
+|Cucumbers        |Micro Bubblers (1.0 GPH)     |1 gallon       |0:45 (1x/wk)      |0:90 (2x/wk)      |
+|Onions           |Dripper (0.5 GPH)            |0.5 - 1 gallon |0:45 (1x/wk)      |0:90 (2x/wk)      |
+|Squash, broccoli |Dripper (1.0 GPH)            |1 - 1.5 gallons|0:45 (1x/wk)      |0:75 (1x/wk)      |
+|Tomatoes, peppers|Dripper (2.0 GPH)            |2 gallons      |0:45 (2x/wk)      |0:75 (2x/wk)      |
+|Other Row Plants |1/4" Emitter Tubing (1.0 GPH)|2 gallons      |0:45 (2x/wk)      |0:90 (2x/wk)      |
+* https://rainbird.com/homeowners/blog/drip-watering-for-vegetable-gardens  
+
 ## Container Watering Guidelines
 
 1. When skewer pushed deep into soil is dry

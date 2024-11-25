@@ -41,13 +41,6 @@
 ---
 https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all-time  
 
-## Bubble Solution Formula
-
-- [ ] 40	grams	dishwashing liquid
-- [ ] 100	grams	glycerol
-- [ ] 1	gram	guar gum powder
-- [ ] 1000	grams	water
-
 ## Confronting a Challenge
 
 * If someone is better than you at something, then it’s likely because she has failed at it more than you have.
@@ -98,22 +91,19 @@ https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all
 	* Contribute 3% if he buys a multi-unit property.
 	* Contribute 3% if he maintains roommates.
 
-## Future Success
+## Jobs and Work
 
-1. Encourage questions
-	- Go out of your way to make sure he is felt heard, understood and valued. Explain what is interesting and important about a conversation topic, expanding on the topic with our own knowledge.
-2. Provide unconditional love
-	- Teach the concept that he is worthy of love and belonging, not that he is perfect the way he is. There will be days when he fails or when people reject him or his ideas, but this is ok. While he shouldn't give up and should be pushed to improve, we still love him as he is.
-3. Show the importance of a strong work ethic
-	- Model working hard and doing a job the right way. Shortcuts can be encouraged only if they increase efficiency without affecting quality.
-4. Teach kids to be powerful
-	- Indulgence in negative self-talk is never allowed. Replace negative beliefs (“I can’t do this”), with positive ones, focusing on the desired outcome. Encourage goalsetting in all areas of his life. Write down goals and review them together.  
+1. Whatever the work is, do it well - not for the boss but for yourself.
+2. You make the job; it doesn't make you.
+3. Your real life is with us, your family.
+4. You are not the work you do; you are the person you are.
+
 ---
-https://forbes.com/sites/moneybuilder/2012/01/05/five-unusual-ways-to-raise-successful-children/  
+https://newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are  
 
 ## Resilience
 
-* **Emotional Regulation:** When feelings overwhelm you, you can’t make good decisions. You’re an emotional crash test dummy. Slow down and get some distance. Notice and name your emotions. Then reappraise. Is this really that bad? Are these thoughts useful?
+* **Emotional Regulation:** When feelings overwhelm you, you can’t make good decisions. Slow down and get some distance. Notice and name your emotions. Then reappraise. Is this really that bad? Are these thoughts useful?
 * **Optimism:** When we can’t see a potential positive outcome, it’s rational to give up. Consider your Best Possible Self. See difficulty as transient, local, and controllable so you stop feeling like a pigeon in life’s shooting gallery.
 * **Cognitive Agility:** When you immediately jump to the worst-case scenario, you’re going to want to quit. Take the time to consider more possibilities. And then ask yourself which one you’d bet the mortgage on being most likely. Otherwise, you’ll feel like a shut-in in a house of horrors.
 * **Self-Compassion:** You’re letting someone walk all over you. But the person doing the walking is also you. Take that compassion you usually extend to others and offer some of it to yourself.
@@ -160,7 +150,6 @@ https://kidnonfic.substack.com/p/tech-stuff-for-ten-yr-olds
 * **Get the wiggles out.** Sometimes we just need to move our bodies. Not only does it get our blood pumping, but it can be a great mood balancer, too. Try a one-minute dance break or challenge your child to 15 jumping jacks. I love these these ideas for releasing kids’ energy while staying indoors. Doing something physical and involving like this is great self-care for kids because it also brings them back into their bodies and the present moment. This act of getting back into the present is known as mindfulness, and by setting up physical movement as a strategy your kids can use, you’re helping them to be mindful without even knowing it.
 * **Take a break.** Simply asking, Do you need to take a break? Or saying, Let’s take a break!, when I notice a child having a hard time has done wonders. (I’m always trying to channel Mom Tiger.) I make sure not to shame and we try to normalize taking breaks as a way to keep ourselves healthy. Having a designated break spot to go to is helpful. And as they get older, the goal is that they’ll be able to name when they need to take a break.
 * **Have a healthy snack.** Nourishing our bodies and making sure we have the fuel we need to get through the day is a vital part of self-care for kids. If your child is feeling a little “hangry,” encourage them to recognize and name this sensation, and then suggest a nutritious nibble. In my house, we try to opt for grab-and-go snacks that have protein (cheese sticks, nuts, greek yogurt, hard-boiled eggs, or crackers with peanut butter).
-* **Get clean.** It’s amazing how an impromptu bath can provide rest for young and old alike. Depending on their age, they may like extra bubbles, a bath bomb, or extra toys. Caring for your body is important!
 ---
 https://pbs.org/parents/thrive/simple-self-care-habits-for-kids  
 

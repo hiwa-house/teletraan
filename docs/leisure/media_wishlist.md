@@ -3,6 +3,7 @@
 ## Anime Dubs
 - high school of the dead
 - akame ga kill
+- delicious in dungeon
 
 ## Music
 - Kamaka Camarillo
@@ -26,61 +27,37 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 ## Movies/Series *(undecided)*
 - The Portable Door
 - The Wrath of Becky
-- Quasi
-- War of the Worlds: The Attack
-- Andy Somebody
-- Knights of the Zodiac
-- Asteroid City
-- Extraction 2
-- No Hard Feelings
-- The Regime
 - FUBAR
-- Maggie Moore(s)
 - Twisted Metal
-- Peter Pan & Wendy
-- Pachinko
-- Guardians of Time
-- Seneca
-- Extrapolations
 - Babylon
-- Extraordinary
-- Plane
-- Gatlopp
 - The Big Door Prize
-- The Tomorrow Job
 - Inside
-- Green Lantern: Beware My Power
 - Rare Beasts
-- Dinner in America
-- Resident Evil (netflix)
 - House of the Dragon
-- Agent Elvis
 - Mickey 17
-- Silo
-- Medieval
-- Paper Girls
-- Rubikon
-- The Collective
-- Zom 100
-- Hijack
-- Bottoms
-- The Kill Room
 - My Animal
-- Freelance
-- Maboroshi
 - Saltburn
-- Godzilla Minus One
 - Dream Scenario
-- Obliterated
-- Scavengers Reign
 - The Toxic Avenger
 - Monarch: Legacy of Monsters
-- If You Were the Last
-- Pantheon
 - The Artful Dodger
-- The Brothers Sun
 - The Convert
 - Mr & Mrs Smith
+- Land of Bad
+- Sasquatch Sunset
+- Snack Shack
+- Renegade Nell
+- The Greatest Hits
+- Parasyte: The Grey
+- Dune: Prophecy
+- The Exorcism
+- The Big Cigar
+- Lumina
+- A Quiet Place: Day One
+- Kinds of Kindness
+- Sausage Party: Foodtopia
+- The Union
+- Flight Risk
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

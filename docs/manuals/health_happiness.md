@@ -17,6 +17,16 @@ It’s wonderful that you have high standards. It’s wonderful that you are dem
 
 Don’t let yourself get away with anything less.  
 
+## Home Blood Pressure Monitoring
+1. Don’t smoke, drink caffeinated beverages or exercise within 30 minutes before taking your blood pressure. Empty your bladder.
+2. Remove the clothing over the arm that will be used to measure blood pressure.
+3. You can use either arm. Usually there is not a big difference between readings on them.
+4. Be still. Allow at least five minutes of quiet rest before measurements. Don’t talk or use the phone.
+5. Sit with your back straight and supported (on a dining chair, rather than a sofa). Your feet should be flat on the floor. Do not cross your legs. Support your arm on a flat surface. The middle of the cuff should be placed on the upper arm at heart level.
+6. Take the readings at the same time each day.
+7. Each time you measure, take two readings one minute apart.
+* 🔗 https://heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home
+
 ## Long Life
 * Don't smoke. Drink lightly or not at all.
 * Get a mix of aerobic and anaerobic exercise, ideally 45 mins per day.
@@ -26,3 +36,4 @@ Don’t let yourself get away with anything less.
 * Preventative healthcare. In your 40s and 50s, see a primary care provider from time to time to be on top of screening tests (Hyperlipidemia, hypertension, diabetes, and colonoscopies, etc.).
 * Be mindful of UV exposure, especially if you live somewhere where you get lots of sun.
 * Keep mentally and physically active as you age. Fill retirement with something that gets you up, active, and around people.
+

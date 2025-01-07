@@ -4,3 +4,4 @@
 ![spear_rage](spear_rage.gif)
 ![violent_night](violent_night.jpg)
 ![warcraft_hammer](warcraft_hammer.gif)
+![glaive_flame](glaive_flame.gif)

@@ -3,17 +3,22 @@
 ## 🗺️ Itinerary
 
 ## ✏️ Notes
-* [📜](https://onedrive.live.com/edit?id=59038AA50428D20A!60747&resid=59038AA50428D20A!60747)
+https://www.sunpeaksresort.com/sun-peaks-rentals
+	* Hours: 8:00a - 6:00p
+https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION_USER_CHECKIN/HMJPZAKCHR
+Kamloops grocery stops
+	* costco
+	* fresh street
+	* Stag's Head
+	* superstore
+https://www.drivebc.ca/directions.html?a=Abbotsford,%20BC,%20Canada&b=Sun%20Peaks,%20BC%20V0E,%20Canada&sr=1
+https://i.redd.it/jdesiyycp8581.jpg
+
 * Enable/disable data roaming and/or cell service once in Canada.
+	* JetPac?
 * ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
 * ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
 * https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
-* Groceries/Produce
-	1. T&T [🧭](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Lansdowne+Road,+Richmond,+BC,+Canada)
-	2. Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)
-	3. Independent [🧭](https://maps.apple.com/?daddr=Sewak's+Your+Independent+Grocer+Whistler,+Bear+Paw+Trail,+Whistler,+BC,+Canada)
-	4. Fresh Street [🧭](https://maps.apple.com/?daddr=Fresh+St.+Market,+4330+Northlands+Blvd,+Whistler,+BC+V0N+1B4,+Canada)
-		- $10 off $100 coupon in Pique magazine.
 * Gas *(total ~= $140)*  
 	* Costco <-> Costco distance: 380 mi
 	- Costco Marysville: fill
@@ -21,59 +26,31 @@
 	- Costco Marysville: fill
 
 ## 🥣 Menu
+tacos
+mac n cheese
+
 |	**Sat**	|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
 |	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
 |	Takeout 	|	BBQ   	|	Pasta 	|	Tacos 	|	Mac/Chz	|	Burgers	|	Leftover	|
 |	      	|	Broccoli	|	Salad 	|	      	|	Broccoli	|	Broccoli	|	      	|
 |	      	|	Rice  	|	Bread 	|	      	|	Kimchi	|	*???* 	|	      	|
 
-*Other Ideas: Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
-
-## 🏂 Activities
-* Vancouver
-	1. [Lynn Canyon](https://lynncanyon.ca/) [🧭](https://maps.apple.com/?daddr=Lynn+Canyon+Ecology+Centre,+3663+Park+Rd,+North+Vancouver,+BC+V7J+3G3,+Canada)
-		- Hiking trails
-		- Suspension bridges
-	2. [Dr Sun Yat Sen Chinese Garden](https://vancouverchinesegarden.com/visit/) [🧭](https://maps.apple.com/?daddr=180+Keefer+St,+Vancouver,+BC+V6A+3V8,+Canada)
-		- 9:30a-4:00p
-		- Family: $32
-	3. [Stanley Park Seawall Loop](https://vancouver.ca/parks-recreation-culture/stanley-park-seawall.aspx) [🧭](https://maps.apple.com/?daddr=1798+W+Georgia+St,+Vancouver,+BC+V6G+2V7,+Canada)
-		- https://spokesbicyclerentals.com/
-		- Bike rental: $9/hour
-		- 6.2 mi *(10 km)*
-		- totem poles
-	4. [Granville Island Public Market]() [🧭](https://maps.apple.com/?daddr=Granville+Island+Public+Market,+Public+Market,+1689+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada)
-		- Parking: $3/hour
-* Whistler
-	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)
-		- Every Sunday in Skier's Plaza at 7:30p
-		- Free event
-	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
-		- 11:00a-6:00p
-		- The Tube Park is located on Blackcomb Mountain, just above mid-station of the Excalibur Gondola (first stop on the Gondola) and adjacent to Lot 8.
-		- Access on foot is via a "no cost" ride on the lower line of the Excalibur Gondola up to the mid-station and is open the same hours as the Tube Park.
-		- Once at the mid-station, guests cross the ski run towards Lot 7 and proceed up the side of the run on the walkway to the Tube Park pathway entrance.
-	- [Whistler/Blackcomb Free Mountain Tours](https://whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/free-mountain-tours.aspx)
-		- Ski/snowboard tours
-		- Meeting Time: 11:15a
-		- Departure Time: 11:30a
-		- Ability Level: 4+ (solid blue run skiers or snowboarders)
-		- Duration: ~1.5hours
-		- ***Whistler Orientation Tour:*** Meet at the CIBC Guest Satisfaction Centre at the Alpine Lightboard (top of the Whistler Village Gondola).
-		- ***Blackcomb Orientation Tour:*** Meet at the Lightboard outside the Rendezvous, at the top of the Blackcomb Gondola.
-	- [Whistler Sliding Centre](https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing)
-		- Free admission
-		- Sledding hill
-		- Bobsled/skeleton spectating: 1:00p-3:00p
-	- https://scandinave.com/whistler
-		- Nordic-style outdoor spa
-		- Thermal Journey without Reservation: $135
-	- [Outdoor Skating Rink](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/)
-		- 11:00a-1:30p, 2:30p-5:00p, 6:00p-8:30p
-	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
-		- Pool, hot tub, sauna
+*Other Ideas: Pasta, Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
 
 ## 🍽️ Dine In
+* Sun Peaks
+	- [Bottoms Bar & Grill](https://www.bottomssunpeaks.com/)
+		- Good burgers
+		- Best looking food of the "pubs"
+	- [Oya Japanese Cuisine](https://www.oyasunpeaks.com/)
+		- Only worth considering Asian food
+	- [The Magic Cattle Guard Diner](https://www.magiccattleguard.ca/)
+		- Outside of the village
+	- [Vertical Cafe](https://www.verticalcafesunpeaks.com/)
+		- Diner food
+	- [Powder Hounds Restaurant](https://www.powderhoundssunpeaks.com/)
+	- [Cahilty Creek Kitchen](https://cahiltycreek.com/)
+		- Most legit taplist
 * Vancouver
 	* Dim Sum
 		* http://kirinrestaurants.com/
@@ -84,6 +61,13 @@
 			- h: 9:00a-3:00p
 
 ## 🥡 Take Out
+* Sun Peaks
+	- [Chez Joe Poutine](https://www.chezjoepoutine.ca/)
+	- [Baby Doh's Mountain Fair](https://www.sunpeaksresort.com/events-things-to-do/dining-apres/baby-dohs-mountain-fair)
+		- Mini donuts
+	- [Bolacco Caffé](https://www.bolacco.com/)
+		- Coffee and pastries
+	- [Mountain High Pizza](https://mountainhighpizza.ca/)
 * Vancouver
 	- [Parker Place (Aberdeen) Meat & BBQ](https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2) [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
 		- Chinese BBQ
@@ -102,17 +86,16 @@
 	- https://abento.ca/
 		- Taiwanese bentos
 		- h: 11:30a-3:00p
-* Whistler
-	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
-		- Meat Pies
-
-## 🍟 Poutine
-* Vancouver
 	- [La Belle Patate](https://westcoastpoutine.wixsite.com/labellepatatevan) [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)
 		- h: 11:00a-11:00p
-	- Costco Food Court  
+	- Poutine at Costco Food Court  
 * Whistler
-	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)  
+	- Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)
+		- Best grocery option
+	- https://chubbyducks.ca/ [🧭](https://maps.apple.com/?daddr=Chubby+Ducks+Donair,+Kebab+%26+Poutine,+4122+Village+Green+Unit+9,+Whistler,+BC+V0N+1B4,+Canada)
+		- Poutine
+	- https://peakedpies.com/ [🧭](https://maps.apple.com/?daddr=Peaked+Pies+Whistler,+4369+Main+St+%23105,+Whistler,+BC+V0N+1B4,+Canada)  
+		- Meat Pies
 
 ## 🥐 Bakeries
 * Vancouver
@@ -129,22 +112,50 @@
 	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
 
 ## 🍺 Breweries
-1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
-	- Belgian-style
-	- 20 min drive from AirBnb
-2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
-	- On the way in Squamish
-3. https://fieldhousebrewing.com/ [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
-	- Beer nerd approved
-4. https://superfluxbeer.com/ [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
-	- IPAs
-	- 10 min drive from AirBnb
-5. https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
-	- 10 min drive from AirBnb
-	- Near Superflux
-6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
-	- Closest to AirBnb *(8 min drive)*
-7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
+* Sun Peaks Trip
+	- [Stag's Head Liquor Store](https://stagsheadliquorstore.com/)
+	- [Sundance Liquor Store](https://sundanceliquor.ca/)
+	1. [Field House Brewing Co.](https://fieldhousebrewing.com/) [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
+	2. [Trading Post Brewing](https://www.tradingpostbrewing.com/abbotsford)
+	3. [Bright Eye Brewing](https://www.brighteyebrewing.com/)
+	4. [Red Collar Brewing & Distilling](https://www.redcollar.ca/)
+	5. [Iron Road Brewing](https://www.ironroadbrewing.ca/)
+* General BC Finds
+	1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
+		- Belgian-style
+	2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
+		- On the way in Squamish
+		- Great lagers
+	3. [Field House Brewing Co.](https://fieldhousebrewing.com/) [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)
+		- Corbett approved
+	4. https://superfluxbeer.com/ [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)
+		- IPAs
+	5. https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)
+		- Near Superflux
+	6. https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)
+	7. https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)
+
+## 🏂 Activities
+* Sun Peaks
+	- [Axe Throwing](https://cleavageaxeco.com/)
+* Vancouver
+	1. [Lynn Canyon](https://lynncanyon.ca/) [🧭](https://maps.apple.com/?daddr=Lynn+Canyon+Ecology+Centre,+3663+Park+Rd,+North+Vancouver,+BC+V7J+3G3,+Canada)
+		- Hiking trails
+		- Suspension bridges
+	2. [Dr Sun Yat Sen Chinese Garden](https://vancouverchinesegarden.com/visit/) [🧭](https://maps.apple.com/?daddr=180+Keefer+St,+Vancouver,+BC+V6A+3V8,+Canada)
+		- 9:30a-4:00p
+	3. [Stanley Park Seawall Loop](https://vancouver.ca/parks-recreation-culture/stanley-park-seawall.aspx) [🧭](https://maps.apple.com/?daddr=1798+W+Georgia+St,+Vancouver,+BC+V6G+2V7,+Canada)
+		- https://spokesbicyclerentals.com/
+		- 6.2 mi *(10 km)*
+	4. [Granville Island Public Market]() [🧭](https://maps.apple.com/?daddr=Granville+Island+Public+Market,+Public+Market,+1689+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada)
+* Whistler
+	- [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024)
+	- [Bubly Tube Park](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/tube-park.aspx)
+	- [Whistler/Blackcomb Free Mountain Tours](https://whistlerblackcomb.com/explore-the-resort/activities-and-events/winter-activities/free-mountain-tours.aspx)
+	- [Whistler Sliding Centre](https://whistlerslidingcentre.com/public-sliding/spectating-sightseeing)
+	- https://scandinave.com/whistler
+	- [Outdoor Skating Rink](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/)
+	- [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/)
 
 ## 🧳 Pack List
 - [ ] air purifier?

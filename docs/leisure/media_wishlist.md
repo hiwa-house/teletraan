@@ -34,7 +34,6 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Inside
 - Rare Beasts
 - House of the Dragon
-- Mickey 17
 - My Animal
 - Saltburn
 - Dream Scenario
@@ -42,7 +41,6 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Monarch: Legacy of Monsters
 - The Artful Dodger
 - The Convert
-- Mr & Mrs Smith
 - Land of Bad
 - Sasquatch Sunset
 - Snack Shack
@@ -58,6 +56,13 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Sausage Party: Foodtopia
 - The Union
 - Flight Risk
+- The Last Front
+- A Different Man
+- Succubus (2024)
+- Omni Loop
+- It's What's Inside
+- Brothers
+- Wolfs
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

@@ -56,6 +56,8 @@ markdown_extensions:
     - pymdownx.magiclink:
         hide_protocol: true
     - pymdownx.smartsymbols
+    - pymdownx.snippets:
+        url_download: true
     - pymdownx.superfences
     - pymdownx.tabbed:
         alternate_style: true

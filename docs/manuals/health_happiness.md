@@ -17,6 +17,34 @@ It’s wonderful that you have high standards. It’s wonderful that you are dem
 
 Don’t let yourself get away with anything less.  
 
+## Optical Prescriptions
+* Near *(actual)*
+	* OD: (SPH) +1.25 / (CYL) -0.50 / Axis 95
+	* OS: (SPH) +1.50 / (CYL) -0.75 / Axis 85
+	* PD: (R) 29.5 / (L) 30.0
+* Intermediate *(estimated)*
+	* OD: (SPH) +0.50 / (CYL) -0.50 / Axis 95
+	* OS: (SPH) +0.75 / (CYL) -0.75 / Axis 85
+	* PD: (R) 30.0 / (L) 30.5
+* Far *(actual)*
+	* OD: (SPH) +0.00 / (CYL) -0.50 / Axis 95
+	* OS: (SPH) +0.25 / (CYL) -0.75 / Axis 85
+	* PD: (R) 31.0 / (L) 31.5
+* *Last measured: 2024*
+* Optimal Frame Measurements:
+	* Lens Width: 51-55
+	* Lens Height: 34-36
+	* Frame Width: 130-135
+	* Bridge: 16
+	* Temple: 140-145
+* Intermediate Prescription Formula:
+	1. Near_SPH - Dist_SPH = ADD; Dist_SPH + ADD/2 = Int_SPH *(weaker or more conservative estimate)*
+	2. Dist_SPH + 1/Computer_Dist = Int_SPH *(stronger estimate)*
+* PD for Glasses
+	* Far: Estimate with [PD+](https://apps.apple.com/us/app/pd-easy-pupillary-distance/id1560353383) and [GlassesOn](https://apps.apple.com/us/app/glasseson/id1153638659).
+	* Near: Subtract 1.5mm from each eye’s Far PD measurement.
+	* Intermediate: Subtract 0.75mm from each eye’s Far PD measurement.
+
 ## Home Blood Pressure Monitoring
 1. Don’t smoke, drink caffeinated beverages or exercise within 30 minutes before taking your blood pressure. Empty your bladder.
 2. Remove the clothing over the arm that will be used to measure blood pressure.

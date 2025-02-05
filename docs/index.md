@@ -27,16 +27,15 @@
 	* Snack less, sleep more.
 	* Protein- and fiber-rich breakfast.
 	* Eat more plants.
-	* Reduce alcohol.
+	* Half pints.
 
 -	## 📈 Finance
 
 	---
 
-	* No drinks when dining out.
+	* Less drinks when dining out.
 	* Takeout only 3 times/month.
 	* Invest in more vacations/kiddo.
-	* Investment property?
 
 -	## 🐬 Simple Joys
 

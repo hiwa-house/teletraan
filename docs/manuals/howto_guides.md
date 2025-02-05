@@ -44,6 +44,7 @@
 		* *Low Beam:* Philips H11 Standard
 		* *High Beam:* Philips 9005 Standard
 		* *Parking (C-light):* 168
+		* *Rear Side Marker:* 168
 	* *Various Parts:*
 		* Disc Brake Caliper Pin Bolt, P/N 26231FE011
 		* Wheel Lug Stud, P/N 28365FE001

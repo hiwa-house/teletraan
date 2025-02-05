@@ -17,21 +17,22 @@ https://rum.reddit.com/comments/lb9y0n/rachels_unofficial_rrum_what_should_i_buy
 ## Bourbon/Whiskey
 - [ ] Bulleit 10 Year
 - [ ] Eagle Rare
-- [ ] Elijah Craig Small Batch
+- [X] Elijah Craig Small Batch
 - [ ] Evan Williams Single Barrel
 - [ ] Four Roses Small Batch Select
 - [ ] Jack Daniels Single Barrel
-- [ ] Monkey Shoulder
+- [X] Monkey Shoulder
 - [ ] Old Forester 100
 - [ ] Old Forester 1870
 - [ ] Old Forester 1897
 - [ ] Old Forester 1920
 - [ ] Old Grand Dad in Bond
 - [ ] Powers Gold
-- [ ] Rittenhouse Rye
+- [X] Rittenhouse Rye
 - [ ] Russel Reserve 10
 - [ ] Wild Turkey 101
 - [ ] Wild Turkey Rare Breed
+- [ ] Michter's US1 Bourbon
 
 ## Irish Whiskey
 

@@ -1,4 +1,8 @@
 AlaskaAir Free Wifi: enter any Tmobile Phone #
+https://www.facebook.com/ThaiTempleHawaii/
+https://www.himb.hawaii.edu/visit/walking-tours/
+https://www.genkialawai.org/
+https://kakoooiwi.org/
 
 ## Omiyage
 https://www.instagram.com/kimmiskookies/

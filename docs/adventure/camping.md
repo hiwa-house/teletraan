@@ -117,6 +117,14 @@ Locations that we'd like to try someday in roughly order of preference.
 
 ---
 
+## Crabbing
+- [ ] 10' Okuma rod (Fred Meyer, Walmart?) - ~$30
+- [ ] Baitcast spinning reel
+- [ ] 50-100# mono line
+- [ ] 2-3oz weights (if a sinker, lash to the end opposite the line)
+
+---
+
 ## Menu Ideas
 * korean nachos
 * pasta

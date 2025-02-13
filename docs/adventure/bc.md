@@ -2,40 +2,46 @@
 
 ## 🗺️ Itinerary
 
-## ✏️ Notes
-https://www.sunpeaksresort.com/sun-peaks-rentals
-	* Hours: 8:00a - 6:00p
-https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION_USER_CHECKIN/HMJPZAKCHR
-Kamloops grocery stops
-	* costco
-	* fresh street
-	* Stag's Head
-	* superstore
-https://www.drivebc.ca/directions.html?a=Abbotsford,%20BC,%20Canada&b=Sun%20Peaks,%20BC%20V0E,%20Canada&sr=1
-https://i.redd.it/jdesiyycp8581.jpg
+- [ ]	**07:00**	Depart	
+- [ ]	**08:30**	Arrive Bellingham Costco	[🧭](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
+- [ ]	**09:30**	Arrive Sumas border crossing	[🧭](https://maps.apple.com/?daddr=SR+9+General+Purpose,+2+Sumas+Way,+Abbotsford,+BC+V2S+8B7,+Canada)
+- [ ]	**11:30**	Coquihalla Pass	
+- [ ]	**14:00**	Arrive Kamloops Costco	[🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
+- [ ]	**15:00**	Arrive Fresh Street Grocery Store	[🧭](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**15:30**	Arrive Stag's Head Liquor	[🧭](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**17:00**	Arrive Sun Peaks	[🧭](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
 
-* Enable/disable data roaming and/or cell service once in Canada.
-	* JetPac?
+## ✏️ Notes
+
+* applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492
+* https://drivebc.ca/directions.html?a=Bellevue,%20WA%2098005,%20USA&b=Sun%20Peaks,%20BC%20V0E%205N0,%20Canada
+* https://weather.gc.ca/forecast/public_bulletins_e.html?Bulletin=fpcn68.cwvr
+* https://weather.gc.ca/en/location/index.html?coords=50.878,-119.908
+* https://i.redd.it/jdesiyycp8581.jpg
+* [Sun Peaks Ski Rentals](https://www.sunpeaksresort.com/sun-peaks-rentals)
+	* Hours: 8:00a - 6:00p
+* Kamloops grocery store rankings *(Costco > Fresh Street > Superstore)*
+
+* Disable data roaming / Enable JetPac.
+* ***Alaska Visa:*** No foreign transaction fees, general purchases.
 * ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
 * ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
 * https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/
-* Gas *(total ~= $140)*  
-	* Costco <-> Costco distance: 380 mi
-	- Costco Marysville: fill
-	- Squamish: half tank *(11 liters @ $1.70/l)*
-	- Costco Marysville: fill
+* Gas
+	- Depart: Costco Bellingham - fill
+  	- >1/2 tank at Kamloops before driving to Sun Peaks
+	- Return: Costco Kamloops - 26.5l @ $1.53/l (7 gal)
+	- Return: Costoc Everett - fill
 
 ## 🥣 Menu
-tacos
-mac n cheese
 
-|	**Sat**	|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
+|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|	**Sat**	|
 |	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
-|	Takeout 	|	BBQ   	|	Pasta 	|	Tacos 	|	Mac/Chz	|	Burgers	|	Leftover	|
-|	      	|	Broccoli	|	Salad 	|	      	|	Broccoli	|	Broccoli	|	      	|
-|	      	|	Rice  	|	Bread 	|	      	|	Kimchi	|	*???* 	|	      	|
+|	Takeout 	|	Burgers?	|	Tacos 	|	*???*   	|	Mac/Chz	|	*???* 	|	Road  	|
+|	      	|	Broccoli	|	      	|	*???*   	|	Broccoli	|	*???* 	|	      	|
+|	      	|	*???*   	|	      	|	*???*   	|	Sides 	|	*???* 	|	      	|
 
-*Other Ideas: Pasta, Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
+*Ideas: Pasta, Black beans, Donburi, French toast, Meat and cheese plates, Ube pancakes*
 
 ## 🍽️ Dine In
 * Sun Peaks
@@ -71,23 +77,16 @@ mac n cheese
 * Vancouver
 	- [Parker Place (Aberdeen) Meat & BBQ](https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2) [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)
 		- Chinese BBQ
-		- Recent menu: [📋](https://s3-media0.fl.yelpcdn.com/bphoto/fY-gdKQ2vNHUFqfQyEG6Ig/o.jpg)
-		- h: opens at 8:30a or 11:00a?
 		- Cash only
 	- [Hei Hei Rice Roll](https://instagram.com/heiheiriceroll/) [🧭](https://maps.apple.com/?daddr=Richmond+Public+Market,+8260+Westminster+Hwy,+Richmond,+BC+V6X+1A7,+Canada)
-		- Inside Richmond Public Market
 		- Cheung fun
-		- h: 9:00a-6:00p
+		- Inside Richmond Public Market
 	- [Sashimiya](https://sashimiya.ca/) [🧭](https://maps.apple.com/?daddr=Sashimiya,+1348+Hornby+St,+Vancouver,+BC+V6Z+1W5,+Canada)
-		- Sushi/sashimi
-		- Japanese grocery & snacks
-		- h: 11:00a-8:00p
+		- Japanese sushi/grocery/snacks
 	- https://instagram.com/hkbbqmaster/  
 	- https://abento.ca/
 		- Taiwanese bentos
-		- h: 11:30a-3:00p
 	- [La Belle Patate](https://westcoastpoutine.wixsite.com/labellepatatevan) [🧭](https://maps.apple.com/?daddr=1215+Davie+St,+Vancouver,+BC+V6E+1N4,+Canada)
-		- h: 11:00a-11:00p
 	- Poutine at Costco Food Court  
 * Whistler
 	- Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)
@@ -102,14 +101,9 @@ mac n cheese
 	- [Kam Do Bakery](https://instagram.com/kamdobakery/) [🧭](https://maps.apple.com/?daddr=6211+No.+3+Rd+Unit+130,+Richmond,+BC+V6Y+0C2,+Canada)
 		- Fancier
 		- Cash only
-		- h: 7:00a-9:00p
 	- [New Town Bakery & Restaurant](https://newtownbakery.ca/) [🧭](https://maps.apple.com/?daddr=148+E+Pender+St,+Vancouver,+BC+V6A+1T3,+Canada)
 		- Chinese/Filipino
 		- Cash only
-		- h: 6:30a-7:30p
-* Whistler
-	- https://purebread.ca/ [🧭](https://maps.apple.com/?daddr=4338+Main+St+%23122,+Whistler,+BC+V0N+1B4,+Canada)  
-	- https://edsbred.com/ [🧭](https://maps.apple.com/?daddr=BReD+-+Organic+Sourdough,+206-2067+Lake+Placid+Rd,+Whistler,+BC+V8E+0B6,+Canada)  
 
 ## 🍺 Breweries
 * Sun Peaks Trip
@@ -120,7 +114,7 @@ mac n cheese
 	3. [Bright Eye Brewing](https://www.brighteyebrewing.com/)
 	4. [Red Collar Brewing & Distilling](https://www.redcollar.ca/)
 	5. [Iron Road Brewing](https://www.ironroadbrewing.ca/)
-* General BC Finds
+* BC Finds
 	1. https://dageraadbrewing.com/ [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)
 		- Belgian-style
 	2. https://backcountrybrewing.com/ [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)
@@ -182,7 +176,8 @@ mac n cheese
 - [ ] vitamins
 - [ ] toothbrush
 ---
-- [ ] cooler bag
+- [ ] soft cooler
+- [ ] costco cooler bag
 - [ ] tea pint
 - [ ] coffee mug
 - [ ] water bottle
@@ -198,6 +193,7 @@ mac n cheese
 - [ ] ziploc bags
 - [ ] tupperware
 - [ ] dish towels
+- [ ] milk frother
 ---
 - [ ] snowboard
 - [ ] snowboard boots
@@ -226,9 +222,32 @@ mac n cheese
 - [ ] wool socks, x3
 - [ ] belt
 ---
+- [ ] shredded cheese
+- [ ] taco shells
+- [ ] hot sauce
+- [ ] tortillas
+- [ ] elbow pasta (portioned)
+- [ ] cheddar cheese (marked)
+- [ ] evaporated milk
+- [ ] canned chili
+- [ ] chili crisp
+- [ ] ube pancake mix
+- [ ] crackers
+- [ ] salsa
+- [ ] clif bar
+- [ ] granola
+- [ ] honey nut cheerios
+- [ ] marshmallows
+- [ ] hot cocoa
+- [ ] green tea
+- [ ] instant coffee
+- [ ] fiber
+- [ ] vitamins
+- [ ] cheese powder
+---
 - [ ] freeze milk jugs
 - [ ] Xfinity Global Travel Pass
-- [ ] Costco Visa travel notification
+- [ ] Alaska Visa travel notification
 - [ ] USPS hold mail
 - [ ] Meal prep
 - [ ] Lock shed

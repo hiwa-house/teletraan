@@ -3,17 +3,17 @@
 ## 🗺️ Itinerary
 
 - [ ]	**07:00**	Depart	
-- [ ]	**08:30**	Arrive Bellingham Costco	[🧭](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
-- [ ]	**09:30**	Arrive Sumas border crossing	[🧭](https://maps.apple.com/?daddr=SR+9+General+Purpose,+2+Sumas+Way,+Abbotsford,+BC+V2S+8B7,+Canada)
-- [ ]	**11:30**	Coquihalla Pass	
-- [ ]	**14:00**	Arrive Kamloops Costco	[🧭](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
-- [ ]	**15:00**	Arrive Fresh Street Grocery Store	[🧭](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
-- [ ]	**15:30**	Arrive Stag's Head Liquor	[🧭](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
-- [ ]	**17:00**	Arrive Sun Peaks	[🧭](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
+- [ ]	**08:30**	Arrive [Bellingham Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
+- [ ]	**09:30**	Arrive [Sumas border crossing](https://maps.apple.com/?daddr=SR+9+General+Purpose,+2+Sumas+Way,+Abbotsford,+BC+V2S+8B7,+Canada)
+- [ ]	**11:30**	[Coquihalla Pass]	
+- [ ]	**14:00**	Arrive [Kamloops Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
+- [ ]	**15:00**	Arrive [Fresh Street Grocery Store](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**15:30**	Arrive [Stag's Head Liquor](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**17:00**	Arrive [Sun Peaks](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
 
 ## ✏️ Notes
 
-* applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492
+* [House Info](applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492)
 * https://drivebc.ca/directions.html?a=Bellevue,%20WA%2098005,%20USA&b=Sun%20Peaks,%20BC%20V0E%205N0,%20Canada
 * https://weather.gc.ca/forecast/public_bulletins_e.html?Bulletin=fpcn68.cwvr
 * https://weather.gc.ca/en/location/index.html?coords=50.878,-119.908

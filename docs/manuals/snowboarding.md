@@ -30,7 +30,7 @@
 
 - [ ] Wax
 - [ ] Heat gun *(Heat at 125°-130°C)*
-- [ ] Blue shop towels
+- [ ] Blue shop towels and/or Used dryer sheets
 - [ ] Roto brush and drill
 - [ ] 89° side angle guide *(88° for more aggressive edge)*
 - [ ] Clamp
@@ -56,7 +56,10 @@
 4. Apply Wax:
 	1. Crayon thin, even layer of wax onto the base (including sidewalls).
 	2. Melt wax with heat gun, then allow to cool.
-	3. Buff with nylon roto brush.
+	3. Scrape excess with wax scraper.
+	4. Wipe wax dust with shop towels or dryer sheets.
+	5. Buff with nylon roto brush.
+	6. Wipe wax dust with shop towels or dryer sheets.
 ---
 🔗 https://snowboardingforum.com/threads/wax-recommendations.268210/  
 🔗 https://skitalk.com/threads/cheap-vs-expensive-diamond-stones.8299/  

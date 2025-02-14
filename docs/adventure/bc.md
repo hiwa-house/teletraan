@@ -44,15 +44,9 @@
 ## 🏙️ City Guide
 
 ???+ info "Legend"
-    🧭 Directions
-    🛒 Groceries
-    🍽️ Dine In
-    🥡 Take Out
-    🥐 Bakeries
-    🍺 Brewery
-    🍷 Bottle Shop
-    🏂 Activities
-    ❓ Untested
+    |	🧭 Directions	|	🍽️ Dine In	|	🍺 Brewery	|
+    |	🛒 Groceries	|	🥡 Take Out	|	🍷 Bottle Shop	|
+    |	❓ Untested	|	🥐 Bakeries	|	🏂 Activities	|
 
 * **Abbottsford**
 	- [Field House Brewing Co.](https://fieldhousebrewing.com/) [🧭](https://maps.apple.com/?daddr=2281+W+Railway+St,+Abbotsford,+BC+V2S+2E3,+Canada)🍺

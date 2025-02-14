@@ -220,6 +220,7 @@
 - [ ] fiber
 - [ ] vitamins
 - [ ] cheese powder
+- [ ] popcorn
 ---
 - [ ] freeze milk jugs
 - [ ] Jetpac ESIM

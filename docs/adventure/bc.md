@@ -9,18 +9,21 @@
 - [ ]	**14:00**	Arrive [Kamloops Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
 - [ ]	**15:00**	Arrive [Fresh Street Grocery Store](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
 - [ ]	**15:30**	Arrive [Stag's Head Liquor](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**16:00**	Arrive [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Summit+Drive,+Kamloops,+BC,+Canada)
+	* *B1 [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Tranquille+Road,+Kamloops,+BC,+Canada)*
+	* *B2 [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)*
 - [ ]	**17:00**	Arrive [Sun Peaks](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
 
 ## ✏️ Notes
 
 * [House Info](applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492)
-* [Bellevue-Sun Peaks road conditions/cams](https://drivebc.ca/directions.html?a=Bellevue,%20WA%2098005,%20USA&b=Sun%20Peaks,%20BC%20V0E%205N0,%20Canada)
+* [WA -> BC road conditions/cams](https://drivebc.ca/directions.html?a=Bellevue,%20WA%2098005,%20USA&b=Sun%20Peaks,%20BC%20V0E%205N0,%20Canada)
 * [BC pass forecast](https://weather.gc.ca/forecast/public_bulletins_e.html?Bulletin=fpcn68.cwvr)
 * [Sun Peaks weather forecast](https://weather.gc.ca/en/location/index.html?coords=50.878,-119.908)
 * [Sun Peaks annotated trail map](https://i.redd.it/jdesiyycp8581.jpg)
 * [Sun Peaks Ski Rentals](https://www.sunpeaksresort.com/sun-peaks-rentals)
 	* Hours: 8:00a - 6:00p
-* Kamloops grocery store rankings: *Costco > Fresh Street > Superstore*
+* Kamloops grocery store rankings: *Costco > Fresh Street > [Superstore](https://maps.apple.com/?daddr=Real+Canadian+Superstore+Columbia+Street,+910+Columbia+St+W,+Kamloops,+BC+V2C+1L2,+Canada)*
 * ***Alaska Visa:*** No foreign transaction fees, use for general purchases.
 * ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
 * ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
@@ -132,103 +135,104 @@
 - [ ] [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/) 🏂❓
 
 ## 🧳 Pack List
-- [ ] truck USB charger
-- [ ] blankets
-- [ ] tire inflator
-- [ ] propane heater
-- [ ] hand warmers
-- [ ] laptop
-- [ ] kindle
-- [ ] iPad
-- [ ] dongles/cables
-- [ ] CO₂ meter
-- [ ] bluetooth speaker
-- [ ] headlamp
-- [ ] toys/art
-- [ ] board game
-- [ ] passports
+- [ ]	truck USB charger
+- [ ]	blankets
+- [ ]	tire inflator
+- [ ]	propane heater
+- [ ]	hand warmers
+- [ ]	laptop
+- [ ]	kindle
+- [ ]	iPad
+- [ ]	dongles/cables
+- [ ]	CO₂ meter
+- [ ]	bluetooth speaker
+- [ ]	headlamp
+- [ ]	toys/art
+- [ ]	board game
+- [ ]	passports
 ---
-- [ ] eyeglasses
-- [ ] sunglasses
-- [ ] beard trimmer
-- [ ] KF94 masks
-- [ ] sleep mask
-- [ ] toiletries
-- [ ] nose spray
-- [ ] toothbrush
+- [ ]	eyeglasses
+- [ ]	sunglasses
+- [ ]	beard trimmer
+- [ ]	KF94 masks
+- [ ]	sleep mask
+- [ ]	toiletries
+- [ ]	nose spray
+- [ ]	toothbrush
 ---
-- [ ] soft cooler
-- [ ] costco cooler bag
-- [ ] tea pint
-- [ ] coffee mug
-- [ ] water bottle
-- [ ] kitchen knife
-- [ ] scale
-- [ ] half pint, x6
-- [ ] tea strainer
-- [ ] smash spatula
-- [ ] cooking chopsticks
-- [ ] ziploc bags
-- [ ] tupperware
-- [ ] dish towels
-- [ ] milk frother
+- [ ]	soft cooler
+- [ ]	costco cooler bag
+- [ ]	tea pint
+- [ ]	coffee mug
+- [ ]	water bottle
+- [ ]	kitchen knife
+- [ ]	scale
+- [ ]	half pint, x6
+- [ ]	tea strainer
+- [ ]	smash spatula
+- [ ]	cooking chopsticks
+- [ ]	ziploc bags
+- [ ]	tupperware
+- [ ]	dish towels
+- [ ]	milk frother
 ---
-- [ ] snowboard
-- [ ] snowboard boots
-- [ ] snow pants
-- [ ] ski jacket
-- [ ] helmet
-- [ ] ski gloves
-- [ ] ski socks
-- [ ] wax kit
+- [ ]	snowboard
+- [ ]	snowboard boots
+- [ ]	helmet
+- [ ]	ski gloves
+- [ ]	goggles
+- [ ]	snow pants
+- [ ]	ski jacket
+- [ ]	wax kit
 ---
-- [ ] slippahs
-- [ ] slippers
-- [ ] hiking shoes
-- [ ] neck warmer
-- [ ] wool gloves
-- [ ] beanie
-- [ ] puffy jacket
-- [ ] thermal pants
-- [ ] wool shirt, x5
-- [ ] underwear, x6
-- [ ] t-shirts, x6
-- [ ] board shorts
-- [ ] pajama pants
-- [ ] pants, x3
-- [ ] wool socks, x3
+- [ ]	slippahs
+- [ ]	slippers
+- [ ]	hiking shoes
+- [ ]	neck warmer
+- [ ]	wool gloves
+- [ ]	beanie
+- [ ]	puffy jacket
+- [ ]	thermal pants
+- [ ]	wool shirt, x5
+- [ ]	underwear, x6
+- [ ]	t-shirts, x6
+- [ ]	board shorts
+- [ ]	pajama pants
+- [ ]	pants, x3
+- [ ]	wool socks, x3
+- [ ]	ski socks
 ---
-- [ ] taco shells
-- [ ] tortillas
-- [ ] shredded cheese
-- [ ] hot sauce
-- [ ] elbow pasta (portioned)
-- [ ] cheddar cheese (marked)
-- [ ] evaporated milk
-- [ ] canned chili
-- [ ] chili crisp
-- [ ] ube pancake mix
-- [ ] crackers
-- [ ] salsa
-- [ ] clif bar, x8
-- [ ] granola
-- [ ] honey nut cheerios
-- [ ] marshmallows
-- [ ] hot cocoa
-- [ ] green tea
-- [ ] instant coffee
-- [ ] fiber
-- [ ] vitamins
-- [ ] cheese powder
-- [ ] popcorn
+- [ ]	taco shells
+- [ ]	tortillas
+- [ ]	shredded cheese
+- [ ]	hot sauce
+- [ ]	elbow pasta (portioned)
+- [ ]	cheddar cheese (marked)
+- [ ]	evaporated milk
+- [ ]	canned chili
+- [ ]	chili crisp
+- [ ]	ube pancake mix
+- [ ]	crackers
+- [ ]	salsa
+- [ ]	clif bar, x8
+- [ ]	granola
+- [ ]	honey nut cheerios
+- [ ]	marshmallows
+- [ ]	hot cocoa
+- [ ]	green tea
+- [ ]	instant coffee
+- [ ]	fiber
+- [ ]	vitamins
+- [ ]	cheese powder
+- [ ]	popcorn
 ---
-- [ ] freeze milk jugs
-- [ ] Jetpac ESIM
-- [ ] Credit card travel notification
-- [ ] USPS hold mail
-- [ ] Meal prep
-- [ ] Lock shed
-- [ ] Security light timer
+- [ ]	freeze milk jugs
+- [ ]	Jetpac ESIM
+- [ ]	Credit card travel notification
+- [ ]	USPS hold mail
+- [ ]	Meal prep
+- [ ]	Lock shed
+- [ ]	Security light timer
 
 ---
  [🧭](https://maps.apple.com/?daddr=)

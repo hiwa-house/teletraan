@@ -6,13 +6,10 @@
 - [ ]	**08:30**	Arrive [Bellingham Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
 - [ ]	**09:30**	Arrive [Sumas border crossing](https://maps.apple.com/?daddr=SR+9+General+Purpose,+2+Sumas+Way,+Abbotsford,+BC+V2S+8B7,+Canada)
 - [ ]	**11:30**	Coquihalla Pass
-- [ ]	**14:00**	Arrive [Kamloops Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
-- [ ]	**15:00**	Arrive [Fresh Street Grocery Store](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
+- [ ]	**12:30**	Arrive [Kamloops Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Versatile+Drive,+Kamloops,+BC,+Canada)
+- [ ]	**14:30**	Arrive [Fresh Street Grocery Store](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
 - [ ]	**15:30**	Arrive [Stag's Head Liquor](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
-- [ ]	**16:00**	Arrive [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Summit+Drive,+Kamloops,+BC,+Canada)
-	* *B1 [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Tranquille+Road,+Kamloops,+BC,+Canada)*
-	* *B2 [Shoppers Drug](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)*
-- [ ]	**17:00**	Arrive [Sun Peaks](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
+- [ ]	**16:30**	Arrive [Sun Peaks](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
 
 ## ✏️ Notes
 
@@ -21,13 +18,12 @@
 * [BC pass forecast](https://weather.gc.ca/forecast/public_bulletins_e.html?Bulletin=fpcn68.cwvr)
 * [Sun Peaks weather forecast](https://weather.gc.ca/en/location/index.html?coords=50.878,-119.908)
 * [Sun Peaks annotated trail map](https://i.redd.it/jdesiyycp8581.jpg)
-* [Sun Peaks Ski Rentals](https://www.sunpeaksresort.com/sun-peaks-rentals)
-	* Hours: 8:00a - 6:00p
 * Kamloops grocery store rankings: *Costco > Fresh Street > [Superstore](https://maps.apple.com/?daddr=Real+Canadian+Superstore+Columbia+Street,+910+Columbia+St+W,+Kamloops,+BC+V2C+1L2,+Canada)*
 * ***Alaska Visa:*** No foreign transaction fees, use for general purchases.
 * ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
 * ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
 * [Canadian food import restrictions](https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/)
+* With ski box, avg 20 mpg.
 
 ## ⛽ Gas Stops
 - ***Depart:***
@@ -54,6 +50,7 @@
 	🛒 Groceries  
 	🏂 Activities  
 	❓ Untested  
+	⭐ Winnah  
 	---
 	🍽️ Dine In  
 	🥡 Take Out  
@@ -68,35 +65,32 @@
 ### Kamloops
 - [ ] [Dorian Greek House](https://www.doriangreekhouse.com/) 🍽️❓
 	* Recommended by Peter
-- [ ] [Stag's Head Liquor Store](https://stagsheadliquorstore.com/) 🍷❓
+- [ ] [Stag's Head Liquor Store](https://stagsheadliquorstore.com/) 🍷⭐
+	* Solid selection of beer, wine, liquor.
 - [ ] [Bright Eye Brewing](https://www.brighteyebrewing.com/) 🍺🍽️❓
 - [ ] [Red Collar Brewing & Distilling](https://www.redcollar.ca/) 🍺🍽️❓
 - [ ] [Iron Road Brewing](https://www.ironroadbrewing.ca/) 🍺🍽️❓
 ### Sun Peaks
-- [ ] [Bottoms Bar & Grill](https://www.bottomssunpeaks.com/) 🍽️❓
-	- Après-ski; burgers look good; best looking food of the *"pubs"*
+- [ ] [Bottoms Bar & Grill](https://www.bottomssunpeaks.com/) 🍽️⭐
+	- Beer and good *pub* grub; Sega Genesis at the corner table
+- [ ] [Mountain High Pizza](https://mountainhighpizza.ca/) 🥡
+- [ ] [Baby Doh's Mountain Fair](https://www.sunpeaksresort.com/events-things-to-do/dining-apres/baby-dohs-mountain-fair) 🥐
+	- Made to order mini donuts
 - [ ] [Bolacco Caffé](https://www.bolacco.com/) 🥡🥐❓
 	- Coffee and pastries; family-owned
 - [ ] [Oya Japanese Cuisine](https://www.oyasunpeaks.com/) 🍽️❓
-	- Only Asian food worth-considering
-- [ ] [Mountain High Pizza](https://mountainhighpizza.ca/) 🥡❓
+	- Only Asian food worth-considering; very small
 - [ ] [Chez Joe Poutine](https://www.chezjoepoutine.ca/) 🥡❓
-- [ ] [The Magic Cattle Guard Diner](https://www.magiccattleguard.ca/) 🍽️❓
-	- Down the road from the village
-- [ ] [Baby Doh's Mountain Fair](https://www.sunpeaksresort.com/events-things-to-do/dining-apres/baby-dohs-mountain-fair) 🥐❓
-	- Mini donuts
 - [ ] [Vertical Cafe](https://www.verticalcafesunpeaks.com/) 🍽️❓
 	- Cafe with smoothies, sandwiches, and salads
-- [ ] [Powder Hounds Restaurant](https://www.powderhoundssunpeaks.com/) 🍽️❓
-	- Après-ski
 - [ ] [Cahilty Creek Kitchen](https://cahiltycreek.com/) 🍽️❓
 	- Après-ski; decently legit taplist
 - [ ] [Sundance Liquor Store](https://sundanceliquor.ca/) 🍷❓
 - [ ] [Axe Throwing](https://cleavageaxeco.com/) 🏂❓
 ### Vancouver
-- [ ] [Dageraad Brewing](https://dageraadbrewing.com/) [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)🍺
+- [ ] [Dageraad Brewing](https://dageraadbrewing.com/) [🧭](https://maps.apple.com/?daddr=3191+Thunderbird+Crescent,+Burnaby,+BC+V5A+3G1,+Canada)🍺⭐
 	- Belgian-style
-- [ ] [Superflux Beer](https://superfluxbeer.com/) [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)🍺
+- [ ] [Superflux Beer](https://superfluxbeer.com/) [🧭](https://maps.apple.com/?daddr=505+Clark+Dr,+Vancouver,+BC+V5L+3H7,+Canada)🍺⭐
 	- Hazy IPAs
 - [ ] [Parker Place (Aberdeen) Meat & BBQ](https://yelp.ca/biz/parker-place-aberdeen-meat-and-b-b-q-richmond-2) [🧭](https://maps.apple.com/?daddr=4380+No.+3+Rd+Unit+1020,+Richmond,+BC+V6X+4E8,+Canada)🥡
 	- Chinese BBQ; cash only
@@ -110,7 +104,7 @@
 - [ ] [Kam Do Bakery](https://instagram.com/kamdobakery/) [🧭](https://maps.apple.com/?daddr=6211+No.+3+Rd+Unit+130,+Richmond,+BC+V6Y+0C2,+Canada)🥐❓
 	- More upscale; cash only
 - [ ] [HK BBQ Master](https://instagram.com/hkbbqmaster/) 🥡❓
-- [ ] Poutine at Costco Food Court 🥡❓
+- [ ] Poutine at Costco Food Court 🥡⭐
 - [ ] https://drinkcontainer.beer/ [🧭](https://maps.apple.com/?daddr=1216+Franklin+St,+Vancouver,+BC+V6A+1K1,+Canada)🍺❓
 - [ ] https://brassneck.ca/ [🧭](https://maps.apple.com/?daddr=2148+Main+St,+Vancouver,+BC+V5T+3C5,+Canada)🍺❓
 - [ ] https://twinsailsbrewing.com/ [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)🍺❓
@@ -121,7 +115,7 @@
 	- [Bicycle rental](https://spokesbicyclerentals.com/); 6.2 mi *(10 km)* length
 - [ ] [Granville Island Public Market]() [🧭](https://maps.apple.com/?daddr=Granville+Island+Public+Market,+Public+Market,+1689+Johnston+St,+Vancouver,+BC+V6H+3R9,+Canada)🏂❓
 ### Whistler
-- [ ] [Backcountry Brewing](https://backcountrybrewing.com/) [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)🍺
+- [ ] [Backcountry Brewing](https://backcountrybrewing.com/) [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)🍺⭐
 	- Located in Samish; Surprisingly great lagers
 - [ ] Nester's [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)🛒
 	- Best grocery option; liquor store downstairs
@@ -138,7 +132,6 @@
 - [ ]	truck USB charger
 - [ ]	blankets
 - [ ]	tire inflator
-- [ ]	propane heater
 - [ ]	hand warmers
 - [ ]	laptop
 - [ ]	kindle
@@ -167,7 +160,6 @@
 - [ ]	water bottle
 - [ ]	kitchen knife
 - [ ]	scale
-- [ ]	half pint, x6
 - [ ]	tea strainer
 - [ ]	smash spatula
 - [ ]	cooking chopsticks
@@ -178,11 +170,12 @@
 ---
 - [ ]	snowboard
 - [ ]	snowboard boots
-- [ ]	helmet
-- [ ]	ski gloves
-- [ ]	goggles
-- [ ]	snow pants
-- [ ]	ski jacket
+- [ ]	helmet, x3
+- [ ]	ski gloves, x3
+- [ ]	goggles, x3
+- [ ]	snow pants, x3
+- [ ]	ski jacket, x3
+- [ ]	ski socks, x3
 - [ ]	wax kit
 ---
 - [ ]	slippahs
@@ -198,9 +191,8 @@
 - [ ]	t-shirts, x6
 - [ ]	board shorts
 - [ ]	pajama pants
-- [ ]	pants, x3
+- [ ]	pants, x2
 - [ ]	wool socks, x3
-- [ ]	ski socks
 ---
 - [ ]	taco shells
 - [ ]	tortillas

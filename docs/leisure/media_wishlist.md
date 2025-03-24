@@ -27,21 +27,14 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 ## Movies/Series *(undecided)*
 - The Portable Door
 - The Wrath of Becky
-- FUBAR
 - Twisted Metal
-- Babylon
-- The Big Door Prize
-- Inside
-- Rare Beasts
 - House of the Dragon
-- My Animal
 - Saltburn
 - Dream Scenario
 - The Toxic Avenger
 - Monarch: Legacy of Monsters
 - The Artful Dodger
 - The Convert
-- Land of Bad
 - Sasquatch Sunset
 - Snack Shack
 - Renegade Nell
@@ -50,19 +43,25 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Dune: Prophecy
 - The Exorcism
 - The Big Cigar
-- Lumina
 - A Quiet Place: Day One
 - Kinds of Kindness
 - Sausage Party: Foodtopia
-- The Union
-- Flight Risk
 - The Last Front
 - A Different Man
 - Succubus (2024)
 - Omni Loop
-- It's What's Inside
 - Brothers
 - Wolfs
+---
+- 28 Years Later
+- Common Side Effects
+- Happy Gilmore 2
+- Love Me
+- Cunk on Life
+- In the Lost Lands
+- A Working Man
+- Earth Abides
+- The Amateur
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

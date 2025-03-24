@@ -1,12 +1,10 @@
 # Snowboarding
 
 ## Board Wishlist
-
-1. Jones Stratos
-2. Yes Standard
-3. Capita Mercury
-4. Niche Maelstrom
-5. Korua Transition Finder
+* Directional, medium-stiff, hybrid camber, all-mountain, handles ice
+1. Salomon Dancehaul
+2. Capita Mercury
+3. Korua Transition Finder
 
 ## Binding Adjustment
 
@@ -63,3 +61,17 @@
 ---
 🔗 https://snowboardingforum.com/threads/wax-recommendations.268210/  
 🔗 https://skitalk.com/threads/cheap-vs-expensive-diamond-stones.8299/  
+
+## Ski Shopping
+* Skis
+	- 145-150 cm length
+	- 78-80 cm width
+	- Ordered by cost (low -> high):
+		1. [Rossignal Experience 78](https://www.rossignol.com/us-en/womens-all-mountain-skis-experience-w-78-carbon--xpress--RAMFT02000.html) (2900g)
+		2. [Head Absolut Joy](https://www.head.com/en_US/absolut-joy-315684-set.html) (3300g)
+		3. [Carson Moment](https://www.momentskis.com/products/carson) (2400g)
+		4. [Volkl Flair 79](https://volkl.com/en-us/p/flair-79-skis-2025) (2680g)
+		5. [Blizzard Black Pearl 84](https://www.blizzard-tecnica.com/global/en/collection/women/skis/black-pearl/black-pearl-84-flat) (2800g)
+* Poles
+	- 105 cm length
+	- https://powder7.com/Powder7-Powder-Poker-20-Ski-Poles/sale

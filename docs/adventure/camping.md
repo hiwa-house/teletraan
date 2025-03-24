@@ -76,42 +76,69 @@ Locations that we'd like to try someday in roughly order of preference.
 ## Winter Camping
 * Auto LSD for snow: Press 1x to activate (icon lit = "on")
 * **Leer 100XR**
-- [ ] tow strap
-- [ ] tire inflator
-- [ ] nalgene bottle
-- [ ] burner
-- [ ] heater
-- [ ] electric blanket
-- [ ] kettle
-- [ ] lantern
-- [ ] hand warmers
-- [ ] protein bar, x6
-- [ ] water
-- [ ] pillows
-- [ ] sleeping bag
-- [ ] comforter
-- [ ] snowboard
-- [ ] snowboard boots
-- [ ] helmets
-- [ ] snow jackets
-- [ ] snow pants
-- [ ] snow gloves
-- [ ] wool gloves
-- [ ] goggles
-- [ ] beanies
-- [ ] neck gaiter
-- [ ] ski socks
-- [ ] thermal bottoms
-- [ ] thermal top, x2
-- [ ] wool socks
-- [ ] sweats
-- [ ] boots
-- [ ] driving shoes
+- [ ]	toiletries
+- [ ]	wipes
+- [ ]	beanies
+- [ ]	thermal top, x2
+- [ ]	thermal bottoms
+- [ ]	sweats
+- [ ]	t-shirt
+- [ ]	underwear
+- [ ]	wool socks
+- [ ]	wool cover socks
+- [ ]	snow boots
+- [ ]	driving shoes
+- [ ]	books
+- [ ]	snowboards
+- [ ]	snowboard boots
+- [ ]	helmets
+- [ ]	snow jackets
+- [ ]	snow pants
+- [ ]	snow gloves
+- [ ]	wool gloves
+- [ ]	goggles
+- [ ]	neck gaiter
+- [ ]	ski socks
+- [ ]	knee brace
+- [ ]	sunscreen
+- [ ]	hand warmers
+- [ ]	tire inflator
+- [ ]	tow strap
+- [ ]	chains
+- [ ]	shovel
+- [ ]	sno-park permit
+- [ ]	truck tent
+- [ ]	tarp
+- [ ]	propane
+- [ ]	heater
+- [ ]	sleeping bag
+- [ ]	camp blankets
+- [ ]	electric blanket
+- [ ]	pillows
+- [ ]	camp chair
+- [ ]	towel, x2
+- [ ]	battery pack
+- [ ]	lantern
+- [ ]	headlamp
+- [ ]	nalgene bottle
+- [ ]	multitool
+- [ ]	soft cooler
+- [ ]	burner
+- [ ]	kitchen kit
+- [ ]	kettle
+- [ ]	cook pot
+- [ ]	trash bag
+- [ ]	paper towels
+- [ ]	water
+- [ ]	hot cocoa
+- [ ]	marshmallows
+- [ ]	protein bar, x6
 
+* Front Cab Bed
+	* https://tacomaworld.com/threads/garlicfarts-lets-make-this-truck-useless-for-everything-but-camping-or-road-trips-build.712648/page-4#post-28788427
+	* https://www.youtube.com/watch?v=hXD-56auTpU&t=734
 * [Removable Slider Window](https://shop.thetruckoutfitters.com/product/leer-canopy-front-slider-window-removable-56-x-15-x20/)
 * [Replacement twist handle](https://truckoutfittersplus.com/truck_topper_parts/T-Handles-Locks-Toppers/Leer-Replacement-Twist-Handle.html)
-* https://www.homedepot.com/p/Ash-Grove-60-lb-1-2-cu-ft-Tube-Sand-370-70-SK/205759425
-* https://www.tacomaworld.com/threads/tacoma-bed-camping-build-bedrug-mat-or-liner.840936/#post-30095124
 - [ ] anti-tip brace for foot section of platform?
 - [ ] sew mattress? split mattress?
 
@@ -122,6 +149,25 @@ Locations that we'd like to try someday in roughly order of preference.
 - [ ] Baitcast spinning reel
 - [ ] 50-100# mono line
 - [ ] 2-3oz weights (if a sinker, lash to the end opposite the line)
+
+---
+
+## Camp Toilet
+* Inventory
+	- [ ] 3-gallon bucket
+	- [ ] bucket toilet lid
+	- [ ] gamma lid (+ second bucket?)
+	- [ ] large scoop
+	- [ ] pine pellets
+	- [ ] waste bags
+	- [ ] milk crate (for storage)
+	- [ ] bleach wipes
+* SOP
+	1. Throw a scoop of pine pellets in a biodegradable waste bag.
+	2. Do your business.
+	3. Throw another scoop of pine pellets on the waste.
+	4. Take the bag, tie it up.
+	5. Keep it in a gamma lid bucket and dispose at your earliest convenience, or using a lithium power drill with a tulip auger, drill a 6-inch hole and bury the waste.
 
 ---
 

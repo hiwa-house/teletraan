@@ -63,28 +63,22 @@
 	- Corbett approved
 - [ ] [Trading Post Brewing](https://www.tradingpostbrewing.com/abbotsford) 🍺❓
 ### Kamloops
-- [ ] [Dorian Greek House](https://www.doriangreekhouse.com/) 🍽️❓
-	* Recommended by Peter
 - [ ] [Stag's Head Liquor Store](https://stagsheadliquorstore.com/) 🍷⭐
 	* Solid selection of beer, wine, liquor.
+- [ ] [Dorian Greek House](https://www.doriangreekhouse.com/) 🍽️❓
+	* Recommended by Peter
 - [ ] [Bright Eye Brewing](https://www.brighteyebrewing.com/) 🍺🍽️❓
-- [ ] [Red Collar Brewing & Distilling](https://www.redcollar.ca/) 🍺🍽️❓
 - [ ] [Iron Road Brewing](https://www.ironroadbrewing.ca/) 🍺🍽️❓
 ### Sun Peaks
 - [ ] [Bottoms Bar & Grill](https://www.bottomssunpeaks.com/) 🍽️⭐
 	- Beer and good *pub* grub; Sega Genesis at the corner table
 - [ ] [Mountain High Pizza](https://mountainhighpizza.ca/) 🥡
 - [ ] [Baby Doh's Mountain Fair](https://www.sunpeaksresort.com/events-things-to-do/dining-apres/baby-dohs-mountain-fair) 🥐
-	- Made to order mini donuts
 - [ ] [Bolacco Caffé](https://www.bolacco.com/) 🥡🥐❓
-	- Coffee and pastries; family-owned
 - [ ] [Oya Japanese Cuisine](https://www.oyasunpeaks.com/) 🍽️❓
-	- Only Asian food worth-considering; very small
 - [ ] [Chez Joe Poutine](https://www.chezjoepoutine.ca/) 🥡❓
 - [ ] [Vertical Cafe](https://www.verticalcafesunpeaks.com/) 🍽️❓
-	- Cafe with smoothies, sandwiches, and salads
 - [ ] [Cahilty Creek Kitchen](https://cahiltycreek.com/) 🍽️❓
-	- Après-ski; decently legit taplist
 - [ ] [Sundance Liquor Store](https://sundanceliquor.ca/) 🍷❓
 - [ ] [Axe Throwing](https://cleavageaxeco.com/) 🏂❓
 ### Vancouver

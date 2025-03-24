@@ -21,7 +21,6 @@
 - [ ] Coraline
 - [ ] The Phantom Tollbooth
 - [ ] Treasure Island
-- [ ] Howl's Moving Castle
 - [ ] The Dark is Rising
 - [ ] A Wizard of Earthsea
 - [ ] Watership Down
@@ -38,6 +37,12 @@
 - [X] Charlie and the Great Glass Elevator
 - [X] The BFG
 - [X] Doctor Doolittle
+- [X] Howl's Moving Castle
+---
+- [ ] Where the Red Fern Grows
+- [ ] The Call of the Wild
+- [ ] White Fang
+
 ---
 https://bbc.com/culture/article/20230522-the-100-greatest-childrens-books-of-all-time  
 

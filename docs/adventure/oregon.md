@@ -2,27 +2,30 @@
 
 ## 🗺️ Itinerary
 
-* 📅 **SUN**
+### 📅 **SUN**
 - [ ]	**07:00**	Depart	
-- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**10:00**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
-- [ ]	**13:00**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:00**	*Bend Lunch?*
-- [ ]	**14:30**	*Groceries/Beer?*
-- [ ]	**16:30**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
-* 📅 **SAT**
+- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA) *skip if over 1/2-tank*
+- [ ]	**09:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Northeast+84th+Street,+Vancouver,+WA)
+- [ ]	**10:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
+- [ ]	**13:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**14:00**	*Bend Lunch?*
+- [ ]	**15:30**	Hwy passes Costco -> TJ -> WinCo -> Oregon Spirit Distillers
+- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
+### 📅 **SAT**
 - [ ]	**09:00**	Depart	
 - [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**13:00**	*PDX Lunch?*
+- [ ]	**09:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**17:30**	Arrive [Federal Way Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Enchanted+Parkway+South,+Federal+Way,+WA)
 - [ ]	**18:30**	Arrive Home
 
 ## ✏️ Notes
 
 * [House Info](applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492) **Needs Update!**
-* [US26 *(Mt Hood)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS20%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
+* [US26 *(Mt. Hood)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS20%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
 * [US20 *(Santiam Pass)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS26%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
 * [Mt. Bachelor Weather Forecast](https://forecast.weather.gov/MapClick.php?lon=-121.67019367218019&lat=43.97341445519288#.YYloWmDMI2x)
+* [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
 * https://pdx.eater.com/maps/  
 * [Bend Ale Trail](https://visitbend.com/bend-ale-trail/) [🧭](http://maps.apple.com/?ll=44.058173,-121.311025)
@@ -31,12 +34,11 @@
 
 ## ⛽ Gas Stops
 
-- ***Depart:***
-	- Costco Bellingham - *fill*
-	- \>1/2 tank at Kamloops before driving to Sun Peaks
-- ***Return:***
-	- Costco Kamloops - *26.5l @ $1.53/l (7 gal)*
-	- Costco Everett - *fill*
+* Fed Way:	$3.69 
+* Tumwater:	$3.69 
+* Van:	$3.59 
+* PDX:	$3.61 
+* Bend:	$3.19 
 
 ## 🥣 Dinner Menu
 
@@ -95,14 +97,14 @@
 - [ ] Bangers and Brews 🍽️⭐
 	- exotic meat sausages
 - [ ] Bend Burger Company 🥡⭐
-- [ ] Crux 🍺🍽️⭐
+- [ ] Crux Brewing 🍺🍽️⭐
 	- huge open field with firepits
 - [ ] Deschutes Brewery 🍺🍽️⭐
 - [ ] J Dub 🍽️⭐
-	- brunch; hidden gem
+	- brunch; low traffic
 - [ ] Midtown Yacht Club 🥡⭐
 	- food truck pod
-- [ ] Monkless 🍽️⭐
+- [ ] Monkless Brewing 🍺🍽️⭐
 	- belgian-style; brouwer's-tier food
 - [ ] Prost 🍽️⭐
 	- german beer hall
@@ -110,7 +112,8 @@
 	- multi-awarded beers; good pub grub
 - [ ] Van Henion Brewing 🍺🍽️⭐
 	- lagers; great interior; kids outside only
-- [ ] Boss Rambler 🍺
+- [ ] Boss Rambler Beer Co 🍺
+- [ ] [3rd Street Beverage](https://www.3rdstreetbeverage.com/) 🍷
 - [ ] Bend Brewing Company 🍺🍽️❓
 - [ ] Blue Eyes Burgers & Fries 🥡❓
 - [ ] Brother John's 🍽️❓
@@ -174,20 +177,21 @@
 - [ ]	face lotion
 - [ ]	moon cake
 -->
+- [ ]	tire inflator
 - [ ]	truck USB charger
 - [ ]	blankets
-- [ ]	tire inflator
 - [ ]	hand warmers
 - [ ]	laptop
 - [ ]	kindle
 - [ ]	iPad
-- [ ]	dongles/cables
+- [ ]	cables/chargers
 - [ ]	game controller
 - [ ]	CO₂ meter
 - [ ]	bluetooth speaker
 - [ ]	headlamp
 - [ ]	toys/art
 - [ ]	board game
+- [ ]	frisbee
 - [ ]	buddy heater
 - [ ]	propane
 - [ ]	multitool
@@ -217,58 +221,49 @@
 - [ ]	dish towels
 - [ ]	milk frother
 ---
-- [ ]	snowboard
-- [ ]	snowboard boots
-- [ ]	helmet, x3
-- [ ]	ski gloves, x3
-- [ ]	goggles, x3
-- [ ]	snow pants, x3
-- [ ]	ski jacket, x3
-- [ ]	ski socks, x3
+- [ ]	snowboard/skis
+- [ ]	snowboard/ski boots
+- [ ]	helmet
+- [ ]	neck warmer
+- [ ]	ski gloves
+- [ ]	goggles
+- [ ]	snow pants
+- [ ]	ski jacket
+- [ ]	ski socks
 - [ ]	wax kit
 ---
 - [ ]	slippahs
 - [ ]	slippers
-- [ ]	hiking shoes
-- [ ]	neck warmer
 - [ ]	wool gloves
 - [ ]	beanie
 - [ ]	puffy jacket
 - [ ]	thermal pants
-- [ ]	wool shirt, x5
+- [ ]	wool shirt, x3
 - [ ]	underwear, x6
 - [ ]	t-shirts, x6
 - [ ]	board shorts
 - [ ]	pajama pants
-- [ ]	pants, x2
+- [ ]	pants, x1
 - [ ]	wool socks, x3
 ---
-- [ ]	beer snacks
-- [ ]	taco shells
-- [ ]	tortillas
-- [ ]	shredded cheese
-- [ ]	hot sauce
-- [ ]	elbow pasta (portioned)
-- [ ]	cheddar cheese (marked)
-- [ ]	evaporated milk
-- [ ]	canned chili
 - [ ]	chili crisp
+- [ ]	pasta sauce
 - [ ]	ube pancake mix
-- [ ]	crackers
-- [ ]	salsa
+- [ ]	beer snacks
+- [ ]	cheese powder
 - [ ]	clif bar, x8
 - [ ]	granola
 - [ ]	honey nut cheerios
+- [ ]	kefir
+- [ ]	blackberry syrup
 - [ ]	marshmallows
 - [ ]	hot cocoa
 - [ ]	green tea
 - [ ]	instant coffee
 - [ ]	fiber
 - [ ]	vitamins
-- [ ]	cheese powder
-- [ ]	popcorn
 ---
-- [ ]	freeze milk jugs
+- [ ]	Freeze milk jugs
 - [ ]	Jetpac ESIM
 - [ ]	USPS hold mail
 - [ ]	Meal prep

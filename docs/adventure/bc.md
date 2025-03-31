@@ -1,4 +1,4 @@
-# BC
+# British Columbia
 
 ## 🗺️ Itinerary
 

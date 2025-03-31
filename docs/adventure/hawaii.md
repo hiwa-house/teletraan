@@ -3,6 +3,7 @@ https://www.facebook.com/ThaiTempleHawaii/
 https://www.himb.hawaii.edu/visit/walking-tours/
 https://www.genkialawai.org/
 https://kakoooiwi.org/
+https://www.atlantisadventures.com/kamaaina
 
 ## Omiyage
 https://www.instagram.com/kimmiskookies/

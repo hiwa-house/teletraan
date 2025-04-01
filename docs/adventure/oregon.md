@@ -2,6 +2,15 @@
 
 ## 🗺️ Itinerary
 
+??? gas-pump inline end "Gas Prices"
+	|City|$/gal|
+	|--------|:------:|
+	| Federal Way | $3.69 |
+	| Tumwater | $3.69 |
+	| Vancouver | $3.59 |
+	| PDX | $3.61 |
+	| Bend | $3.19 |
+
 ### 📅 **SUN**
 - [ ]	**07:00**	Depart	
 - [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA) *(skip if over 1/2-tank)*
@@ -34,12 +43,6 @@
 
 ## ⛽ Gas Stops
 
-|--------|:------:|
-| Fed Way | $3.69 |
-| Tumwater | $3.69 |
-| Vancouver | $3.59 |
-| PDX | $3.61 |
-| Bend | $3.19 |
 
 ## 🥣 Dinner Menu
 

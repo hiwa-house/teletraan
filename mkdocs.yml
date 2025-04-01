@@ -7,6 +7,8 @@ theme:
     icon:
 #        logo: material/monitor-dashboard
         logo: solid-house-chimney
+        admonition:
+            gas-pump: fontawesome/solid/gas-pump
     favicon: solid-house-chimney.svg
 #    favicon: apple-touch-icon.png
     features:

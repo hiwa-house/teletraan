@@ -46,7 +46,7 @@
 |	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
 |	Village	|	*???*  	|	Tacos 	|	*???*	|	Pasta	|	*???* 	|
 
-*Ideas: Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Meat and cheese plates, Ube pancakes*
+*Ideas: Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Charcuterie board, Pancakes*
 
 ## 🏙️ City Guide
 

@@ -34,6 +34,7 @@
 
 ## ⛽ Gas Stops
 
+|--------|:------:|
 | Fed Way | $3.69 |
 | Tumwater | $3.69 |
 | Vancouver | $3.59 |

@@ -27,7 +27,6 @@
 * [Mt. Bachelor Weather Forecast](https://forecast.weather.gov/MapClick.php?lon=-121.67019367218019&lat=43.97341445519288#.YYloWmDMI2x)
 * [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
-* [Bend Ale Trail](https://visitbend.com/bend-ale-trail/) [🧭](http://maps.apple.com/?ll=44.058173,-121.311025)
 * https://pdx.eater.com/maps/
 * *PDX overnight potential:* [French Prairie Rest Stop](https://maps.apple.com/?daddr=French+Prairie+Rest+Area+-+Northbound)
 * With ski box, avg 17 mpg.
@@ -35,11 +34,11 @@
 
 ## ⛽ Gas Stops
 
-* Fed Way:	$3.69 
-* Tumwater:	$3.69 
-* Van:	$3.59 
-* PDX:	$3.61 
-* Bend:	$3.19 
+| Fed Way | $3.69 |
+| Tumwater | $3.69 |
+| Vancouver | $3.59 |
+| PDX | $3.61 |
+| Bend | $3.19 |
 
 ## 🥣 Dinner Menu
 
@@ -71,7 +70,7 @@
 ### Sunriver
 - [ ] [Goody's Ice Cream](https://goodysofbend.com/pages/sunriver) 🥡⭐
 - [ ] [Sunriver Brewing Co](https://www.sunriverbrewingcompany.com/pubs/) [🧭](https://maps.apple.com/?daddr=Sunriver+Brewing+Co.+-+Sunriver+Pub,+Beaver+Drive,+Sunriver,+OR) 🍺🍽️⭐
-- [ ] [4 Seasons Bike Rental](https://www.4sro.com/bike-shop/#bike-rental)[🧭](https://maps.apple.com/?daddr=2+Country+Mall,+57195+Beaver+Dr+D,+Sunriver,+OR+97707) 🏂
+- [ ] [4 Seasons Bike Rental](https://www.4sro.com/bike-shop/#bike-rental) [🧭](https://maps.apple.com/?daddr=2+Country+Mall,+57195+Beaver+Dr+D,+Sunriver,+OR+97707) 🏂
 - [ ] [Sunriver Country Store](https://www.sunrivergrocerystores.com/) [🧭](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707) 🛒
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
 - [ ] [Sunriver Nature Center](https://snco.org/hours-admission/) 🏂
@@ -86,8 +85,9 @@
 - [ ] [Monkless Belgian Ales](https://www.monkless.com/the-brasserie) [🧭](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+803+SW+Industrial+Way+%23202,+Bend,+OR+97702) 🍺🍽️⭐
 - [ ] [Sunriver Brewing Co](https://www.sunriverbrewingcompany.com/pubs/) 🍺🍽️⭐
 - [ ] [Van Henion Brewing](https://vanhenionbrewing.com/tasting-room/) [🧭](https://maps.apple.com/?daddr=Van+Henion+Brewing+Company,+Plateau+Drive,+Bend,+OR) 🍺🍽️🔞⭐
-- [ ] Bangers and Brews [🧭](https://maps.apple.com/?daddr=Bangers+%26+Brews+Westside+Bend+Oregon,+Southwest+Simpson+Avenue,+Bend,+OR) 🍽️
-- [ ] Boss Rambler Beer Co [🧭](https://maps.apple.com/?daddr=Boss+Rambler+Beer+Club,+Northwest+Galveston+Avenue,+Bend,+OR) 🍺
+- [ ] [Bangers and Brews](https://bangersandbrewsoutlookcom.hrpos.heartland.us/menu) [🧭](https://maps.apple.com/?daddr=Bangers+%26+Brews+Westside+Bend+Oregon,+Southwest+Simpson+Avenue,+Bend,+OR) 🍽️
+- [ ] [Bend Ale Trail](https://visitbend.com/bend-ale-trail/) [🧭](https://maps.apple.com/?daddr=Visit+Bend,+750+NW+Lava+Rd+%23160,+Bend,+OR+97703) 🍺🏂
+- [ ] [Boss Rambler Beer Club](https://bossrambler.com/) [🧭](https://maps.apple.com/?daddr=Boss+Rambler+Beer+Club,+Northwest+Galveston+Avenue,+Bend,+OR) 🍺
 - [ ] [Deschutes Brewery](https://deschutesbrewery.com/pages/bend-public-house) [🧭](https://maps.apple.com/?daddr=Deschutes+Brewery+Bend+Public+House,+Northwest+Bond+Street,+Bend,+OR) 🍺🍽️
 - [ ] [Prost](https://www.prostbend.com/) [🧭](https://maps.apple.com/?daddr=Prost,+40+SW+Century+Dr+%23140,+Bend,+OR+97702) 🍽️
 - [ ] [3rd Street Beverage](https://www.3rdstreetbeverage.com/) [🧭](https://maps.apple.com/?daddr=3rd+Street+Beverage,+Northeast+3rd+Street+Ste+5,+Bend,+OR) 🍷

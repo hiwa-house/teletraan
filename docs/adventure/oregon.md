@@ -45,8 +45,6 @@
 |	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
 |	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
 |	Village	|	*???*  	|	Tacos 	|	*???*	|	Pasta	|	*???* 	|
-|	      	|	*???*  	|	      	|	*???*	|			|	*???* 	|
-|	      	|	*???*  	|	      	|	*???*	|			|	*???* 	|
 
 *Ideas: Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Meat and cheese plates, Ube pancakes*
 

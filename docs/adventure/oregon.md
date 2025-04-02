@@ -2,7 +2,7 @@
 
 ## 🗺️ Itinerary
 
-??? gas-pump inline end "Gas Prices"
+??? gas-pump inline end "Costco Gas Prices"
 	|City|$/gal|
 	|--------|:------:|
 	| Federal Way | $3.69 |
@@ -24,7 +24,7 @@
 - [ ]	**09:00**	Depart	
 - [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**13:00**	*PDX Lunch?*
-- [ ]	**09:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**15:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**17:30**	Arrive [Federal Way Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Enchanted+Parkway+South,+Federal+Way,+WA)
 - [ ]	**18:30**	Arrive Home
 
@@ -40,9 +40,6 @@
 * *PDX overnight potential:* [French Prairie Rest Stop](https://maps.apple.com/?daddr=French+Prairie+Rest+Area+-+Northbound)
 * With ski box, avg 17 mpg.
 * Rental demo board from [Lucky Chucky's](https://www.4sro.com/lucky-chuckys-snowboards/#snowboard-rental)?
-
-## ⛽ Gas Stops
-
 
 ## 🥣 Dinner Menu
 
@@ -143,7 +140,7 @@
 * Tactics Bend [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
 	- [ ] https://tactics.com/salomon/dancehaul-snowboard
 * Apple
-	- [ ] https://www.apple.com/shop/buy-mac/macbook-air/13-inch
+	- [ ] https://apple.com/shop/buy-mac/macbook-air/13-inch
 <!--
 * Home Depot
 	- [ ] Christmas lights
@@ -253,6 +250,9 @@
 - [ ]	chili crisp
 - [ ]	pasta sauce
 - [ ]	ube pancake mix
+- [ ]	butter, x2
+- [ ]	garlic powder
+- [ ]	garlic
 - [ ]	beer snacks
 - [ ]	cheese powder
 - [ ]	clif bar, x8

@@ -37,17 +37,21 @@
 * [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
 * https://pdx.eater.com/maps/
-* *PDX overnight potential:* [French Prairie Rest Stop](https://maps.apple.com/?daddr=French+Prairie+Rest+Area+-+Northbound)
-* With ski box, avg 17 mpg.
+* With roof box, avg 17 mpg *(incl mtn passes)*.
 * Rental demo board from [Lucky Chucky's](https://www.4sro.com/lucky-chuckys-snowboards/#snowboard-rental)?
 
 ## 🥣 Dinner Menu
 
-|	**Sun**	|	**Mon**	|	**Tue**	|	**Wed**	|	**Thu**	|	**Fri**	|
-|	-------	|	-------	|	-------	|	-------	|	-------	|	-------	|
-|	Village	|	*???*  	|	Tacos 	|	*???*	|	Pasta	|	*???* 	|
+|	**Sun** 	|	**Mon**     	|	**Tue**	|	**Wed** 	|	**Thu** 	|	**Fri** 	|
+|	--------	|	------------	|	-------	|	--------	|	--------	|	------- 	|
+|	*Pizza?*	|	Pasta       	|	Tacos 	|	Burgers 	|	*Village?*	|	Mac/Cheese	|
+|	        	|	Garlic bread	|	Salad	|	Broccoli	|	        	|	Broccoli	|
+|	        	|	Salad       	|	    	|	Chips   	|	        	|	Topping bar	|
 
-*Ideas: Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Charcuterie board, Pancakes*
+* **Missing:** Breakfast, fruits, snacks, dessert?
+<!--
+* **Menu Ideas:** Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Charcuterie board, Pancakes
+-->
 
 ## 🏙️ City Guide
 
@@ -70,6 +74,7 @@
 - [ ] [Goody's Ice Cream](https://goodysofbend.com/pages/sunriver) 🥡⭐
 - [ ] [Sunriver Brewing Co](https://www.sunriverbrewingcompany.com/pubs/) [🧭](https://maps.apple.com/?daddr=Sunriver+Brewing+Co.+-+Sunriver+Pub,+Beaver+Drive,+Sunriver,+OR) 🍺🍽️⭐
 - [ ] [4 Seasons Bike Rental](https://www.4sro.com/bike-shop/#bike-rental) [🧭](https://maps.apple.com/?daddr=2+Country+Mall,+57195+Beaver+Dr+D,+Sunriver,+OR+97707) 🏂
+- [ ] [High Desert Museum](https://highdesertmuseum.org/) [🧭](https://maps.apple.com/?daddr=High+Desert+Museum,+59800+S+Hwy+97,+Bend,+OR+97702) 🏂
 - [ ] [Sunriver Country Store](https://www.sunrivergrocerystores.com/) [🧭](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707) 🛒
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
 - [ ] [Sunriver Nature Center](https://snco.org/hours-admission/) 🏂
@@ -129,6 +134,7 @@
 - [ ] [Zoiglhaus Brewing Co](https://zoiglhaus.com/) 🍺🍽️❓
 #### SW
 - [ ] [John's Marketplace](https://www.johnsmarketplace.com/multnomah) [🧭](https://maps.apple.com/?daddr=Johns+Marketplace,+Parking+lot,+Southwest+Multnomah+Boulevard,+Portland,+OR) 🍽️🍷⭐
+- [ ] [French Prairie Rest Area](https://oregontic.com/news-press/baldock-rest-area/) [🧭](https://maps.apple.com/?daddr=French+Prairie+Rest+Area+-+Northbound) 🏂⭐
 #### NW
 - [ ] [Brujos Brewing](https://www.brujosbrewing.com/on-tap) [🧭](https://maps.apple.com/?daddr=Brujos+Brewing,+Northwest+Wilson+Street,+Portland,+OR) 🍺🍽️🔞⭐
 - [ ] [Bing Mi PDX](https://www.bingmipdx.com/locations) [🧭](https://maps.apple.com/?daddr=Bing+Mi,+Northwest+Vaughn+Street+E,+Portland,+OR) 🍽️❓
@@ -137,7 +143,7 @@
 
 ## 🛍️ Shopping
 
-* Tactics Bend [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
+* Tactics - *Bend* [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
 	- [ ] https://tactics.com/salomon/dancehaul-snowboard
 * Apple
 	- [ ] https://apple.com/shop/buy-mac/macbook-air/13-inch
@@ -170,6 +176,9 @@
 <!--
 - [ ]	cash
 - [ ]	chains
+- [ ]	buddy heater
+- [ ]	propane
+- [ ]	power station
 - [ ]	febreze
 - [ ]	pillow
 - [ ]	sleeping bag
@@ -181,7 +190,6 @@
 - [ ]	tire inflator
 - [ ]	truck USB charger
 - [ ]	blankets
-- [ ]	hand warmers
 - [ ]	laptop
 - [ ]	kindle
 - [ ]	iPad
@@ -193,11 +201,8 @@
 - [ ]	toys/art
 - [ ]	board game
 - [ ]	frisbee
-- [ ]	buddy heater
-- [ ]	propane
 - [ ]	multitool
 - [ ]	gift cards
-- [ ]	power station
 ---
 - [ ]	eyeglasses
 - [ ]	sunglasses
@@ -207,6 +212,8 @@
 - [ ]	toiletries
 - [ ]	nasal spray
 - [ ]	toothbrush
+- [ ]	fiber
+- [ ]	vitamins
 ---
 - [ ]	soft cooler
 - [ ]	costco cooler bag
@@ -221,6 +228,7 @@
 - [ ]	tupperware
 - [ ]	dish towels
 - [ ]	milk frother
+- [ ]	cheese grater
 ---
 - [ ]	snowboard/skis
 - [ ]	snowboard/ski boots
@@ -231,6 +239,7 @@
 - [ ]	snow pants
 - [ ]	ski jacket
 - [ ]	ski socks
+- [ ]	hand warmers
 - [ ]	wax kit
 ---
 - [ ]	slippahs
@@ -247,26 +256,29 @@
 - [ ]	pants, x1
 - [ ]	wool socks, x3
 ---
-- [ ]	chili crisp
 - [ ]	pasta sauce
-- [ ]	ube pancake mix
 - [ ]	butter, x2
 - [ ]	garlic powder
 - [ ]	garlic
-- [ ]	beer snacks
-- [ ]	cheese powder
-- [ ]	clif bar, x8
+- [ ]	taco sauce
+- [ ]	ketchup/mustard/mayo
+- [ ]	evaporated milk
+- [ ]	cheddar cheese, marked
+- [ ]	kimchi
 - [ ]	granola
 - [ ]	honey nut cheerios
 - [ ]	kefir
 - [ ]	blackberry syrup
+- [ ]	ube pancake mix
+- [ ]	beer snacks
+- [ ]	chili crisp
+- [ ]	cheese powder
+- [ ]	clif bar, x8
 - [ ]	marshmallows
 - [ ]	hot cocoa
 - [ ]	green tea
 - [ ]	instant coffee
 - [ ]	old beer
-- [ ]	fiber
-- [ ]	vitamins
 ---
 - [ ]	USPS hold mail
 - [ ]	Meal prep

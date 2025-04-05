@@ -9,17 +9,17 @@
 	| Federal Way | $3.95 |
 	| Tumwater | $3.75 |
 	| Vancouver | $3.83 |
-	| PDX | $3.81 |
+	| Clackamas | $3.76 |
 	| Bend | $3.39 |
 
 ### 📅 **SUN**
 - [ ]	**07:00**	Depart	
-- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA) *(skip if over 1/2-tank)*
-- [ ]	**09:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Northeast+84th+Street,+Vancouver,+WA)
-- [ ]	**10:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
-- [ ]	**13:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
+- [ ]	**10:00**	Arrive [Clackamas Costco](https://maps.apple.com/?daddr=Costco+Clackamas,+Southeast+84th+Avenue,+Clackamas,+OR)
+- [ ]	**13:00**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**14:00**	*Follow Hwy for TJ -> WinCo -> Oregon Spirit Distillers*
-- [ ]	**15:00**	*Monkless/Crux?*
+- [ ]	**15:00**	Arrive [Monkless Belgian Ales Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
 - [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
 ### 📅 **SAT**
 - [ ]	**09:00**	Depart	
@@ -190,6 +190,7 @@
 - [ ]	moon cake
 -->
 - [ ]	tire inflator
+- [ ]	step stool
 - [ ]	truck USB charger
 - [ ]	blankets
 - [ ]	laptop
@@ -211,6 +212,7 @@
 - [ ]	beard trimmer
 - [ ]	KF94 masks
 - [ ]	sleep mask
+- [ ]	alarm clock
 - [ ]	toiletries
 - [ ]	nasal spray
 - [ ]	toothbrush
@@ -261,7 +263,6 @@
 - [ ]	pasta sauce
 - [ ]	butter, x2
 - [ ]	garlic powder
-- [ ]	garlic
 - [ ]	taco sauce
 - [ ]	shredded cheese
 - [ ]	sliced cheese
@@ -286,7 +287,7 @@
 ---
 - [ ]	USPS hold mail
 - [ ]	Meal prep
-- [ ]	Jetpac ESIM
+- [ ]	ESIM
 - [ ]	Security light timer
 - [ ]	Lock shed
 

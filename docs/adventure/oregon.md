@@ -5,11 +5,12 @@
 ??? gas-pump inline end "Costco Gas Prices"
 	|City|$/gal|
 	|--------|:------:|
-	| Federal Way | $3.69 |
-	| Tumwater | $3.69 |
-	| Vancouver | $3.59 |
-	| PDX | $3.61 |
-	| Bend | $3.19 |
+	| Kirkland | $3.98 |
+	| Federal Way | $3.95 |
+	| Tumwater | $3.75 |
+	| Vancouver | $3.83 |
+	| PDX | $3.81 |
+	| Bend | $3.39 |
 
 ### 📅 **SUN**
 - [ ]	**07:00**	Depart	
@@ -75,6 +76,7 @@
 - [ ] [Sunriver Brewing Co](https://www.sunriverbrewingcompany.com/pubs/) [🧭](https://maps.apple.com/?daddr=Sunriver+Brewing+Co.+-+Sunriver+Pub,+Beaver+Drive,+Sunriver,+OR) 🍺🍽️⭐
 - [ ] [4 Seasons Bike Rental](https://www.4sro.com/bike-shop/#bike-rental) [🧭](https://maps.apple.com/?daddr=2+Country+Mall,+57195+Beaver+Dr+D,+Sunriver,+OR+97707) 🏂
 - [ ] [High Desert Museum](https://highdesertmuseum.org/) [🧭](https://maps.apple.com/?daddr=High+Desert+Museum,+59800+S+Hwy+97,+Bend,+OR+97702) 🏂
+- [ ] [SHARC](https://www.sunriversharc.com/facility-activities/indoor-aquatics) [🧭](https://maps.apple.com/?daddr=Sunriver+Homeowners+Aquatic+%26+Recreation+Center,+57250+Overlook+Rd,+Sunriver,+OR+97707) 🏂
 - [ ] [Sunriver Country Store](https://www.sunrivergrocerystores.com/) [🧭](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707) 🛒
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
 - [ ] [Sunriver Nature Center](https://snco.org/hours-admission/) 🏂
@@ -146,7 +148,7 @@
 * Tactics - *Bend* [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
 	- [ ] https://tactics.com/salomon/dancehaul-snowboard
 * Apple
-	- [ ] https://apple.com/shop/buy-mac/macbook-air/13-inch
+	- [ ] https://www.costco.com/macbook-air-laptop-13-inch---apple-m4-chip%2c-built-for-apple-intelligence%2c-10-core-cpu%2c-10-core-gpu%2c-16gb-memory%2c-512gb-ssd-storage.product.4000319446.html
 <!--
 * Home Depot
 	- [ ] Christmas lights
@@ -261,6 +263,8 @@
 - [ ]	garlic powder
 - [ ]	garlic
 - [ ]	taco sauce
+- [ ]	shredded cheese
+- [ ]	sliced cheese
 - [ ]	ketchup/mustard/mayo
 - [ ]	evaporated milk
 - [ ]	cheddar cheese, marked

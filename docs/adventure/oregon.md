@@ -143,6 +143,8 @@
 
 ## 🛍️ Shopping
 
+* Target
+	- [ ] https://www.target.com/p/oxo-softworks-multi-grater/-/A-11144663
 * Tactics - *Bend* [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
 	- [ ] https://tactics.com/salomon/dancehaul-snowboard
 * Apple

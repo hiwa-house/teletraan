@@ -11,6 +11,11 @@
 	| Vancouver | $3.83 |
 	| Bend | $3.39 |
 
+<!--
+* MPG with roof box: 22 MPG highway, 18 mpg mtn passes.
+-->
+
+<!--
 ### 📅 **SUN**
 - [ ]	**07:00**	Depart	
 - [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
@@ -19,6 +24,7 @@
 - [ ]	**13:30**	*Follow Hwy for TJ -> WinCo -> Oregon Spirit Distillers*
 - [ ]	**15:00**	Arrive [Monkless Belgian Ales Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
 - [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
+-->
 ### 📅 **SAT**
 - [ ]	**09:00**	Depart	
 - [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
@@ -36,7 +42,6 @@
 * [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
 * https://pdx.eater.com/maps/
-* With roof box, avg 17 mpg *(incl mtn passes)*.
 * Rental demo board from [Lucky Chucky's](https://www.4sro.com/lucky-chuckys-snowboards/#snowboard-rental)?
 
 ## 🥣 Dinner Menu

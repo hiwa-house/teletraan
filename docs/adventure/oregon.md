@@ -2,30 +2,18 @@
 
 ## 🗺️ Itinerary
 
+<!--
+* Costco (Bend -> Tumwater) in Subaru: 262 miles, 10.5 gallons, 25 mpg.
+-->
+
 ??? gas-pump inline end "Costco Gas Prices"
 	|City|$/gal|
 	|--------|:------:|
-	| Kirkland | $3.98 |
-	| Federal Way | $3.95 |
-	| Tumwater | $3.75 |
+	| Kirkland | $4.09 |
+	| Federal Way | $3.99 |
+	| Tumwater | $3.86 |
 	| Vancouver | $3.83 |
-	| Bend | $3.39 |
-
-### 📅 **SUN**
-- [ ]	**07:00**	Depart	
-- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
-- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:30**	*Follow Hwy for TJ -> WinCo -> Oregon Spirit Distillers*
-- [ ]	**15:00**	Arrive [Monkless Belgian Ales Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
-- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
-### 📅 **SAT**
-- [ ]	**09:00**	Depart	
-- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:00**	*PDX Lunch?*
-- [ ]	**15:30**	Arrive [Vancouver Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**17:30**	Arrive [Federal Way Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Enchanted+Parkway+South,+Federal+Way,+WA)
-- [ ]	**18:30**	Arrive Home
+	| Bend | $3.59 |
 
 ## ✏️ Notes
 
@@ -36,8 +24,6 @@
 * [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
 * https://pdx.eater.com/maps/
-* With roof box, avg 17 mpg *(incl mtn passes)*.
-* Rental demo board from [Lucky Chucky's](https://www.4sro.com/lucky-chuckys-snowboards/#snowboard-rental)?
 
 ## 🥣 Dinner Menu
 
@@ -72,13 +58,10 @@
 ### Sunriver
 - [ ] [Goody's Ice Cream](https://goodysofbend.com/pages/sunriver) 🥡⭐
 - [ ] [Sunriver Brewing Co](https://www.sunriverbrewingcompany.com/pubs/) [🧭](https://maps.apple.com/?daddr=Sunriver+Brewing+Co.+-+Sunriver+Pub,+Beaver+Drive,+Sunriver,+OR) 🍺🍽️⭐
-- [ ] [4 Seasons Bike Rental](https://www.4sro.com/bike-shop/#bike-rental) [🧭](https://maps.apple.com/?daddr=2+Country+Mall,+57195+Beaver+Dr+D,+Sunriver,+OR+97707) 🏂
 - [ ] [High Desert Museum](https://highdesertmuseum.org/) [🧭](https://maps.apple.com/?daddr=High+Desert+Museum,+59800+S+Hwy+97,+Bend,+OR+97702) 🏂
 - [ ] [SHARC](https://www.sunriversharc.com/facility-activities/indoor-aquatics) [🧭](https://maps.apple.com/?daddr=Sunriver+Homeowners+Aquatic+%26+Recreation+Center,+57250+Overlook+Rd,+Sunriver,+OR+97707) 🏂
 - [ ] [Sunriver Country Store](https://www.sunrivergrocerystores.com/) [🧭](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707) 🛒
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
-- [ ] [Sunriver Nature Center](https://snco.org/hours-admission/) 🏂
-- [ ] [Riverscape Classic Arcade](https://sunriverscape.com/) 🏂❓
 - [ ] [The Fold Craft Pizza](https://www.thefoldkitchen.com/menu) 🥡❓
 
 ### Bend
@@ -143,13 +126,10 @@
 
 ## 🛍️ Shopping
 
+<!--
 * Target
 	- [ ] https://www.target.com/p/oxo-softworks-multi-grater/-/A-11144663
-* Tactics - *Bend* [🧭](http://maps.apple.com/?daddr=Tactics,+Northwest+Wall+Street,+Bend,+OR)
-	- [ ] https://tactics.com/salomon/dancehaul-snowboard
 * Apple
-	- [ ] https://www.costco.com/macbook-air-laptop-13-inch---apple-m4-chip%2c-built-for-apple-intelligence%2c-10-core-cpu%2c-10-core-gpu%2c-16gb-memory%2c-512gb-ssd-storage.product.4000319446.html
-<!--
 * Home Depot
 	- [ ] Christmas lights
 * Costco
@@ -252,38 +232,27 @@
 - [ ]	beanie
 - [ ]	puffy jacket
 - [ ]	thermal pants
-- [ ]	wool shirt, x3
+- [ ]	wool shirt, x2
 - [ ]	underwear, x6
-- [ ]	t-shirts, x6
+- [ ]	t-shirts, x4
 - [ ]	board shorts
 - [ ]	pajama pants
 - [ ]	pants, x1
-- [ ]	wool socks, x3
+- [ ]	wool socks, x2
 ---
-- [ ]	pasta sauce
-- [ ]	butter, x2
-- [ ]	garlic powder
-- [ ]	taco sauce
-- [ ]	shredded cheese
-- [ ]	sliced cheese
-- [ ]	ketchup/mustard/mayo
-- [ ]	evaporated milk
-- [ ]	cheddar cheese, marked
-- [ ]	kimchi
+- [ ]	ube pancake mix
+- [ ]	butter
 - [ ]	granola
 - [ ]	honey nut cheerios
 - [ ]	kefir
 - [ ]	blackberry syrup
-- [ ]	ube pancake mix
 - [ ]	beer snacks
 - [ ]	chili crisp
-- [ ]	cheese powder
 - [ ]	clif bar, x8
 - [ ]	marshmallows
 - [ ]	hot cocoa
 - [ ]	green tea
 - [ ]	instant coffee
-- [ ]	old beer
 ---
 - [ ]	USPS hold mail
 - [ ]	Meal prep
@@ -292,7 +261,23 @@
 - [ ]	Lock shed
 
 <!--
-## Beer Weekend Itinerary
+## 🗺️ Ski Week Itinerary
+### 📅 **SUN**
+- [ ]	**07:00**	Depart	
+- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
+- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:30**	*Follow Hwy for TJ -> WinCo -> Oregon Spirit Distillers*
+- [ ]	**15:00**	Arrive [Monkless Belgian Ales Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
+- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
+### 📅 **SAT**
+- [ ]	**09:00**	Depart	
+- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:00**	Arrive [Grind Wit Tryz](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218)
+- [ ]	**16:30**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**17:30**	Arrive Home
+
+## 🗺️ Beer Weekend Itinerary
 * 📅 **THU**
 	- [ ] leave house
 	- [ ] Costco Gas (Federal Way)

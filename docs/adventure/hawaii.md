@@ -67,6 +67,7 @@ https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-
 - [x] truck USB charger
 - [x] Ds headphones
 - [x] download movies
+- [ ] watch strap
 ---
 - [x] insurance card
 - [x] airplane masks

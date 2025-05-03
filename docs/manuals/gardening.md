@@ -85,4 +85,11 @@ Seed starter mix of coir:clay (2:1)
 ## Tomato Maintenance
 
 https://hort.extension.wisc.edu/articles/tomato-pruning/  
-florida weave for tomato trellis
+florida weave for tomato trellis  
+https://www.seattletimes.com/pacific-nw-magazine/april-13-grow/  
+* Varieties for PNW: Jaune Flamme, Principe Borghese, Costuluto Fiorentino, Sungold.
+* Minimum 5 gallon container per tomato.
+* If buying, use 4-inch starts, then transplant into 1 gallon containers until ready to plant.
+* Transplant to garden in late May.
+* Plant horizontally into a trench as deep as the root ball is wide, angling so leaves remain above soil line.
+* If leaves turn purple, supplement with liquid fertilizer.

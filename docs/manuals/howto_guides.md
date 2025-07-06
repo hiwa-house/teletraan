@@ -39,16 +39,16 @@
 	* *Oil Change:* 0W-20, 5 quarts
 	* *Maintenance Interval:* 6,000 miles
 	* *Maintenance Schedule:* https://cars101.com/subaru/maintenance-2015.html
-	* *Wheel Torque:* 89 ft-lbs
 	* *[Light Bulbs](https://www.subaruxvforum.com/threads/comprehensive-list-of-all-bulb-types-for-xv.34905/post-457521):*
 		* *Low Beam:* Philips H11 Standard
 		* *High Beam:* Philips 9005 Standard
 		* *Parking (C-light):* 168
 		* *Rear Side Marker:* 168
 	* *Various Parts:*
-		* Disc Brake Caliper Pin Bolt, P/N 26231FE011
+		* Disc Brake Caliper Pin Bolt, P/N 26231FE011, 12mm, 19.9 ft-lbs
+		* Disc Brake Caliper Bracket Bolt, P/N ???, 17mm, 59 ft-lbs
 		* Wheel Lug Stud, P/N 28365FE001
-		* Wheel Lug Nut, P/N 28171AJ001
+		* Wheel Lug Nut, P/N 28171AJ001, 19mm, 89 ft-lbs
 	* *Specs:* ?
 	* [Service History](https://www.mysubaru.com/serviceHistory/serviceHistoryHome.html)
 

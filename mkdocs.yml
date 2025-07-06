@@ -15,6 +15,7 @@ theme:
         - navigation.expand
         - navigation.instant
         - navigation.path
+        - content.tooltips
     palette:
         # Palette toggle for automatic mode
         - media: "(prefers-color-scheme)"

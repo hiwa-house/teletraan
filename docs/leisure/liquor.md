@@ -16,8 +16,8 @@ https://rum.reddit.com/comments/lb9y0n/rachels_unofficial_rrum_what_should_i_buy
 
 ## Bourbon/Whiskey
 - [ ] Bulleit 10 Year
-- [ ] Eagle Rare
-- [X] Elijah Craig Small Batch
+- [X] Eagle Rare
+- [X] Elijah Craig Small Batch ⭐️
 - [ ] Evan Williams Single Barrel
 - [ ] Four Roses Small Batch Select
 - [ ] Jack Daniels Single Barrel
@@ -32,7 +32,8 @@ https://rum.reddit.com/comments/lb9y0n/rachels_unofficial_rrum_what_should_i_buy
 - [ ] Russel Reserve 10
 - [ ] Wild Turkey 101
 - [ ] Wild Turkey Rare Breed
-- [ ] Michter's US1 Bourbon
+- [X] Michter's US1 Bourbon
+- [X] Wolcott Bottled-in-Bond ⭐️
 
 ## Irish Whiskey
 

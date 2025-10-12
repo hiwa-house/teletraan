@@ -6,9 +6,11 @@
 * ***Add to Pack List:*** can opener, flour, raw ingredient staples
 * ***Remove from Pack List:*** roasting fork, water filter, folding saw
 * *Bin organization:* leave extra room for disorganized return home packing
-* Write checklists for Mama/David
-* Find chuck kit stand/mount
+	* www.homedepot.com/p/Husky-20-Gal-Professional-Heavy-Duty-Waterproof-Stackable-Plastic-Storage-Container-with-Hinged-Lid-in-Red-246842/311485319
 * Cover food in cooler with damp towel
+* https://www.rei.com/product/242927/rei-co-op-wonderland-side-table
+* https://www.rei.com/product/217507/oxo-compact-can-and-bottle-opener
+* https://www.rei.com/product/203771/kelty-chef-roll-bag
 
 ## 🥣 Menu Ideas
 * pasta
@@ -50,6 +52,12 @@
 	* ➕: 
 	* ➖: 
 	* Best sites: 
+- [ ]	[Camano Island State Park](https://parks.state.wa.us/484/Camano-Island) ⭐
+	* Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Camano+Island+State+Park,+Camano,+WA+98282/)
+	* ➕: Short drive, rocky beach, driftwood forts
+	* ➖: Mosquitos
+	* Crabbing available; castable or via kayak/SUP
+---
 - [ ]	[Birch Bay State Park]()
 	* Drive time: [2.0 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Birch+Bay+State+Park,+Helweg+Road,+Blaine,+WA/)
 	* ➕: Freeway driving, clean/shaded sites, clean bathrooms/showers, walking distance to bay, short drive to beach town, water play, Pt. Whitehorn, biking
@@ -58,9 +66,14 @@
 	* Drive time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Deception+Pass+State+Park,+State+Route+20,+Oak+Harbor,+WA/)
 	* ➕: Beachfront rock climbing, hiking
 	* ➖: Noisy neighbors, crowded. Great setting, but not a favorite.
+- [ ]	[Bay View State Park](https://parks.wa.gov/find-parks/state-parks/bay-view-state-park)
+	* Drive time: [1.5 hrs](https://www.google.com/maps/dir/47.589703,-122.16849/bay+view+state+park/)
+	* ➕: Beach access, play field
+	* ➖: Surrounded by residential, mud flat beach, bathroom location, horse pasture smells.
 - [ ]	[Moran State Park](https://parks.state.wa.us/547/Moran)
-	* ➕: 
-	* ➖: 
+	* ➕: Lake access, Orcas sightseeing
+	* ➖: Ferry fees, sloped sites
+---
 - [ ]	[Dungeness Recreation Area](https://clallam.net/Parks/Dungeness.html) ❓
 	* Drive time: 2.5 hrs
 	* Oceanfront, beachcombing, crabbing, clamming
@@ -95,10 +108,6 @@
 	* Drive Time: [2.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Ocean+City+State+Park,+148+WA-115,+Hoquiam,+WA+98550/)
 	* ➕: Cooler temps, kites, sandy beaches
 	* ➖: Mosquitos, cooler temps
-- [ ]	[Camano Island](https://parks.state.wa.us/484/Camano-Island) ❓
-	* Drive Time: [1.5 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Camano+Island+State+Park,+Camano,+WA+98282/)
-	* ➕: Short drive
-	* ➖: 
 - [ ]	[Ft Townsend](https://parks.state.wa.us/510/Fort-Townsend) ❓
 	* Drive Time: [2 hrs](https://www.google.com/maps/dir/47.5685324,-122.1800968/Fort+Townsend+State+Park,+Old+Fort+Townsend+Road,+Port+Townsend,+WA/)
 	* ➕: 
@@ -183,6 +192,7 @@
 - [ ] Baitcast spinning reel
 - [ ] 50-100# mono line
 - [ ] 2-3oz weights (if a sinker, lash to the end opposite the line)
+- [ ] https://www.netknots.com/fishing_knots/palomar-knot
 
 ---
 

@@ -52,11 +52,11 @@
 	🍧 Frozen Treats  
 	🛒 Grocery  
 	💕 Day Date  
-	🏂 Activities  
+	🏄🏻 Activities  
 
 ### Ala Moana
 - [ ]	[Kyung's Seafood](https://www.instagram.com/kyungsseafood/) 🍽️🍹💕❓
-- [ ]	[Mariposa](https://stores.neimanmarcus.com/restaurants/Honolulu/HI/1031-R-1/Mariposa) 🍽️💕❓[ℹ️]("sunset happy hour")
+- [ ]	[Mariposa](https://stores.neimanmarcus.com/restaurants/Honolulu/HI/1031-R-1/Mariposa) 🍽️💕❓
 ### Chinatown
 - [ ]	[Fête](https://www.fetehawaii.com/) 🍽️💕⭐
 - [ ]	[Royal Kitchen](https://royalkitchenhawaii.com/) 🥐⭐
@@ -68,20 +68,20 @@
 - [ ]	[Murphy's Bar & Grill](https://www.murphyshawaii.com/) 🍽️🍹
 ### Hawaiʻi Kai
 - [ ]	[Kona Brewing Co](https://konabrewinghawaii.com/locations/hawaii-kai) 🍽️🍺⭐[ℹ️]("big portions")
-- [ ]	[Makapuʻu Point Lighthouse](https://dlnr.hawaii.gov/dsp/hiking/oahu/makapuu-point-lighthouse-trail/) 🏂⭐
-- [ ]	Spitting Caves [🧭](https://maps.apple.com/?daddr=Spitting+Cave,+7+Lumahai+St,+Honolulu,+HI+96825) 🏂
-- [ ]	[Sea Life Park](https://www.sealifeparkhawaii.com/) 🏂❓
+- [ ]	[Makapuʻu Point Lighthouse](https://dlnr.hawaii.gov/dsp/hiking/oahu/makapuu-point-lighthouse-trail/) 🏄🏻⭐
+- [ ]	Spitting Caves [🧭](https://maps.apple.com/?daddr=Spitting+Cave,+7+Lumahai+St,+Honolulu,+HI+96825) 🏄🏻
+- [ ]	[Sea Life Park](https://www.sealifeparkhawaii.com/) 🏄🏻❓
 ### Kāhala
 - [ ]	[et al.](https://etalhawaii.com/) 🍽️🍹❓
 - [ ]	[Kapa Hale](https://www.kapahale.com/) 🍽️💕❓
 ### Kailua
-- [ ]	Kalama Beach Park [🧭](https://maps.apple.com/?daddr=Kalama+Beach+Park,+Kalama+Beach+Park,+North+Kalaheo+Avenue,+Kailua,+HI) 🏂⭐[ℹ️]("aka chicken beach")
-- [ ]	[Nuʻuanu Pali Lookout](https://dlnr.hawaii.gov/dsp/parks/oahu/nuuanu-pali-state-wayside/) 🏂❓
+- [ ]	Kalama Beach Park [🧭](https://maps.apple.com/?daddr=Kalama+Beach+Park,+Kalama+Beach+Park,+North+Kalaheo+Avenue,+Kailua,+HI) 🏄🏻⭐[ℹ️]("aka chicken beach")
+- [ ]	[Nuʻuanu Pali Lookout](https://dlnr.hawaii.gov/dsp/parks/oahu/nuuanu-pali-state-wayside/) 🏄🏻❓
 - [ ]	[Tokyo Central](https://www.tokyocentralhawaii.com/) 🛒❓
 ### Kaimukī
 - [ ]	[Brew'd Craft Pub](https://www.brewdcraftpub.com/) 🍽️🍹⭐
+- [ ]	[Chillest Shave Ice](https://www.instagram.com/chillestshaveice/) 🍧⭐
 - [ ]	[Koko Head Cafe](https://www.kokoheadcafe.com/) 🍽️
-- [ ]	[Chillest Shave Ice](https://www.instagram.com/chillestshaveice/) 🍧❓
 - [ ]	[Little Vessels](https://www.littlevesselsco.com/) 🥐❓
 - [ ]	[Miro Kaimuki](https://www.mirokaimuki.com/) 🍽️💕❓
 - [ ]	[Yakitori Ando](https://www.instagram.com/yakitoriando/) 🍽️💕❓[ℹ️]("yakitori omakase")
@@ -98,15 +98,15 @@
 - [ ]	[Sugoi](https://sugoihawaii.com/) 🥡⭐
 - [ ]	[Utage](https://utagehawaii.com/) 🍽️⭐
 - [ ]	[Best Drive-In](http://www.bestdrivein.com/) 🥡
+- [ ]	[Bishop Museum](https://www.bishopmuseum.org/) 🏄🏻
 - [ ]	[Helena's Hawaiian Food](https://helenashawaiianfood.com/) 🥡
 - [ ]	[Honolulu Beerworks](https://www.honolulubeerworks.com/) 🍽️🍺
-- [ ]	[Bishop Museum](https://www.bishopmuseum.org/) 🏂
 - [ ]	[Kamehameha Bakery](https://kamehamehabakery.store/) 🥐❓
 - [ ]	[U Kitchen](https://u-kitchen.res-menu.com/) 🥡❓
 ### Kāneʻohe
 - [ ]	[Inu Island Ales](https://inuislandales.com/) 🍺
 - [ ]	[Adela's Country Eatery](https://www.adelascountryeatery.com/) 🥡❓
-- [ ]	[Friendship Garden](http://friendshipgarden.org/) 🏂❓
+- [ ]	[Friendship Garden](http://friendshipgarden.org/) 🏄🏻❓
 - [ ]	[Tasty Korean BBQ 3](https://tasty-korean-bbq-3.restaurants-world.com/) 🥡❓
 ### Kapahulu
 - [ ]	[Diamond Head Market & Grill](http://www.diamondheadmarket.com/) 🛒🍧🥐⭐
@@ -116,44 +116,45 @@
 - [ ]	[Pioneer Saloon](https://pioneer-saloon.net/) 🥡
 - [ ]	[Side Street Inn](https://sidestreetinn.com/) 🍽️💕
 ### Leeward
-- [ ]	Yokohama Bay [🧭](https://maps.apple.com/?daddr=Keawaula+Beach) 🏂⭐
-- [ ]	[Aulani](https://www.disneyaulani.com/) 🏂
-- [ ]	[ʻAiea Loop Trail](https://dlnr.hawaii.gov/dsp/hiking/oahu/aiea-loop-trail/) 🏂❓
+- [ ]	Yokohama Bay [🧭](https://maps.apple.com/?daddr=Keawaula+Beach) 🏄🏻⭐
+- [ ]	[ʻAiea Loop Trail](https://dlnr.hawaii.gov/dsp/hiking/oahu/aiea-loop-trail/) 🏄🏻
+- [ ]	[Aulani](https://www.disneyaulani.com/) 🏄🏻
 - [ ]	[Mountain Magic Shave Ice](https://www.mountainmagicshaveice.com/) 🍧❓
-- [ ]	[Wai Kai Lagoon](https://www.waikai.com/wai-kai-lagoon) 🏂❓
+- [ ]	[Wai Kai Lagoon](https://www.waikai.com/wai-kai-lagoon) 🏄🏻❓
 ### Liliha
 - [ ]	[L&L](https://www.hawaiianbarbecue.com/locations/liliha/) 🥡⭐[ℹ️]("original location, best mochiko chicken")
 - [ ]	[Liliha Bakery](https://www.lilihabakery.com/) 🥐⭐
 - [ ]	[Bella Banh Mi Café](https://order.online/store/bella-banh-mi-cafe-honolulu-1001270) 🥡❓
 ### Mānoa
-- [ ]	[Manoa Falls](https://manoafalls.org/) 🏂⭐
+- [ ]	[Manoa Falls](https://manoafalls.org/) 🏄🏻⭐
 - [ ]	[Off The Hook Poke Market](https://www.offthehookpokemarket.com/) 🥡⭐
-- [ ]	[East-West Center Japanese Garden](https://www.eastwestcenter.org/about/japanese-garden) 🏂
-- [ ]	[Wa'ahila Ridge State Recreation Area](https://dlnr.hawaii.gov/dsp/parks/oahu/waahila-ridge-state-recreation-area/) 🏂
+- [ ]	[East-West Center Japanese Garden](https://www.eastwestcenter.org/about/japanese-garden) 🏄🏻
+- [ ]	[Wa'ahila Ridge State Recreation Area](https://dlnr.hawaii.gov/dsp/parks/oahu/waahila-ridge-state-recreation-area/) 🏄🏻
 ### Mōʻiliʻili
 - [ ]	[Beer Lab HI](https://www.beerlabhi.com/beretania) 🍺⭐
 - [ ]	[Fujiya](https://www.fujiyahawaii.com/) 🥐⭐
+- [ ]	[Aliʻi Fish Market](https://www.aliifishmarket.com/) [🧭](https://maps.apple.com/?daddr=Alii+Fish+Market,+2320+S+King+St+Suite+H,+Honolulu,+HI+96826) 🥡
 - [ ]	[Bozu](https://bozu-japanese.res-menu.com/) 🍽️💕❓
 - [ ]	[ʻIliʻili Cash & Carry](https://order.toasttab.com/online/ili-ili) 🥡❓
 - [ ]	[Osoyami Bar & Grill](https://osoyami-bar-and-grill.square.site/) 🍽️❓
 ### Mililani
 - [ ]	[Paradise Ciders](http://www.paradiseciders.com/) 🍺❓
 ### North Shore
-- [ ]	[Shark's Cove](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/) 🏂⭐[ℹ️]("tide pools and snorkeling")
+- [ ]	[Shark's Cove](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/) 🏄🏻⭐[ℹ️]("tide pools and snorkeling")
 - [ ]	[Ted's Bakery](https://www.tedsbakery.com/) 🥐⭐
-- [ ]	Laniakea Beach [🧭](https://maps.apple.com/?daddr=Laniakea+Beach,+Haleiwa,+HI) 🏂[ℹ️]("aka turtle beach")
-- [ ]	[Waimea Bay Beach Park](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/) 🏂
-- [ ]	https://honolulumagazine.com/earthing-volunteer-fishpond/ 🏂❓
+- [ ]	Laniakea Beach [🧭](https://maps.apple.com/?daddr=Laniakea+Beach,+Haleiwa,+HI) 🏄🏻[ℹ️]("aka turtle beach")
+- [ ]	[Waimea Bay Beach Park](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/) 🏄🏻
+- [ ]	https://honolulumagazine.com/earthing-volunteer-fishpond/ 🏄🏻❓
 ### Waikīkī
 - [ ]	[Chart House](https://charthousewaikiki.com/) 🍽️🍹💕⭐
-- [ ]	[Waikiki Aquarium](https://www.waikikiaquarium.org/) 🏂
+- [ ]	[Waikiki Aquarium](https://www.waikikiaquarium.org/) 🏄🏻
 - [ ]	[Hau Tree](https://www.kaimana.com/dine/hau-tree/) 🍽️❓
 - [ ]	[Penny's Malasadas](https://pennyswaikiki.com/) 🥐❓
 ### Waimanalo
 - [ ]	[Frankie's Nursery](https://www.frankiesnurseryllc.com/) [🧭](https://maps.apple.com/?daddr=Frankie's+Nursery+LLC-Tropical+Fruit+Trees+Specialist,+Mahiku+Place,+Waimanalo,+HI) 🛒❓[ℹ️]("fresh mangos")
 ### Oahu *(multiple)*
 - [ ]	[Tamura's Fine Wine & Liquors](https://tamurasmarket.com/) 🛒🍷⭐
-- [ ]	[Hawaii State Public Library](https://www.librarieshawaii.org/) 🏂
+- [ ]	[Hawaii State Public Library](https://www.librarieshawaii.org/) 🏄🏻[ℹ️]("Kaimuki branch?")
 - [ ]	[Sage Creamery](https://sagecreamery.com/) 🍧[ℹ️]("stocked by Diamond Head Market")
 - [ ]	[Zippy's](https://www.zippys.com/) 🥡
 - [ ]	[Chun Wah Kam](https://chunwahkam.com/waimalu-1) 🥡❓[ℹ️]("ginger chicken fried rice")

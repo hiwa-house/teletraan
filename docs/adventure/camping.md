@@ -3,7 +3,7 @@
 ## 🗺️ Itinerary
 
 ## ✏️ Notes
-* ***Add to Pack List:*** can opener, flour, raw ingredient staples
+* ***Add to Pack List:*** can opener, flour, raw ingredient staples, pan scraper
 * ***Remove from Pack List:*** roasting fork, water filter, folding saw
 * *Bin organization:* leave extra room for disorganized return home packing
 	* www.homedepot.com/p/Husky-20-Gal-Professional-Heavy-Duty-Waterproof-Stackable-Plastic-Storage-Container-with-Hinged-Lid-in-Red-246842/311485319
@@ -11,6 +11,7 @@
 * https://www.rei.com/product/242927/rei-co-op-wonderland-side-table
 * https://www.rei.com/product/217507/oxo-compact-can-and-bottle-opener
 * https://www.rei.com/product/203771/kelty-chef-roll-bag
+* https://saveaqua.com/en-us
 
 ## 🥣 Menu Ideas
 * pasta
@@ -119,7 +120,17 @@
 
 ---
 
-## ❄️ Winter Camping
+## 🏗️ Camping Projects
+
+### 🚙 Overlanding
+https://rvovernights.com/  
+https://www.harvesthosts.com/  
+https://ioverlander.com/explore  
+https://www.onxmaps.com/offroad/trails/us. 
+https://www.tacomaworld.com/threads/nw-basic-offroad-information-links.122411/  
+https://www.tacomaworld.com/threads/newbie-looking-for-easy-trails-in-wa.389696/  
+
+### ❄️ Winter Camping
 * Auto LSD for snow: Press 1x to activate (icon lit = "on")
 - [ ]	toiletries
 - [ ]	wipes
@@ -179,36 +190,10 @@
 - [ ]	marshmallows
 - [ ]	protein bar, x6
 
-* Front Cab Bed
-	* https://tacomaworld.com/threads/garlicfarts-lets-make-this-truck-useless-for-everything-but-camping-or-road-trips-build.712648/page-4#post-28788427
-	* https://www.youtube.com/watch?v=hXD-56auTpU&t=734
-* [Removable Slider Window](https://shop.thetruckoutfitters.com/product/leer-canopy-front-slider-window-removable-56-x-15-x20/)
-* [Replacement twist handle](https://truckoutfittersplus.com/truck_topper_parts/T-Handles-Locks-Toppers/Leer-Replacement-Twist-Handle.html)
-
----
-
-## 🦀 Crabbing
+### 🦀 Crabbing
 - [ ] 10' Okuma rod (Fred Meyer, Walmart?) - ~$30
 - [ ] Baitcast spinning reel
 - [ ] 50-100# mono line
 - [ ] 2-3oz weights (if a sinker, lash to the end opposite the line)
 - [ ] https://www.netknots.com/fishing_knots/palomar-knot
 
----
-
-## 🚽 Camp Toilet Plans
-* Inventory
-	- [ ] 3-gallon bucket
-	- [ ] bucket toilet lid
-	- [ ] gamma lid (+ second bucket?)
-	- [ ] large scoop
-	- [ ] pine pellets
-	- [ ] waste bags
-	- [ ] milk crate (for storage)
-	- [ ] bleach wipes
-* SOP
-	1. Throw a scoop of pine pellets in a biodegradable waste bag.
-	2. Do your business.
-	3. Throw another scoop of pine pellets on the waste.
-	4. Take the bag, tie it up.
-	5. Keep it in a gamma lid bucket and dispose at your earliest convenience, or using a lithium power drill with a tulip auger, drill a 6-inch hole and bury the waste.

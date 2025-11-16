@@ -1,0 +1,13 @@
+# Auto-detect text files and normalize to LF in the repo
+* text=auto
+
+# Scripts should have LF in the repo and working tree on Unix
+*.sh text eol=lf
+
+# Windows batch files should use CRLF in working tree
+*.bat text eol=crlf
+
+# Binary files - never touch line endings
+*.png binary
+*.jpg binary
+*.pdf binary

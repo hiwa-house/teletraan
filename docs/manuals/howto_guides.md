@@ -25,33 +25,6 @@
 * When centered, surface is level.
 * When touching outer line, surface is at 2% grade (1/4" per foot run)
 
-## Vehicle Maintenance
-
-* Toyota Tacoma
-	* *Gas Tank:* 21.1 gallons
-	* *Oil Change:* 0W-20, 5 quarts
-	* *Maintenance Interval:* 5,000 miles
-	* *Maintenance Schedule:* ?
-	* *Specs:* https://tacomaworld.com/threads/2nd-gen-diy-maintenance-quick-reference-guide.438945/
-	* [Service History](https://www.toyota.com/owners/my-vehicle/service-history)
-* Subaru Crosstrek
-	* *Gas Tank:* 15.9 gallons
-	* *Oil Change:* 0W-20, 5 quarts
-	* *Maintenance Interval:* 6,000 miles
-	* *Maintenance Schedule:* https://cars101.com/subaru/maintenance-2015.html
-	* *[Light Bulbs](https://www.subaruxvforum.com/threads/comprehensive-list-of-all-bulb-types-for-xv.34905/post-457521):*
-		* *Low Beam:* Philips H11 Standard
-		* *High Beam:* Philips 9005 Standard
-		* *Parking (C-light):* 168
-		* *Rear Side Marker:* 168
-	* *Various Parts:*
-		* Disc Brake Caliper Pin Bolt, P/N 26231FE011, 12mm, 19.9 ft-lbs
-		* Disc Brake Caliper Bracket Bolt, P/N ???, 17mm, 59 ft-lbs
-		* Wheel Lug Stud, P/N 28365FE001
-		* Wheel Lug Nut, P/N 28171AJ001, 19mm, 89 ft-lbs
-	* *Specs:* ?
-	* [Service History](https://www.mysubaru.com/serviceHistory/serviceHistoryHome.html)
-
 ## Ventilation
 
 https://sciencedirect.com/science/article/pii/S0048969722029813  

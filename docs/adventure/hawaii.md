@@ -135,7 +135,6 @@
 - [ ]	[Fujiya](https://www.fujiyahawaii.com/) 🥐⭐
 - [ ]	[Aliʻi Fish Market](https://www.aliifishmarket.com/) [🧭](https://maps.apple.com/?daddr=Alii+Fish+Market,+2320+S+King+St+Suite+H,+Honolulu,+HI+96826) 🥡
 - [ ]	[Bozu](https://bozu-japanese.res-menu.com/) 🍽️💕❓
-- [ ]	[ʻIliʻili Cash & Carry](https://order.toasttab.com/online/ili-ili) 🥡❓
 - [ ]	[Osoyami Bar & Grill](https://osoyami-bar-and-grill.square.site/) 🍽️❓
 ### Mililani
 - [ ]	[Paradise Ciders](http://www.paradiseciders.com/) 🍺❓

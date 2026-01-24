@@ -28,14 +28,12 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - The Portable Door
 - The Wrath of Becky
 - House of the Dragon
-- Saltburn
 - Dream Scenario
 - The Artful Dodger
 - The Convert
 - Snack Shack
 - The Greatest Hits
 - Dune: Prophecy
-- A Quiet Place: Day One
 - Kinds of Kindness
 - Sausage Party: Foodtopia
 - A Different Man
@@ -44,12 +42,10 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Common Side Effects
 - Love Me
 - In the Lost Lands
-- Earth Abides
 - The Amateur
 - Companion
 - Friendship
 - Freaky Tales
-- The Surfer
 - The Assessment
 - Sacramento
 - The Studio
@@ -57,18 +53,24 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - The Phoenician Scheme
 - Extraterritorial
 - Heads of State
-- Predator: Badlands
----
 - Mountainhead
 - Jimmy and Stiggs
 - ICK
-- The Man in My Basement
 - Roofman
 - Project Hail Mary
 - She Rides Shotgun
 - Eternity
 - Rental Family
 - Cold Storage
+- Greenland 2
+- The Thing With Feathers
+- Night Patrol
+- Pluribus
+- Eenie Meanie
+---
+- Ready or Not 2
+- The Copenhagen Test
+- The Bride!
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

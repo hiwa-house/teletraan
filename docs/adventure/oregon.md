@@ -98,7 +98,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 ### PDX
 #### NE
 - [ ] [Grind Wit Tryz](https://grindwittryz.square.site/) [🧭](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218) 🥡⭐
-- [ ] [Upright Brewing](https://www.uprightbrewing.com/brewerytaproom) 🍺⭐
+- [ ] [Kau Kau](https://www.kaukaupdx.com/damenu) [🧭](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211) 🥡❓
 - [ ] [Ba Mee Thai Noodle House](https://bameethainoodle.com/menu/) 🥡❓
 - [ ] [Eem](https://www.eempdx.com/menu) [🧭](https://maps.apple.com/?daddr=Eem+-+Thai+BBQ+%26+Cocktails,+3808+N+Williams+Ave+%23127,+Portland,+OR+97227) 🍽️🥡❓
 - [ ] [Gado Gado](https://www.gadogadopdx.com/) 🍽️❓
@@ -114,6 +114,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ] [Olympia Provisions Alpenrausch](https://www.alpenrauschpdx.com/menus) [🧭](https://maps.apple.com/?daddr=3384+SE+Division+St,+Portland,+OR+97202) 🍽️⭐
 - [ ] [Ruse Brewing](https://www.rusebrewing.com/menu/ruse-taplist/) [🧭](https://maps.apple.com/?daddr=Ruse+Brewing,+Southeast+17th+Avenue,+Portland,+OR) 🍺🍽️⭐
 - [ ] [Wayfinder Beer](https://www.wayfinder.beer/menu) [🧭](https://maps.apple.com/?daddr=Wayfinder+Beer,+304+SE+2nd+Ave,+Portland,+OR+97214) 🍺🍽️⭐
+- [ ] [Güero No.1 Tortas](https://guerotortas.com/MENU-1) [🧭](https://maps.apple.com/?daddr=Güero,+200+NE+28th+Ave,+Portland,+OR+97232) 🥡❓
 - [ ] [Grand Fir Brewing](https://www.grandfirbrewing.com/food) [🧭](https://maps.apple.com/?daddr=Grand+Fir+Brewing,+Southeast+Stark+Street,+Portland,+OR) 🍺🍽️
 - [ ] [Away Days Brewing](https://www.awaydaysbrewing.com/beer) 🍺🍽️❓
 - [ ] [Bellweather Bar](https://www.bellwetherportland.com/eat) 🍽️🔞❓

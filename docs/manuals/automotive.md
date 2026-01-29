@@ -28,12 +28,12 @@
 * [Torque Spec Guide](https://www.tacomaworld.com/threads/the-torque-spec-guide.318116/)
 	* Front Shock Absorber Upper: 20 ft/lb
 	* Front Shock Absorber Lower: 61 ft/lb
-	* Rear Spring U-Bolt: 73 ft/lb
+	* Rear Spring U-Bolt: 22mm, 73 ft/lb
 	* Rear Brake Cable Bracket: 9 ft/lb
-	* Rear Leaf Spring (front/back): 89 ft/lb
+	* Rear Leaf Spring (front/back): 19mm, 89 ft/lb
 	* Rear Shock Absorber Upper: 15 ft/lb
-	* Rear Shock Absorber Lower: 74 ft/lb
-	* Wheel Lug Nuts: 89 ft/lb
+	* Rear Shock Absorber Lower: 17mm, 74 ft/lb
+	* Wheel Lug Nuts: 21mm, 89 ft/lb
 * *Specs:* https://tacomaworld.com/threads/2nd-gen-diy-maintenance-quick-reference-guide.438945/
 * [Service History](https://www.toyota.com/owners/my-vehicle/service-history)
 ### Subaru Crosstrek

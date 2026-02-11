@@ -62,7 +62,6 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Eternity
 - Rental Family
 - Cold Storage
-- Greenland 2
 - The Thing With Feathers
 - Night Patrol
 - Pluribus

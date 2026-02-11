@@ -1,49 +1,62 @@
 # Oregon
 
 ## 🗺️ Itinerary
-
-<!--
-* Costco (Bend -> Tumwater) in Subaru: 262 miles, 10.5 gallons, 25 mpg.
--->
+### 📅 **SUN**
+- [ ]	**07:00**	Depart	
+- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
+- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**14:00**	Arrive [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
+- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
+### 📅 **WED**
+- [ ]	**15:00**	Buy Tomatoes	[Sunriver Country Store](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707)
+### 📅 **THU**
+- [ ]	**14:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
+### 📅 **SAT**
+- [ ]	**09:00**	Depart	
+- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:00**	Arrive [Kau Kau](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211)
+- [ ]	**16:30**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**17:30**	Arrive Home
 
 ??? gas-pump inline end "Costco Gas Prices"
 	|City|$/gal|
 	|--------|:------:|
-	| Kirkland | $4.09 |
-	| Federal Way | $3.99 |
-	| Tumwater | $3.86 |
-	| Vancouver | $3.83 |
-	| Bend | $3.59 |
+	| [Kirkland](https://www.costco.com/w/-/wa/kirkland/8) | $3.83 |
+	| [Tumwater](https://www.costco.com/w/-/wa/tumwater/64) | $3.49 |
+	| [Portland](www.costco.com/w/-/or/portland/2) | $3.25 |
+	| [Bend](https://www.costco.com/w/-/or/bend/1696) | $2.99 |
+<!--
+	| [Federal Way](https://www.costco.com/w/-/wa/federal-way/61) | $3.72 |
+	| [Tacoma](https://www.costco.com/w/-/wa/tacoma/95) | $3.75 |
+	| [Ridgefield](https://www.costco.com/w/-/wa/ridgefield/1703) | $3.59 |
+	| [Vancouver](https://www.costco.com/w/-/wa/vancouver/772) | $3.55 |
+-->
 
 ## ✏️ Notes
 
-https://www.village-properties.com/vacation-rentals/rental/3156-269501/
-https://www.benningtonproperties.com/properties/leisure-6?guest_count=11&arrival=2-15-2026&departure=2-21-2026
-https://www.benningtonproperties.com/properties/sparks-5?guest_count=11&arrival=2-15-2026&departure=2-21-2026
-https://www.benningtonproperties.com/properties/cultus-16?guest_count=11&arrival=2-15-2026&departure=2-21-2026
-https://www.village-properties.com/vacation-rentals/rental/3156-269510/
-https://www.mtresort.com/booking/redcedar-17/20845
-https://www.village-properties.com/vacation-rentals/rental/3156-269509/
-https://www.benningtonproperties.com/properties/cottonwood-1?guest_count=11&arrival=2-15-2026&departure=2-21-2026
-https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
-
 * [House Info](applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492)
+* [House Listing](https://www.benningtonproperties.com/properties/sparks-5
+)
 * [US26 *(Mt. Hood)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS20%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
 * [US20 *(Santiam Pass)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS26%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
 * [Mt. Bachelor Weather Forecast](https://forecast.weather.gov/MapClick.php?lon=-121.67019367218019&lat=43.97341445519288#.YYloWmDMI2x)
 * [Mt. Bachelor Ski Report](https://www.mtbachelor.com/the-mountain/mountain-report)
 * [Mt. Bachelor Annotated Trail Map](https://i.redd.it/2t32xx096kv11.png)
 * https://pdx.eater.com/maps/
+<!--
+* Costco (Bend -> Tumwater) in Subaru: 262 miles, 10.5 gallons, 25 mpg.
+-->
 
 ## 🥣 Dinner Menu
 
 |	**Sun** 	|	**Mon**     	|	**Tue**	|	**Wed** 	|	**Thu** 	|	**Fri** 	|
 |	--------	|	------------	|	-------	|	--------	|	--------	|	------- 	|
-|	*Pizza?*	|	Pasta       	|	Tacos 	|	Burgers 	|	*Village?*	|	Mac/Cheese	|
-|	        	|	Garlic bread	|	Salad	|	Broccoli	|	        	|	Broccoli	|
-|	        	|	Salad       	|	    	|	Chips   	|	        	|	Topping bar	|
+|	*TakeOut*	|	Mac/Cheese     	|	Tacos 	|	Burgers 	|	Rice Bowls	|	*LeftOvers*	|
+|	        	|	Broccoli    	|	Salad	|	Broccoli	|	Banchan    	|	   *or*   	|
+|	        	|	Topping bar    	|	    	|	Chips   	|	Eggs    	|	*DineOut*  	|
 
-* **Missing:** Breakfast, fruits, snacks, dessert?
+* **BYO:** *Breakfast, Fruits, Snacks, Dessert*
 <!--
 * **Menu Ideas:** Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Charcuterie board, Pancakes
 -->
@@ -73,6 +86,16 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ] [Sunriver Country Store](https://www.sunrivergrocerystores.com/) [🧭](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707) 🛒
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
 - [ ] [The Fold Craft Pizza](https://www.thefoldkitchen.com/menu) 🥡❓
+<!--
+https://www.village-properties.com/vacation-rentals/rental/3156-269501/
+https://www.benningtonproperties.com/properties/leisure-6
+https://www.benningtonproperties.com/properties/cultus-16
+https://www.village-properties.com/vacation-rentals/rental/3156-269510/
+https://www.mtresort.com/booking/redcedar-17/20845
+https://www.village-properties.com/vacation-rentals/rental/3156-269509/
+https://www.benningtonproperties.com/properties/cottonwood-1
+https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
+-->
 
 ### Bend
 - [ ] [Bend Burger Company](https://order.toasttab.com/online/bend-burger-company#!/) [🧭](https://maps.apple.com/?daddr=Bend+Burger+Company,+Northeast+3rd+Street,+Bend,+OR) 🥡⭐
@@ -91,13 +114,15 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ] [Blue Eyes Burgers & Fries](https://www.blueeyesburgersandfries.com/) 🥡❓
 - [ ] [Crosscut Warming Hut](https://crosscutbeer.com/tap-list-food-menus/) [🧭](https://maps.apple.com/?daddr=Crosscut-+Warming+Hut+No.5,+Southwest+Mill+View+Way,+Bend,+OR) 🥡❓
 - [ ] [McKay Cottage Restaurant](https://www.themckaycottage.com/breakfast-menu/) 🥞❓
+- [ ] [Rancher Butcher Chef](https://www.rbcbend.com/dinner-menu) [🧭](https://maps.apple.com/?daddr=Rancher+Butcher+Chef,+2838+NW+Crossing+Dr+suite+120,+Bend,+OR+97703) 🍽️❓
 - [ ] [Terranaut Beer](https://www.terranautbeer.com/beer) 🍺🔞❓
 - [ ] [The Cellar](https://www.porterbrewingco.com/food) 🍺🍽️🔞❓
 - [ ] [Valentine's Deli](https://valentinesdeli.com/) 🥡❓
+- [ ] [Yoli](https://www.yolibend.com/menu--reservations.html) [🧭](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703) 🥡❓
 
 ### PDX
 #### NE
-- [ ] [Grind Wit Tryz](https://grindwittryz.square.site/) [🧭](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218) 🥡⭐
+- [ ] [Grind Wit Tryz](https://grindwittryz.square.site/) [🧭](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218) 🥡
 - [ ] [Kau Kau](https://www.kaukaupdx.com/damenu) [🧭](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211) 🥡❓
 - [ ] [Ba Mee Thai Noodle House](https://bameethainoodle.com/menu/) 🥡❓
 - [ ] [Eem](https://www.eempdx.com/menu) [🧭](https://maps.apple.com/?daddr=Eem+-+Thai+BBQ+%26+Cocktails,+3808+N+Williams+Ave+%23127,+Portland,+OR+97227) 🍽️🥡❓
@@ -156,13 +181,11 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 * Camellia Grove Kombucha
 
 ## 🏪 Sundries
-+ Spring Blossom - lisa [🧭](http://maps.apple.com/?daddr=7240+NE+Sandy+Boulevard,+Portland)
-* Zen Foot - leah [🧭](http://maps.apple.com/?daddr=8118+SW+Hall+Blvd.,Beaverton
++ Spring Blossom, lisa [🧭](http://maps.apple.com/?daddr=7240+NE+Sandy+Boulevard,+Portland)
+* Zen Foot, leah [🧭](http://maps.apple.com/?daddr=8118+SW+Hall+Blvd.,Beaverton
 )
-* Oriental Lotus - lily [🧭](http://maps.apple.com/?daddr=7305+N+Alta+Ave,+Portland)
+* Oriental Lotus, lily [🧭](http://maps.apple.com/?daddr=7305+N+Alta+Ave,+Portland)
 * YaYa [🧭](http://maps.apple.com/?daddr=1321+SE+Tacoma+St,Portland)
-* Encore [🧭](http://maps.apple.com/?daddr=18400+SE+Division+St,+Gresham,+OR)
-* Tranquility [🧭](http://maps.apple.com/?daddr=9916+NE+Hwy+99,+Vancouver,+WA)
 -->
 
 ## 🧳 Pack List
@@ -223,7 +246,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	tupperware
 - [ ]	dish towels
 - [ ]	milk frother
-- [ ]	cheese grater
+- [ ]	rice cooker
 ---
 - [ ]	snowboard/skis
 - [ ]	snowboard/ski boots
@@ -251,14 +274,21 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	pants, x1
 - [ ]	wool socks, x2
 ---
-- [ ]	ube pancake mix
 - [ ]	butter
+- [ ]	bacon
 - [ ]	granola
 - [ ]	honey nut cheerios
 - [ ]	kefir
 - [ ]	blackberry syrup
 - [ ]	beer snacks
+- [ ]	guacamole
 - [ ]	chili crisp
+- [ ]	ketchup
+- [ ]	mustard
+- [ ]	evaporated milk, x2
+- [ ]	rice, x5
+- [ ]	baby carrots
+- [ ]	pickled onion
 - [ ]	clif bar, x8
 - [ ]	marshmallows
 - [ ]	hot cocoa
@@ -273,20 +303,6 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 
 <!--
 ## 🗺️ Ski Week Itinerary
-### 📅 **SUN**
-- [ ]	**07:00**	Depart	
-- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
-- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:30**	*Follow Hwy for TJ -> WinCo -> Oregon Spirit Distillers*
-- [ ]	**15:00**	Arrive [Monkless Belgian Ales Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
-- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
-### 📅 **SAT**
-- [ ]	**09:00**	Depart	
-- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:00**	Arrive [Grind Wit Tryz](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218)
-- [ ]	**16:30**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**17:30**	Arrive Home
 
 ## 🗺️ Beer Weekend Itinerary
 * 📅 **THU**

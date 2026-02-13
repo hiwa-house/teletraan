@@ -8,8 +8,6 @@
 - [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
 - [ ]	**14:00**	Arrive [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
 - [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
-### 📅 **WED**
-- [ ]	**15:00**	Buy Tomatoes	[Sunriver Country Store](https://maps.apple.com/?daddr=Sunriver+Country+Store,+57100+Beaver+Dr,+Bend,+OR+97707)
 ### 📅 **THU**
 - [ ]	**14:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
 ### 📅 **SAT**
@@ -23,19 +21,19 @@
 	|City|$/gal|
 	|--------|:------:|
 	| [Kirkland](https://www.costco.com/w/-/wa/kirkland/8) | $3.83 |
-	| [Tumwater](https://www.costco.com/w/-/wa/tumwater/64) | $3.49 |
-	| [Portland](www.costco.com/w/-/or/portland/2) | $3.25 |
-	| [Bend](https://www.costco.com/w/-/or/bend/1696) | $2.99 |
+	| [Tumwater](https://www.costco.com/w/-/wa/tumwater/64) | $3.73 |
+	| [Portland](https://www.costco.com/w/-/or/portland/2) | $3.45 |
+	| [Bend](https://www.costco.com/w/-/or/bend/1696) | $3.16 |
 <!--
-	| [Federal Way](https://www.costco.com/w/-/wa/federal-way/61) | $3.72 |
-	| [Tacoma](https://www.costco.com/w/-/wa/tacoma/95) | $3.75 |
-	| [Ridgefield](https://www.costco.com/w/-/wa/ridgefield/1703) | $3.59 |
-	| [Vancouver](https://www.costco.com/w/-/wa/vancouver/772) | $3.55 |
+	| [Federal Way](https://www.costco.com/w/-/wa/federal-way/61) | $3.87 |
+	| [Tacoma](https://www.costco.com/w/-/wa/tacoma/95) | $3.85 |
+	| [Ridgefield](https://www.costco.com/w/-/wa/ridgefield/1703) | $3.83 |
+	| [Vancouver](https://www.costco.com/w/-/wa/vancouver/772) | $3.74 |
 -->
 
 ## ✏️ Notes
 
-* [House Info](applenotes:note/3e5fc7ae-02ce-4360-aabb-0f95f2150492)
+* [House Info](applenotes:note/0e30MGrnZrw2VijsvR-dUU_JA)
 * [House Listing](https://www.benningtonproperties.com/properties/sparks-5
 )
 * [US26 *(Mt. Hood)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS20%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
@@ -247,6 +245,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	dish towels
 - [ ]	milk frother
 - [ ]	rice cooker
+- [ ]	nespresso machine
 ---
 - [ ]	snowboard/skis
 - [ ]	snowboard/ski boots
@@ -274,26 +273,69 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	pants, x1
 - [ ]	wool socks, x2
 ---
-- [ ]	butter
+* ***Mac and Cheese***
+- [X]	macaroni, x2
+- [ ]	shredded cheddar, 740g
+- [X]	evaporated milk, x2
+- [ ]	broccoli
 - [ ]	bacon
-- [ ]	granola
-- [ ]	honey nut cheerios
-- [ ]	kefir
-- [ ]	blackberry syrup
-- [ ]	beer snacks
-- [ ]	guacamole
+- [ ]	canned chili
 - [ ]	chili crisp
+- [X]	fried shallots
+- [ ]	kimchi
+* ***Tacos***
+- [ ]	pickled onion
+- [X]	taco shells, x2
+- [X]	corn/flour tortillas, x2
+- [ ]	shredded cheese, 16oz
+- [ ]	chicken tinga
+- [ ]	iceberg lettuce
+- [ ]	crema
+- [ ]	lime
+- [ ]	guacamole
+- [ ]	salsa, x3
+- [X]	tortilla chips
+* ***Burgers***
 - [ ]	ketchup
 - [ ]	mustard
-- [ ]	evaporated milk, x2
+- [X]	mayo
+- [X]	pickles
+- [ ]	lettuce, x1
+- [ ]	sliced cheese, x4
+- [ ]	tomato, x2
+- [ ]	ground beef, 6lb
+- [ ]	hamburger buns, x18
+- [ ]	doritos
+- [ ]	kettle chips
+* ***Korean Rice Bowls***
 - [ ]	rice, x5
-- [ ]	baby carrots
-- [ ]	pickled onion
-- [ ]	clif bar, x8
-- [ ]	marshmallows
-- [ ]	hot cocoa
+- [X]	kalbi marinade
+- [X]	white onion
+- [ ]	eggs
+- [ ]	korean meat
+- [ ]	banchan
+- [ ]	gochujang sauce
+- [ ]	nori
+* ***Leftovers and/or Pasta***
+- [ ]	pasta sauce
+- [X]	rotini, x1
+* ***Breakfast***
+- [X]	granola
+- [ ]	honey nut cheerios
+- [ ]	milk
+- [ ]	frozen blueberries
+- [ ]	kefir
+- [X]	blackberry syrup
+- [X]	granola bar, x8
 - [ ]	green tea
-- [ ]	instant coffee
+- [ ]	nespresso
+* ***Snacks***
+- [ ]	hummus
+- [ ]	multigrain chips
+- [ ]	beer snacks
+- [X]	mini marshmallows
+- [X]	hot cocoa
+- [ ]	beer
 ---
 - [ ]	USPS hold mail
 - [ ]	Meal prep

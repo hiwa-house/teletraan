@@ -6,10 +6,11 @@
 - [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
 - [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
 - [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:30**	Arrive [Winco Foods](https://maps.apple.com/?daddr=WinCo+Foods,+60+NE+Bend+River+Mall+Dr,+Bend,+OR+97701)
 - [ ]	**14:00**	Arrive [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
 - [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
 ### 📅 **THU**
-- [ ]	**14:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
+- [ ]	**15:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
 ### 📅 **SAT**
 - [ ]	**09:00**	Depart	
 - [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
@@ -44,6 +45,7 @@
 * https://pdx.eater.com/maps/
 <!--
 * Costco (Bend -> Tumwater) in Subaru: 262 miles, 10.5 gallons, 25 mpg.
+* Costco (Home -> Tumwater) in Subaru: 65 miles, 2.6 gallons, 25 mpg.
 -->
 
 ## 🥣 Dinner Menu
@@ -158,9 +160,9 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ] [Jojo](https://jojopdx.com/menu) [🧭](https://maps.apple.com/?daddr=Jojo,+Northwest+13th+Avenue,+Portland,+OR) 🍽️❓
 - [ ] [Scottie's Pizza Parlor](https://www.scottiespizzaparlor.com/) [🧭](https://maps.apple.com/?daddr=Scottie's+Pizza+Parlor+NW,+Northwest+21st+Avenue,+Portland,+OR) 🥡❓
 
+<!--
 ## 🛍️ Shopping
 
-<!--
 * Target
 	- [ ] https://www.target.com/p/oxo-softworks-multi-grater/-/A-11144663
 * Apple

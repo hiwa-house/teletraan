@@ -1,36 +1,26 @@
 # Oregon
 
-## 🗺️ Itinerary
-### 📅 **SUN**
-- [ ]	**07:00**	Depart	
-- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
-- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:30**	Arrive [Winco Foods](https://maps.apple.com/?daddr=WinCo+Foods,+60+NE+Bend+River+Mall+Dr,+Bend,+OR+97701)
-- [ ]	**14:00**	Arrive [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
-- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
-### 📅 **THU**
-- [ ]	**15:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
-### 📅 **SAT**
-- [ ]	**09:00**	Depart	
-- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:00**	Arrive [Kau Kau](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211)
-- [ ]	**16:30**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
-- [ ]	**17:30**	Arrive Home
-
 ??? gas-pump inline end "Costco Gas Prices"
 	|City|$/gal|
 	|--------|:------:|
 	| [Kirkland](https://www.costco.com/w/-/wa/kirkland/8) | $3.83 |
-	| [Tumwater](https://www.costco.com/w/-/wa/tumwater/64) | $3.73 |
-	| [Portland](https://www.costco.com/w/-/or/portland/2) | $3.45 |
-	| [Bend](https://www.costco.com/w/-/or/bend/1696) | $3.16 |
+	| [Tacoma](https://www.costco.com/w/-/wa/tacoma/95) | $3.89 |
+	| [Tumwater](https://www.costco.com/w/-/wa/tumwater/64) | $3.87 |
+	| [Portland](https://www.costco.com/w/-/or/portland/2) | $3.52 |
+	| [Bend](https://www.costco.com/w/-/or/bend/1696) | $3.31 |
 <!--
 	| [Federal Way](https://www.costco.com/w/-/wa/federal-way/61) | $3.87 |
-	| [Tacoma](https://www.costco.com/w/-/wa/tacoma/95) | $3.85 |
 	| [Ridgefield](https://www.costco.com/w/-/wa/ridgefield/1703) | $3.83 |
 	| [Vancouver](https://www.costco.com/w/-/wa/vancouver/772) | $3.74 |
 -->
+
+## 🗺️ Itinerary
+### 📅 **SAT**
+- [ ]	**09:00**	Depart	
+- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:00**	Arrive [Kau Kau](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211)
+- [ ]	**16:30**	Arrive [Tacoma Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+2219+S+37th+St,+Tacoma,+WA+98409)
+- [ ]	**17:30**	Arrive Home
 
 ## ✏️ Notes
 
@@ -209,7 +199,6 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	blankets
 - [ ]	laptop
 - [ ]	kindle
-- [ ]	iPad
 - [ ]	cables/chargers
 - [ ]	game controller
 - [ ]	CO₂ meter
@@ -248,6 +237,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	milk frother
 - [ ]	rice cooker
 - [ ]	nespresso machine
+- [ ]	coozie
 ---
 - [ ]	snowboard/skis
 - [ ]	snowboard/ski boots
@@ -260,6 +250,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	ski socks
 - [ ]	hand warmers
 - [ ]	wax kit
+- [ ]	boot dryer
 ---
 - [ ]	slippahs
 - [ ]	slippers
@@ -341,12 +332,24 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 ---
 - [ ]	USPS hold mail
 - [ ]	Meal prep
-- [ ]	ESIM
+- [ ]	eSIM
 - [ ]	Security light timer
 - [ ]	Lock shed
 
 <!--
 ## 🗺️ Ski Week Itinerary
+### 📅 **SUN**
+- [ ]	**07:00**	Depart	
+- [ ]	**08:00**	Arrive [Tumwater Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+Littlerock+Road+Southwest,+Tumwater,+WA)
+- [ ]	**09:30**	Arrive [Blue Star Donuts](https://maps.apple.com/?daddr=Blue+Star+Donuts+Pickup,+Southeast+3rd+Avenue,+Portland,+OR)
+- [ ]	**12:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:30**	Arrive [Winco Foods](https://maps.apple.com/?daddr=WinCo+Foods,+60+NE+Bend+River+Mall+Dr,+Bend,+OR+97701)
+- [ ]	**14:00**	Arrive [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
+- [ ]	**17:00**	Arrive [Sunriver](https://maps.apple.com/?daddr=)
+### 📅 **THU**
+- [ ]	**15:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
+### 📅 **FRI**
+- [ ]	**18:00**	Dinner @ [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
 
 ## 🗺️ Beer Weekend Itinerary
 * 📅 **THU**

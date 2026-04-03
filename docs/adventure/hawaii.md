@@ -11,6 +11,7 @@
 - [ ]	Ball cap
 
 ## 🗺️ Itinerary
+* https://alaskaair.com/search/results?O=SA2&D=HNL&OD=2026-07-06&DD=2026-07-28&A=1&C=1&RT=true
 * Arrive at SEA for bag drop/security no later than 1:45 before flight.
 * Arrive at HNL for bag drop/security no later than 1:30 before flight.
 

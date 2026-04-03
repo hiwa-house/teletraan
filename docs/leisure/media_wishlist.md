@@ -46,30 +46,27 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Companion
 - Friendship
 - Freaky Tales
-- The Assessment
-- Sacramento
 - The Studio
 - Together (2025)
 - The Phoenician Scheme
-- Extraterritorial
 - Heads of State
-- Mountainhead
 - Jimmy and Stiggs
 - ICK
 - Roofman
-- Project Hail Mary
 - She Rides Shotgun
 - Eternity
-- Rental Family
 - Cold Storage
 - The Thing With Feathers
 - Night Patrol
 - Pluribus
-- Eenie Meanie
 ---
 - Ready or Not 2
 - The Copenhagen Test
 - The Bride!
+- The Death of Robin Hood
+- The Bluff
+- DTF St Louis
+- Digger
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

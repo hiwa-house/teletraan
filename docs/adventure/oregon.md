@@ -15,17 +15,11 @@
 -->
 
 ## 🗺️ Itinerary
-### 📅 **SAT**
-- [ ]	**09:00**	Depart	
-- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
-- [ ]	**13:00**	Arrive [Kau Kau](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211)
-- [ ]	**16:30**	Arrive [Tacoma Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+2219+S+37th+St,+Tacoma,+WA+98409)
-- [ ]	**17:30**	Arrive Home
 
 ## ✏️ Notes
 
 * [House Info](applenotes:note/0e30MGrnZrw2VijsvR-dUU_JA)
-* [House Listing](https://www.benningtonproperties.com/properties/sparks-5
+* [House Listing](
 )
 * [US26 *(Mt. Hood)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS20%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
 * [US20 *(Santiam Pass)* Road Conditions](https://tripcheck.com/DynamicReports/Report/RoadConditions/0?routesExcluded=I-205%2CI-405%2CI-5%2CI-82%2CI-84%2CUS101%2CUS101B%2CUS197%2CUS199%2CUS26%2CUS30%2CUS30BY%2CUS395%2CUS730%2CUS95%2CUS97%2CORE11%2CORE126%2CORE130%2CORE131%2CORE138%2CORE140%2CORE141%2CORE164%2CORE173%2CORE18%2CORE19%2CORE201%2CORE202%2CORE204%2CORE205%2CORE207%2CORE211%2CORE212%2CORE213%2CORE217%2CORE219%2CORE22%2CORE221%2CORE223%2CORE228%2CORE230%2CORE238%2CORE242%2CORE260%2CORE273%2CORE3%2CORE31%2CORE34%2CORE35%2CORE36%2CORE37%2CORE42%2CORE42S%2CORE43%2CORE47%2CORE540%2CORE58%2CORE6%2CORE62%2CORE66%2CORE7%2CORE78%2CORE8%2CORE82%2CORE86%2CORE99%2CORE99E%2CORE99EB%2CORE99W%2CHWY100%2CHWY372)
@@ -77,6 +71,7 @@
 - [ ] [Sunriver Ice Skating](https://www.sunrivervillagefun.com/sunriver-ice-skating/) 🏂
 - [ ] [The Fold Craft Pizza](https://www.thefoldkitchen.com/menu) 🥡❓
 <!--
+https://www.benningtonproperties.com/properties/sparks-5
 https://www.village-properties.com/vacation-rentals/rental/3156-269501/
 https://www.benningtonproperties.com/properties/leisure-6
 https://www.benningtonproperties.com/properties/cultus-16
@@ -113,7 +108,7 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 ### PDX
 #### NE
 - [ ] [Grind Wit Tryz](https://grindwittryz.square.site/) [🧭](https://maps.apple.com/?daddr=GrindWitTryz,+4318+NE+Cully+Blvd,+Portland,+OR+97218) 🥡
-- [ ] [Kau Kau](https://www.kaukaupdx.com/damenu) [🧭](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211) 🥡❓
+- [ ] [Kau Kau](https://www.kaukaupdx.com/damenu) [🧭](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211) 🥡
 - [ ] [Ba Mee Thai Noodle House](https://bameethainoodle.com/menu/) 🥡❓
 - [ ] [Eem](https://www.eempdx.com/menu) [🧭](https://maps.apple.com/?daddr=Eem+-+Thai+BBQ+%26+Cocktails,+3808+N+Williams+Ave+%23127,+Portland,+OR+97227) 🍽️🥡❓
 - [ ] [Gado Gado](https://www.gadogadopdx.com/) 🍽️❓
@@ -350,6 +345,12 @@ https://vacation-rentals.sunriverresort.com/vrp/unit/2_Fir_Cone_Lane-501-15
 - [ ]	**15:00**	Buy Banchan	[Yoli](https://maps.apple.com/?daddr=Yoli,+1133+NW+Wall+St+%23100,+Bend,+OR+97703)
 ### 📅 **FRI**
 - [ ]	**18:00**	Dinner @ [Monkless Brasserie](https://maps.apple.com/?daddr=Monkless+Belgian+Ales+Brasserie,+Southwest+Industrial+Way+%23202,+Bend,+OR)
+### 📅 **SAT**
+- [ ]	**09:00**	Depart	
+- [ ]	**09:30**	Arrive [Bend Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+Northwest+Costco+Drive,+Bend,+OR)
+- [ ]	**13:00**	Arrive [Kau Kau](https://maps.apple.com/?daddr=Kau+Kau+PDX,+2026+NE+Alberta+St,+Portland,+OR+97211)
+- [ ]	**16:30**	Arrive [Tacoma Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+2219+S+37th+St,+Tacoma,+WA+98409)
+- [ ]	**17:30**	Arrive Home
 
 ## 🗺️ Beer Weekend Itinerary
 * 📅 **THU**

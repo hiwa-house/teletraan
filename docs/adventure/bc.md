@@ -11,23 +11,6 @@
 
 ## 🗺️ Itinerary
 
-### 📅 **SUN**
-- [ ]	**06:30**	Depart	
-- [ ]	**08:30**	Arrive [Bellingham Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
-- [ ]	**09:15**	Arrive [Peace Arch border crossing](https://maps.apple.com/?daddr=Public+Restrooms+-+Peace+Arch+Historical+State+Park,+19+A+St,+Blaine,+WA+98231)
-- [ ]	**10:00**	Arrive [Lansdowne T&T](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Unit+%23MAJ1,+8311+Lansdowne+Rd,+Richmond,+BC+V6X+3A4,+Canada)
-- [ ]	**11:30**	Arrive [Kirin Seafood](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)
-- [ ]	**13:00**	Arrive [Richmond Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)
-- [ ]	**15:30**	Arrive [Shopper's Drug Mart](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+1339+Pemberton+Ave,+Squamish,+BC+V8B+0J8,+Canada)
-- [ ]	**15:45**	Arrive [Backcountry Brewing](https://maps.apple.com/?daddr=Backcountry+Brewing,+405-1201+Commercial+Way,+Squamish,+BC+V8B+0V1,+Canada)
-- [ ]	**16:00**	Arrive [Independent Grocer](https://maps.apple.com/?daddr=Independent+Grocer+Pharmacy,+1900+Garibaldi+Way,+Garibaldi+Highlands,+BC+V0N+1T0,+Canada)
-- [ ]	**17:15**	Arrive [Whistler](https://maps.apple.com/?daddr=3201+Blueberry+Dr,+Whistler,+BC+V8E+0T4,+Canada)
-### 📅 **SUN** - **SAT**
-- [ ]	[World Ski & Snowboard Festival](https://wssf.com/schedule/)
-### 📅 **THU**
-- [ ]	**10:00 - 16:00**	Village Stroll [Demos & Samples](https://wssf.com/expo-partners/)
-- [ ]	**17:45**	Skier's Plaza [Competition Qualifiers](https://www.thegrindseries.com/upcoming-events/ski/whistler-2026)
-
 ## ✏️ Notes
 
 * [House Info](https://www.icloud.com/notes/062Amz2MZFND2IyqOCpDTakMA)
@@ -38,7 +21,7 @@
 * ***Costco Visa:*** No foreign transaction fees, works in [Canadian Costco](https://www.reddit.com/r/Costco/comments/zybgy4/canadian_costco_accepts_the_american_costco_citi/).
 * ***Schwab Debit:*** No ATM fees, no foreign transaction debit fees.
 * [Canadian food import restrictions](https://inspection.canada.ca/food-safety-for-consumers/bringing-food-into-canada-for-personal-use/eng/1389630031549/)
-* With ski box, avg 20 mpg.
+* With ski box, avg 20 mpg to Sun Peaks.
 
 ## 🥣 Dinner Menu
 
@@ -50,7 +33,7 @@
 
 * **BYO:** *Breakfast, Fruits, Snacks, Dessert*
 <!--
-* **Menu Ideas:** Burgers, Pasta, Tacos, Mac n' cheese, Donburi, Charcuterie board, Pancakes
+* **Menu Ideas:** Burgers, Pasta, Tacos, Mac n' cheese, Teri salmon, Poke, Donburi, Charcuterie board, Pancakes
 -->
 
 ## 🏙️ City Guide
@@ -111,14 +94,14 @@
 - [ ] [Twin Sails Brewing](https://twinsailsbrewing.com/) [🧭](https://maps.apple.com/?daddr=2821+Murray+St,+Port+Moody,+BC+V3H+1X3,+Canada)🍺❓
 ### Whistler
 - [ ] [Backcountry Brewing](https://backcountrybrewing.com/) [🧭](https://maps.apple.com/?daddr=1201+Commercial+Way,+Squamish,+BC+V8B+0A4,+Canada)🍺⭐
+- [ ] [Handlebar Pizza](https://handlebar.beer/) 🥡⭐
 - [ ] [Nester's Market](https://www.nestersmarket.com/) [🧭](https://maps.apple.com/?daddr=Nesters+Market+%26+Pharmacy,+Nesters+Road,+Whistler,+BC,+Canada)🛒🍷⭐
 - [ ] [Splitz Grill](https://splitzgrill.com/) [🧭](https://maps.apple.com/?daddr=Splitz+Grill,+4369+Main+St,+Whistler,+BC+V8E+1B7,+Canada)🥡⭐
+- [ ] [Blackcomb Liquor Store](https://blackcombliquorstore.com/) 🍷
 - [ ] [Outdoor Skating Rink & Sled Hill](https://whistler.ca/culture-recreation/facilities/outdoor-skating-rink/) 🏂
 - [ ] [Whistler Fire & Ice Show](https://www.whistlerblackcomb.com/explore-the-resort/activities-and-events/event-detail-page.aspx?id={4c81c1fb-8a80-44e4-a25b-ca93b99a6a65}&sd=02%2F18%2F2024&ed=02%2F24%2F2024) 🏂
-- [ ] [Blackcomb Liquor Store](https://blackcombliquorstore.com/) 🍷❓
 - [ ] [Chubby Ducks](https://chubbyducks.ca/) 🥡❓
 - [ ] [Functional Pie](https://functionalpie.ca/) 🥡❓
-- [ ] [Handlebar Pizza](https://handlebar.beer/) 🥡❓
 - [ ] [Hunter Gather](https://www.huntergatherwhistler.com/) 🍽️❓
 - [ ] [Meadow Park Sports Centre](https://whistler.ca/culture-recreation/facilities/meadow-park-sports-centre/pool/) 🏂❓
 - [ ] [Peaked Pies](https://www.peakedpies.com/) 🥡❓
@@ -278,6 +261,24 @@
 - [ ]	**14:30**	Arrive [Fresh Street Grocery Store](https://maps.apple.com/?daddr=Fresh+St.+Market+-+Kamloops,+Trans-Canada+Highway,+Kamloops,+BC,+Canada)
 - [ ]	**15:30**	Arrive [Stag's Head Liquor](https://maps.apple.com/?daddr=Stag's+Head+Liquor+Store,+Princeton-Kamloops+Highway,+Kamloops,+BC,+Canada)
 - [ ]	**16:30**	Arrive [Sun Peaks](https://maps.apple.com/?daddr=5035+Valley+Drive,+Sun+Peaks,+BC+V0E+5N0,+Canada)
+
+### 📅 **SUN**
+- [ ]	**06:30**	Depart	
+- [ ]	**08:30**	Arrive [Bellingham Costco](https://maps.apple.com/?daddr=Costco+Gas+Station,+4125+Arctic+Ave,+Bellingham,+WA+98226)
+- [ ]	**09:15**	Arrive [Peace Arch border crossing](https://maps.apple.com/?daddr=Public+Restrooms+-+Peace+Arch+Historical+State+Park,+19+A+St,+Blaine,+WA+98231)
+- [ ]	**10:00**	Arrive [Lansdowne T&T](https://maps.apple.com/?daddr=T%26T+Supermarket+Lansdowne+Store,+Unit+%23MAJ1,+8311+Lansdowne+Rd,+Richmond,+BC+V6X+3A4,+Canada)
+- [ ]	**11:30**	Arrive [Kirin Seafood](https://maps.apple.com/?daddr=Kirin+Seafood+Restaurant+(Richmond),+7900+Westminster+Hwy,+Richmond,+BC+V6X+1A5,+Canada)
+- [ ]	**13:00**	Arrive [Richmond Costco](https://maps.apple.com/?daddr=Costco+Wholesale,+9151+Bridgeport+Rd,+Richmond,+BC+V6X+3L9,+Canada)
+- [ ]	**15:30**	Arrive [Shopper's Drug Mart](https://maps.apple.com/?daddr=Shoppers+Drug+Mart,+1339+Pemberton+Ave,+Squamish,+BC+V8B+0J8,+Canada)
+- [ ]	**15:45**	Arrive [Backcountry Brewing](https://maps.apple.com/?daddr=Backcountry+Brewing,+405-1201+Commercial+Way,+Squamish,+BC+V8B+0V1,+Canada)
+- [ ]	**16:00**	Arrive [Independent Grocer](https://maps.apple.com/?daddr=Independent+Grocer+Pharmacy,+1900+Garibaldi+Way,+Garibaldi+Highlands,+BC+V0N+1T0,+Canada)
+- [ ]	**17:15**	Arrive [Whistler](https://maps.apple.com/?daddr=3201+Blueberry+Dr,+Whistler,+BC+V8E+0T4,+Canada)
+### 📅 **SUN** - **SAT**
+- [ ]	[World Ski & Snowboard Festival](https://wssf.com/schedule/)
+### 📅 **THU**
+- [ ]	**10:00 - 16:00**	Village Stroll [Demos & Samples](https://wssf.com/expo-partners/)
+- [ ]	**17:45**	Skier's Plaza [Competition Qualifiers](https://www.thegrindseries.com/upcoming-events/ski/whistler-2026)
+-->
 
 ---
  [🧭](https://maps.apple.com/?daddr=)

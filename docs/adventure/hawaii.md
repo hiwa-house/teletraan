@@ -7,15 +7,16 @@
 
 ### Self Care
 - [ ]	Aloha shirt
-- [ ]	Boxers
 - [ ]	Ball cap
 
 ## 🗺️ Itinerary
 * https://alaskaair.com/search/results?O=SA2&D=HNL&OD=2026-07-06&DD=2026-07-28&A=1&C=1&RT=true
+* https://www.costcotravel.com/h=4005
 * Arrive at SEA for bag drop/security no later than 1:45 before flight.
 * Arrive at HNL for bag drop/security no later than 1:30 before flight.
 
 ## ✏️ Notes
+* https://www.bishopmuseum.org/bricks/
 * https://mgfhawaii.org/prince-lot-hula-festival
 * https://www.honolulumagazine.com/oahu-bon-dance-schedule/
 * https://www.facebook.com/ThaiTempleHawaii/
@@ -63,6 +64,7 @@
 - [ ]	[Royal Kitchen](https://royalkitchenhawaii.com/) 🥐⭐
 - [ ]	Chau's Fresh Fruit [🧭](https://maps.apple.com/?daddr=Chau’s+Fresh+Fruit,+Maunakea+Street,+Honolulu,+HI) 🛒❓[ℹ️]("fresh mangos")
 - [ ]	[Green Island Cheesecake](https://www.clover.com/online-ordering/green-island-cheesecake-honolulu) 🥐❓
+- [ ]	[Lee Ho Fook]() 🥡❓[ℹ️]("minute chicken cake noodle")
 - [ ]	[Kahiau Poke](https://www.kahiaupoke.com/) 🥡❓
 ### Downtown
 - [ ]	[Irifune Restaurant](https://www.instagram.com/irifunerestaurant/) 🥡⭐
@@ -95,7 +97,6 @@
 - [ ]	[Yanagi Sushi](https://www.yanagisushi-hawaii.com/) 🍽️💕❓
 ### Kalihi
 - [ ]	[Monarch Seafood](https://www.monarchseafoods.com/) 🥡⭐
-- [ ]	[Nami Kaze](https://namikaze.com/) 🍽️⭐
 - [ ]	[Sugoi](https://sugoihawaii.com/) 🥡⭐
 - [ ]	[Utage](https://utagehawaii.com/) 🍽️⭐
 - [ ]	[Best Drive-In](http://www.bestdrivein.com/) 🥡
@@ -103,6 +104,7 @@
 - [ ]	[Helena's Hawaiian Food](https://helenashawaiianfood.com/) 🥡
 - [ ]	[Honolulu Beerworks](https://www.honolulubeerworks.com/) 🍽️🍺
 - [ ]	[Kamehameha Bakery](https://kamehamehabakery.store/) 🥐❓
+- [ ]	[‘ŌlenaHi](https://www.instagram.com/olenahi/) 🥡❓
 - [ ]	[U Kitchen](https://u-kitchen.res-menu.com/) 🥡❓
 ### Kāneʻohe
 - [ ]	[Inu Island Ales](https://inuislandales.com/) 🍺
@@ -136,6 +138,7 @@
 - [ ]	[Fujiya](https://www.fujiyahawaii.com/) 🥐⭐
 - [ ]	[Aliʻi Fish Market](https://www.aliifishmarket.com/) [🧭](https://maps.apple.com/?daddr=Alii+Fish+Market,+2320+S+King+St+Suite+H,+Honolulu,+HI+96826) 🥡
 - [ ]	[Bozu](https://bozu-japanese.res-menu.com/) 🍽️💕❓
+- [ ]	[Kahai Kitchen](https://kahaikitchen.com/) 🥡❓
 - [ ]	[Osoyami Bar & Grill](https://osoyami-bar-and-grill.square.site/) 🍽️❓
 ### Mililani
 - [ ]	[Paradise Ciders](http://www.paradiseciders.com/) 🍺❓
@@ -195,6 +198,8 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 - [ ]	download movies
 - [ ]	watch strap
 - [ ]	travel mouse
+- [ ]	game controller
+- [ ]	frisbee
 ---
 - [ ]	med insurance card
 - [ ]	passport
@@ -210,11 +215,10 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 - [ ]	grooming scissors/tweezer
 - [ ]	toothbrush/charger
 - [ ]	trimmer
-- [ ]	shaving kit
 ---
 - [ ]	sourdough
-- [ ]	bread flour, 1000g
-- [ ]	semolina, 120g
+- [ ]	bread flour, 1300g
+- [ ]	semolina, 140g
 - [ ]	thermapen
 - [ ]	gram scale
 - [ ]	kitchen knife

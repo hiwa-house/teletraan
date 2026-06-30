@@ -31,11 +31,9 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - Dream Scenario
 - The Artful Dodger
 - The Convert
-- Snack Shack
 - The Greatest Hits
 - Dune: Prophecy
 - Kinds of Kindness
-- Sausage Party: Foodtopia
 - A Different Man
 - Wolfs
 ---
@@ -65,8 +63,13 @@ $ifgreater(%disctotal%,1,$num(%discnumber%,2)x,)$if(%track%,$num(%track%,2) - ,)
 - The Bride!
 - The Death of Robin Hood
 - The Bluff
-- DTF St Louis
 - Digger
+- Scary Movie
+- Preschool
+- Remarkably Bright Creatures
+- Wild Horse Nine
+- The Invite
+- Balls Up
 
 ## 150 Greatest Science Fiction Movies of All Time (best->worst)
 1. 2001: A Space Odyssey

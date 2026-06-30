@@ -26,8 +26,11 @@
 * *Maintenance Interval:* 5,000 miles
 * *Maintenance Schedule:* ?
 * [Torque Spec Guide](https://www.tacomaworld.com/threads/the-torque-spec-guide.318116/)
-	* Front Shock Absorber Upper: 20 ft/lb
-	* Front Shock Absorber Lower: 61 ft/lb
+	* Front Shock Absorber Upper: 19mm, 20 ft/lb
+	* Front Shock Absorber Lower: 19mm, 61 ft/lb
+	* Front Lower Control Arm Frame Mount: 19mm, 100 ft/lb
+	* Front Lower Control Arm Wheel Mount: 19mm, 118 ft/lb
+	* Front Skid Plate, 12mm, 20 ft/lb
 	* Rear Spring U-Bolt: 22mm, 73 ft/lb
 	* Rear Brake Cable Bracket: 9 ft/lb
 	* Rear Leaf Spring (front/back): 19mm, 89 ft/lb

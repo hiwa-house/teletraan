@@ -8,6 +8,9 @@
 ### Self Care
 - [ ]	Aloha shirt
 - [ ]	Ball cap
+- [ ]	Slippahs (11.5), x2
+- [ ]	Rash guard
+- [ ]	Underwear for D?
 
 ## 🗺️ Itinerary
 * https://alaskaair.com/search/results?O=SA2&D=HNL&OD=2026-07-06&DD=2026-07-28&A=1&C=1&RT=true
@@ -185,8 +188,10 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 	6. Turn on laptop WiFi, then connect to WiFi network
 
 ## 🧳 Pack List
-- [ ]	omiyage, beer
+- [ ]	omiyage (office, piroshki)
+- [ ]	homebrew
 - [ ]	cash
+- [ ]	wallet
 - [ ]	gift cards
 - [ ]	library card
 - [ ]	CO₂ meter
@@ -199,7 +204,9 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 - [ ]	watch strap
 - [ ]	travel mouse
 - [ ]	game controller
+- [ ]	tripod
 - [ ]	frisbee
+- [ ]	football
 ---
 - [ ]	med insurance card
 - [ ]	passport
@@ -210,6 +217,7 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 - [ ]	covid tests
 - [ ]	nose spray
 - [ ]	vitamins
+- [ ]	fiber, 230g
 - [ ]	shampoo brush
 - [ ]	foot scrubber
 - [ ]	grooming scissors/tweezer
@@ -217,14 +225,15 @@ http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&v
 - [ ]	trimmer
 ---
 - [ ]	sourdough
-- [ ]	bread flour, 1300g
+- [ ]	bread flour, 1500g
 - [ ]	semolina, 140g
-- [ ]	thermapen
 - [ ]	gram scale
 - [ ]	kitchen knife
+- [ ]	hand blender
 - [ ]	tea pint
 - [ ]	tea strainer
 - [ ]	green tea, x6
+- [ ]	creatine
 - [ ]	water bottle
 ---
 - [ ]	sunglasses (all)

@@ -8,9 +8,14 @@
 ### Self Care
 - [ ]	Aloha shirt
 - [ ]	Ball cap
-- [ ]	Slippahs (11.5), x2
 - [ ]	Rash guard
-- [ ]	Underwear for D?
+
+## Empty Nest Buildings
+1. The Launiu
+2. Kōʻula
+3. Ālia
+4. Anaha
+5. Kaliʻu
 
 ## 🗺️ Itinerary
 * https://alaskaair.com/search/results?O=SA2&D=HNL&OD=2026-07-06&DD=2026-07-28&A=1&C=1&RT=true
@@ -94,9 +99,9 @@
 ### Kakaʻako
 - [ ]	[Hana Koa Brewing](https://www.hanakoabrewing.com/) 🍽️🍺⭐
 - [ ]	[Howzit Brewing](https://www.instagram.com/howzitbrewing/) 🍺⭐
+- [ ]	[Merriman's](https://www.merrimanshawaii.com/location/honolulu/) 🍽️🍹
 - [ ]	[Village Bottleshop](https://www.villagebeerhawaii.com/kakaako) 🍷⭐
 - [ ]	[Island Sausage](https://www.islandsausage.com/) 🥡❓
-- [ ]	[Merriman's](https://www.merrimanshawaii.com/location/honolulu/) 🍽️🍹❓
 - [ ]	[Yanagi Sushi](https://www.yanagisushi-hawaii.com/) 🍽️💕❓
 ### Kalihi
 - [ ]	[Monarch Seafood](https://www.monarchseafoods.com/) 🥡⭐

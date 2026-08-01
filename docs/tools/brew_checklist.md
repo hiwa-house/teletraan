@@ -65,7 +65,7 @@
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Mill grains into MLT.
 - [ ] Dose HLT with NaMeta.
-- [ ] Set Boil Kettle to MLT underlet pump flow, open HLT valve to flood pump line with strike water.
+- [ ] Set HLT to MLT underlet pump flow, open HLT valve to flood pump line with strike water.
 - [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM = 6-8% power).
 - [ ] Close MLT valve, turn off pump, then close Boil Kettle valve.
 - [ ] Add mash acid to MLT, stir mash gently to mix thoroughly, and cover with mash cap.
@@ -79,7 +79,6 @@
 ## 📋 mash out
 - [ ] Set HLT to MLT sparge pump flow, open Kettle valve to flood pump line with sparge water.
 - [ ] Open RIMS valve, and pump sparge water volume to MLT (0.6 GPM = 6% power).
-- [ ] Install edge drain dip tube in Boil Kettle.
 - [ ] Set MLT to Boil Kettle pump flow, open MLT valve, and flood pump line with wort.
 - [ ] Open Boil Kettle valve and pump wort volume to Kettle (0.6 GPM).
 - [ ] When Boil Kettle reaches pre-boil volume, close Boil Kettle valve, and turn off all pumps.
@@ -90,11 +89,9 @@
 - [ ] Add Fermcap (9 drops), and bring Boil Kettle to a rolling simmer with no lid.
 - [ ] Begin cleaning MLT and plumbing.
 - [ ] Add hops.
-- [ ] At 15 minutes before end of boil, flame out, measure wort volume, °B, and pH.
-- [ ] Adjust boil length as necessary, then re-ignite flame.
-- [ ] Add acid boil additions, Irish Moss (0:15), and ellagic acid/nutrient (0:06).
+- [ ] Add acid/Irish Moss (0:15) and ellagic acid/nutrient (0:06).
 - [ ] Begin sanitizing post-boil equipment, including wort chiller.
-- [ ] Flame out, measure wort volume.
+- [ ] Flame out, measure wort volume, °B, and pH.
 
 ## 📋 chill
 - [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 09:00 orientation.
@@ -110,7 +107,7 @@
 ## 📋 pitch
 - [ ] Strap temperature probe to fermenter, and chill wort in FV to fermentation temp if necessary.
 - [ ] Aerate wort with O₂ (4 mins at 0.25 L/min), wait 5 minutes, repeat aeration, wait 5 minutes again.
-- [ ] Pitch yeast.
+- [ ] Add FAA, then pitch yeast.
 - [ ] Link fermenter In post to serving keg Out post, and connect CO₂ to serving keg In post.
 - [ ] Pressurize and correct any leaks.
 - [ ] Remove CO₂, and connect blow-off to serving keg In post.

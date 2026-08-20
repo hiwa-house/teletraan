@@ -38,9 +38,13 @@ theme:
             icon: material/brightness-2
             name: Switch to system preference
 
+extra_css:
+    - stylesheets/city_guide.css
+
 extra_javascript:
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
     - javascripts/tablesort.js
+    - javascripts/extra.js
 
 markdown_extensions:
     # Python Markdown
@@ -52,6 +56,7 @@ markdown_extensions:
     - tables
     - toc:
         permalink: true
+        toc_depth: 3
 
     # Python Markdown Extensions
     - pymdownx.details
@@ -70,6 +75,7 @@ markdown_extensions:
 plugins:
     - awesome-pages:
         collapse_single_pages: true
+    - macros
     - search
     - table-reader:
         data_path: "docs"

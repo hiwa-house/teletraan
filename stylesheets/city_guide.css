@@ -1,0 +1,112 @@
+/* Container & Native Heading Integration */
+.city-guide-container { margin: 0.5rem 0; }
+.city-guide-container h3 { 
+  margin-top: 1.5rem !important; 
+  margin-bottom: 0.4rem !important;
+}
+
+/* Filter Bar */
+.filter-chip-bar { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; margin-bottom: 1rem; }
+.filter-label { font-weight: bold; margin-right: 0.3rem; font-size: 0.8rem; }
+.chip { 
+  border: 1px solid var(--md-default-fg-color--lightest) !important; 
+  background: var(--md-bg-color) !important; 
+  color: var(--md-typeset-color) !important; 
+  padding: 0.15rem 0.5rem !important; 
+  border-radius: 12px !important; 
+  font-size: 0.75rem !important; 
+  cursor: pointer; 
+  transition: all 0.15s ease; 
+}
+.chip.active, .chip:hover { 
+  background: var(--md-typeset-a-color) !important; 
+  color: white !important; 
+  border-color: transparent !important; 
+}
+
+/* Places List Layout */
+ul.place-list { list-style: none !important; padding-left: 0 !important; margin: 0.3rem 0 1rem 0 !important; }
+li.place-item { 
+  list-style: none !important; 
+  border-bottom: 1px dashed var(--md-default-fg-color--lightest); 
+  padding: 0.4rem 0 !important; 
+  margin: 0 !important; 
+}
+li.place-item:last-child { border-bottom: none; }
+
+/* Place Typography & Bullet */
+.place-row { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.4rem; }
+.place-main { font-size: inherit; font-weight: inherit; line-height: 1.4; }
+.place-bullet { color: var(--md-typeset-a-color); font-size: 1.2em; margin-right: 0.35rem; display: inline-block; }
+.place-name { font-size: inherit; font-weight: inherit; }
+.map-link { margin-left: 0.25rem; text-decoration: none !important; font-size: 0.85em; }
+
+/* Micro Badges */
+.badge-group { display: flex; flex-wrap: wrap; gap: 0.25rem; }
+.badge { 
+  font-size: 0.7rem !important; 
+  padding: 0.08rem 0.4rem !important; 
+  border-radius: 4px !important; 
+  font-weight: 500; 
+  display: inline-flex; 
+  align-items: center; 
+  gap: 0.2rem; 
+  line-height: 1.2;
+}
+.badge-winnah { background: #d1fae5 !important; color: #065f46 !important; }
+.badge-solid { background: #e2e8f0 !important; color: #334155 !important; }
+.badge-untested { background: #f3f4f6 !important; color: #4b5563 !important; }
+.badge-service { background: #e0f2fe !important; color: #075985 !important; }
+.badge-type { background: #fef3c7 !important; color: #92400e !important; }
+
+/* Interactive Native-Style Micro Notes */
+details.compact-notes, 
+details.compact-notes[open] { 
+  background: transparent !important; 
+  border: none !important; 
+  box-shadow: none !important; 
+  margin: 0.25rem 0 0 1.5rem !important; /* Indented deeper than place name */
+  padding: 0 !important; 
+}
+details.compact-notes summary { 
+  cursor: pointer; 
+  font-weight: 500; 
+  font-size: 0.75rem !important; 
+  color: var(--md-default-fg-color--light) !important; 
+  padding: 0 !important; 
+  background: transparent !important; 
+  border: none !important; 
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.2rem;
+  user-select: none;
+  transition: color 0.15s ease;
+}
+details.compact-notes summary:hover {
+  color: var(--md-typeset-a-color) !important;
+}
+details.compact-notes summary::before,
+details.compact-notes summary::after { 
+  display: none !important; 
+}
+
+/* Arrow indicator rotation on toggle */
+.note-toggle-icon {
+  display: inline-block;
+  font-size: 0.7rem;
+  transition: transform 0.15s ease;
+}
+details.compact-notes[open] .note-toggle-icon {
+  transform: rotate(90deg);
+}
+
+/* Indented callout body */
+details.compact-notes p { 
+  margin: 0.25rem 0 0 0 !important; 
+  font-size: 0.82rem !important; 
+  line-height: 1.35 !important;
+  color: var(--md-typeset-color);
+  opacity: 0.85;
+  border-left: 2px solid var(--md-default-fg-color--lightest);
+  padding-left: 0.5rem;
+}

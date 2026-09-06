@@ -1,41 +1,40 @@
 # Hawaii
 
-## 🛍️ Omiyage
-- [ ]	https://www.instagram.com/kimmiskookies/  
-- [ ]	https://hawaii.com/things-to-do-oahu/farmers-markets/  
-- [ ]	https://www.honolulumagazine.com/oahu-foodie-omiyage/  
-
 ## 🗺️ Itinerary
 * https://alaskaair.com/search/results?O=SA2&D=HNL&OD=2026-07-06&DD=2026-07-28&A=1&C=1&RT=true
-* https://www.costcotravel.com/h=4005
+* https://costcotravel.com/h=4005
 * Arrive at SEA for bag drop/security no later than 1:45 before flight.
 * Arrive at HNL for bag drop/security no later than 1:30 before flight.
 
 ## ✏️ Notes
-* https://www.bishopmuseum.org/bricks/
 * https://mgfhawaii.org/prince-lot-hula-festival
-* https://www.honolulumagazine.com/oahu-bon-dance-schedule/
-* https://www.facebook.com/ThaiTempleHawaii/
-* https://www.himb.hawaii.edu/visit/walking-tours/
-* https://www.genkialawai.org/
+* https://honolulumagazine.com/oahu-bon-dance-schedule/
+* https://facebook.com/ThaiTempleHawaii/
+* https://himb.hawaii.edu/visit/walking-tours/
+* https://genkialawai.org/
 * https://kakoooiwi.org/
-* https://www.atlantisadventures.com/kamaaina
+* https://atlantisadventures.com/kamaaina
 * https://honolulumagazine.com/where-to-find-outdoor-dining-in-kaimuki-and-kahala/  
 * https://honolulumagazine.com/where-to-find-outdoor-dining-in-waikiki-kapahulu-and-monsarrat/  
 * https://honolulumagazine.com/where-to-find-outdoor-dining-in-manoa-moiliili-and-mccully/  
 * https://hawaii.webrender.net/maps/oahu
 
-### Self Care
-- [ ]	Aloha shirt
-- [ ]	Ball cap
-- [ ]	Rash guard
-
-### Empty Nest Buildings
+### Empty Nest Building Research
 1. The Launiu
 2. Kōʻula
 3. Ālia
 4. Anaha
 5. Kaliʻu
+
+## 🛍️ Omiyage Ideas
+- [ ] https://instagram.com/kimmiskookies/  
+- [ ] https://hawaii.com/things-to-do-oahu/farmers-markets/  
+- [ ] https://honolulumagazine.com/oahu-foodie-omiyage/  
+
+## 🏪 Shopping List
+- [ ]	Aloha shirt
+- [ ]	Ball cap
+- [ ]	Rash guard
 
 ## 🥣 Dinner Menu
 * For potluck, takeout often cheaper than cooking.
@@ -610,27 +609,12 @@
 {% endfor %}
 
 <!--
-## 🏪 Sundries
 https://us-honolulu.bedpage.com/bodyrubs/near-waikiki/13241823.html
-https://honolulu.craigslist.org/oah/bts/d/fort-shafter-the-best-massage-in-kalihi/7851267403.html
-http://www.usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&viewfull=1#post7230596
+http://usasexguide.nl/forum/showthread.php?30937-Massage-with-HE&p=7230596&viewfull=1#post7230596
 -->
 
-## 🛜 Inflight WiFi
-* T-Mobile (Experience Beyond/More plan) phone #
-* View MacOS WiFi interface info: Option-click WiFi icon in the menu bar
-1. Safari Developer Mode *(Settings > Advanced > Show Develop)* and set user agent to iPhone/iOS
-2. MAC Spoofing
-	1. Record phone MAC (9E:27:5E:2D:06:56)
-	2. Turn off phone WiFi
-	3. Disconnect from WiFi network, then turn off laptop WiFi
-	3. ```sudo /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -z```
-	4. ```sudo ifconfig en0 ether AA:BB:CC:AA:BB:CC```
-	5. ```sudo ifconfig en0 lladdr AA:BB:CC:AA:BB:CC```
-	6. Turn on laptop WiFi, then connect to WiFi network
-
 ## 🧳 Pack List
-- [ ]	omiyage (office, piroshki)
+- [ ]	omiyage
 - [ ]	homebrew
 - [ ]	cash
 - [ ]	wallet

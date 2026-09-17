@@ -79,3 +79,6 @@ plugins:
     - search
     - table-reader:
         data_path: "docs"
+
+static_templates:
+    - docs/tools/emom-timer.html

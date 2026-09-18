@@ -73,7 +73,8 @@ markdown_extensions:
         clickable_checkbox: true
 
 plugins:
-    - awesome-nav
+    - awesome-nav:
+        filename: .pages
     - macros
     - search
     - table-reader:

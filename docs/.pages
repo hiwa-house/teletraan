@@ -4,7 +4,8 @@ nav:
     - manuals
     - adventure
     - leisure
-    - tools:
+    - Tools:
+        - Brew Checklist: tools/brew_checklist.md
         - EMOM Timer: tools/emom-timer.html
         - Notes to MD: tools/notes-to-markdown.html
         - QR Code Gen: tools/qr-code-generator.html
